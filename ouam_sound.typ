@@ -2211,6 +2211,7 @@ A COZY INN...
 
 #box(stack(
   dir: ltr,
+  spacing: 0.5em,
   [
     $ lr(\{, size: #1900%) $
   ],
