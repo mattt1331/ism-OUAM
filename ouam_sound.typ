@@ -1,5 +1,5 @@
 #import "./script_fmt.typ": *;
-#show: script();
+#show: script;
 
 #tpp[1]
 = ACT ONE
@@ -1586,7 +1586,7 @@ Lots.
 #dX[DAUNTLESS]
 Dogs?
 
-#dX[WINNIFRED
+#dX[WINNIFRED]
 Frogs...
 
 == Music 8: THE SWAMPS OF HOME
@@ -1600,7 +1600,7 @@ GLUE
 
 #tpp[25]
 
-#dX[Labies]
+#dX[LADIES]
 OOH-OOH-OOH!
 
 #dX[WINNIFRED]
@@ -1619,7 +1619,7 @@ FROM FAR AWAY...
 #dX[LADIES]
 FROM FAR AWAY...
 
-#dX[WINNIFRED
+#dX[WINNIFRED]
 IN MY SOUL IS THE BEAUTY OF THE BOG.\
 IN MY MEM'RY THE MAGIC OF THE MUD.
 
@@ -2096,124 +2096,160 @@ Quicksand?
 #dX[KING]
 (Sinks)
 
-Music 12: NORMANDY
+== Music 12: NORMANDY
 
-MINSTREL: Beyond the . . .
-(Sung)
-- - - WALL WHICH YOU MUST CLIMB.
+#dX[MINSTREL]
+Beyond the...\
+...WALL WHICH YOU MUST CLIMB.
 
-LARKEN: Climb?
+#dX[LARKEN]
+Climb?
 
-MINSTREL: IT’S TWENTY-TWO FEET AND COVERED WITH
-SLIME. . .
+#dX[MINSTREL]
+IT’S TWENTY-TWO FEET AND COVERED WITH\
+SLIME...
 
-LARKEN: Slime?
+#dX[LARKEN]
+Slime?
 
-MINSTREL: . . . AND INFESTED WITH SPIDERS.
+#dX[MINSTREL]
+...AND INFESTED WITH SPIDERS.
 
-LARKEN: Spiders?
-MINSTREL: Oh, the spiders are sweet . . .
-(Sung)
-... COMPARED TO THE SNAKES . . .
+#dX[LARKEN]
+Spiders?
 
-LARKEN: Snakes?
-MINSTREL: . . . ON THE OTHER SIDE.
+#dX[MINSTREL]
+Oh, the spiders are sweet...\
+...COMPARED TO THE SNAKES...
 
-JESTER: Oh, they won’t hurt you, unless of course you plan to go alone.
-LARKEN: Well, I did, but if I'd known it was so terrible out there . . .
+#dX[LARKEN]
+Snakes?
 
-MINSTREL: THEN YOU’D THINK A SECOND THOUGHT AND COME
-WITH ME.
+#dX[MINSTREL]
+...ON THE OTHER SIDE.
 
-I KNOW ALL THE SECRET WAYS TO GET US FREE.
+#dX[JESTER]
+Oh, they won’t hurt you, unless of course you plan to go alone.
+
+#dX[LARKEN]
+Well, I did, but if I'd known it was so terrible out there...
+
+#dX[MINSTREL]
+THEN YOU’D THINK A SECOND THOUGHT AND COME WITH ME.\
+I KNOW ALL THE SECRET WAYS TO GET US FREE.\
 OVER THE HILLS AND TO THE OPEN SEA.
 
-LARKEN: Then where?
-MINSTREL: It’s April, isn’t it?
-LARKEN: April?
+#dX[LARKEN]
+Then where?
 
-P S P P P P S e T O B B R B R R R R R A W
-Scene 7
+#dX[MINSTREL]
+It’s April, isn’t it?
 
-33
+#dX[LARKEN]
+April?
 
-MINSTREL & JESTER:
-NORMANDY
-IS FINE AND FAIR,
-SO NORMANDY
+#tpp[33]
+
+#dX[MINSTREL & JESTER]
+NORMANDY\
+IS FINE AND FAIR,\
+SO NORMANDY\
 IS WHERE WE'LL GO.
-MINSTREL: I CAN SHOW YOU A BEACH
-WHERE THE PEACH BLOSSOM BLOWS.
-AND I KNOW HOW TO REACH
-A MAN WHO KNOWS A MAN WHO KNOWS
+
+#dX[MINSTREL]
+I CAN SHOW YOU A BEACH\
+WHERE THE PEACH BLOSSOM BLOWS.\
+AND I KNOW HOW TO REACH\
+A MAN WHO KNOWS A MAN WHO KNOWS\
 A COZY INN,
-JesTER: A FRIENDLY PLACE
-MINSTREL & JESTER:
-WITH ROWS OF WINDOWS FACING THE SEA.
-THIS TIME OF YEAR
-THE AIR, I HEAR, IS RARE AND CLEAR
-AND WARM
+
+#dX[JESTER]
+A FRIENDLY PLACE
+
+#dX[MINSTREL & JESTER]
+WITH ROWS OF WINDOWS FACING THE SEA.\
+THIS TIME OF YEAR\
+THE AIR, I HEAR, IS RARE AND CLEAR\
+AND WARM\
 IN NORMANDY!
-MINSTREL: ] KNOW A MEADOW COVERED WITH MUSTARD
-FLOWERS,
-GOLDEN AS THE SUN,
-WHERE A WONDROUS THING CAN HAPPEN
-WHEN AN APRIL DAY IS DONE.
-THERE’S A MOMENT AFTER THE SUNSET
-WHEN THE SKY IS SUDDENLY GREEN
 
-AND THE WORLD STANDS HUSHED AND WAITING
-
-FOR THE FIRST WHITE STARS TO CONVENE.
-WHEN YOU SEE THAT EM'RALD SKY
-
-YOU’LL KNOW THE REASON WHY
-
+#dX[MINSTREL]
+I KNOW A MEADOW COVERED WITH MUSTARD FLOWERS,\
+GOLDEN AS THE SUN,\
+WHERE A WONDROUS THING CAN HAPPEN\
+WHEN AN APRIL DAY IS DONE.\
+THERE’S A MOMENT AFTER THE SUNSET\
+WHEN THE SKY IS SUDDENLY GREEN\
+AND THE WORLD STANDS HUSHED AND WAITING\
+FOR THE FIRST WHITE STARS TO CONVENE.\
+WHEN YOU SEE THAT EM'RALD SKY\
+YOU’LL KNOW THE REASON WHY\
 THERE’S NOT ANOTHER PLACE I'D RATHER BE.
 
-JESTER: Keep your Eldorado!
+#dX[JESTER]
+Keep your Eldorado!
 
-MINSTREL & JESTER:
-AND TO HELL WITH BURGUNDY!
-
+#dX[MINSTREL & JESTER]
+AND TO HELL WITH BURGUNDY!\
 COME FLY WITH ME,
-JESTER: COME TRY THOSE WINGS,
-MINSTREL & JESTER:
-COME SWIFT, FOR WE
+
+#dX[JESTER]
+COME TRY THOSE WINGS,
+
+#dX[MINSTREL & JESTER]
+COME SWIFT, FOR WE\
 HAVE THINGS TO DO.
-LARKEN: IS THERE TRULY A BEACH
-WHERE THE PEACH BLOSSOM BLOWS?
-ARE YOU SURE YOU CAN REACH
-AMAN WHO KNOWS A MAN WHO KNOWS
-ACOZYINN...
-tiirdant Muasin
 
-34 Act One
+#dX[LARKEN]
+IS THERE TRULY A BEACH\
+WHERE THE PEACH BLOSSOM BLOWS?\
+ARE YOU SURE YOU CAN REACH\
+AMAN WHO KNOWS A MAN WHO KNOWS\
+A COZY INN...
 
-MINSTREL: THERE’S JESSAMINE AND . . .
+#tpp[34]
 
-LARKEN: ...THAT FRIENDLY PLACE. ..
+#stack(
+  dir: ltr,
+  [
+    $ lr(\{, size: #1900%) $
+  ],
+  [
+    #dX[MINSTREL]
+    THERE’S JESSAMINE AND...
 
-JESTER: ... WHITE LILAC LACE AND
+    #dX[LARKEN]
+    ...THAT FRIENDLY PLACE...
 
-LARKEN: ... WITH ROWS OF WINDOWS FACING THE SEA.
-MINSTREL & JESTER:
+    #dX[JESTER]
+    ...WHITE LILAC LACE AND
 
-... ROWS OF WINDOWS FACING THE SEA.
-ALL THREE: THIS TIME OF YEAR THE AIR, I HEAR, IS RARE AND
-CLEAR. ..
+    #dX[LARKEN]
+    ...WITH ROWS OF WINDOWS FACING THE SEA.
 
-LARKEN: ... AND WARM.
-MINSTREL & JESTER:
+    #dX[MINSTREL & JESTER]
+    ...ROWS OF WINDOWS FACING THE SEA.
+  ],
+)
 
-DON'T BE AFRAID . . .
-LARKEN: IIT'S WARM. ..
-MINSTREL & JESTER:
 
-HEAVEN WAS MADE . . .
+#dX[ALL THREE]
+THIS TIME OF YEAR THE AIR, I HEAR, IS RARE AND CLEAR...
 
-ALL THREE:. . . IN NORMANDY!
-(LARKEN, KING, MINSTREL exif DOWN LEFT)
+#dX[LARKEN]
+...AND WARM.
+
+#dX[MINSTREL & JESTER]
+DON'T BE AFRAID...
+
+#dX[LARKEN]
+IT'S WARM...
+
+#dX[MINSTREL & JESTER]
+HEAVEN WAS MADE...
+
+#dX[ALL THREE]
+...IN NORMANDY!
 
 Scene 8
 
@@ -2477,7 +2513,7 @@ HO!
 (WINNIERED ad libs on lute, while 61t1 and 77H DUOS tap their
 feet in rhythm)
 
-s s e e @00 ERSRRKRRNR”
+s s e e ERSRRKRRNR”
 ARARARRARRRRRRRARRRERRRRRERRR RN RN RSN DR
 
 Scene9 39
@@ -2552,7 +2588,7 @@ QUIET! QUIET!
 THE QUEEN INSISTS ON
 QUIET (ETC.)
 
-= _------.-a.ﬁﬁﬂ““"(““““““'
+= ------.-a.ﬁﬁﬂ““"(““““““'
 Scene 1 41
 
 4TH GROUFP:
@@ -3178,49 +3214,6 @@ Mama told me about that years ago.
 
 rararareaererear e SN N BEEEREEREEEEEEEEEEEEEEEEEE B BN BB NBNBNMNEN B W B
 )
-n
-)
-)
-
-)
-)
-3
-»
-D
-D
-»
-P
-»
-»
-)]
-»
-&
-@
-®
-®
-= i
-2l
--
-=
-<%
-=
--
--
--
--
-=4
-. )
--
--
-)
-)
-v
-> )
->
-)
-o
--
--
 
 Scene 4 51
 
@@ -3975,7 +3968,7 @@ DELICATE AND DAINTY AS A DRAGONFLY’S WING.
 YOU CAN RECOGNIZE A LADY BY HER ELEGANT AIR
 BUT A GENUINE PRINCESS —
 
-(WINNIFRED $Hores)
+(WINNIFRED snores)
 ALL: IS EXCEEDINGLY RARE!
 
 (Curtain)
@@ -3984,1529 +3977,3 @@ END OF ACT TWO
 
 Music 24: BOWS AND EXIT MUSIC
 
-P S W W W WY W W W Wy W Y B B B OB O N F T Y T T PP YT U Y wTwwszFTS
-Musical Program
-ACT I
-No.
-1. Overture .
-2. ProLOGUE: Many Moons Ago .
-3. Opening For A Princess .
-4. In A Little While .
-5. Reprise: In A Little While .
-6b The Minstrel, The Jester And I
-7. Sensitivity g
-8. The Swamps Of Home .
-9. Fight-Fight .
-10. — Dance: Spanish Panic .
-11, Tents .
-12. Normandy
-13. —Dance: Spanish Panic No. 2 .
-14. Song Of Love .
-
-15.
-16.
-17.
-18.
-19.
-
-20.
-21,
-22.
-
-22a.
-
-23.
-24,
-
-ACT II
-
-Entr'acte .
-
-Opening Act II .
-
-Happily Ever After .
-
-Man To Man Talk .
-
-Very Soft Shoes .
-
-— Dance oo D py
-Three O'clock In The Morning .
-Yesterday 1 Loved You .
-Nightingale Lullaby .
-
-Wizard :
-
-Finale
-
-Bows and Exit Music .
-
-page
-
-29
-31
-34
-37
-38
-39
-39
-43
-43
-44
-45
-ONCE UPON A MATTRESS
-
-No. 1 Overture
-g : 129
-)
-altacca
-No. 2 Prologue—Many Moons Ago
-Brightly
-
-sighed "a - las" And he pined a - las, But a - las, the prince could-n't
-
-—
-find a lass Who would suit his moth - er's pride. For a
-
-prin - cess s a  del-{-cate thing, Del -i-cate and dain-ty as a
-
-dra-gon fly's wing. Youcan re-cog-nize a la-dy by her el-e-gant air, But a
-E I26] Keep moving
-
-gen-u-ine prin-cess is ex - ceed-ing - ly rare,
-
-night, to the cas - tle door, Came the
-
-queen  was cool and re - mained a - loof And she said: "Per - haps, but she'll
-
-es up-on her bed And be - tween those twen-ty mat-tress-es I'll placea ti - ny pea. If that
-
-@] a tempo s
-=== E=—ss ===
-pea dis-turbs her slum-ber,thena true prin-cess is she.
-
-I
-Now,the bed was soft and ex - treme-ly tall, But the dain -ty lass did-n't
-
-sleep at all, And she told them so next Said the queen: "My
-
-dear, if you
-
-@’é"*r—:‘% ?@fé( =
-
-felt  that pea, Then we've proof e - nough of your roy - al - ty, Let the
-
-T eanscsscsccsccscsccceeed eI eeeCEELELELNNNN"
-g T W Ve v e v
-: v v v v v
-LA 2B 2 B B 28 B B N B B A
-
-: I EE—
-' And the peo-ple shout-ed qui-et - ly:"Hoo-ray!"
-
-wed-ding mu-sic play.’
-
-No. 3 Opening For A Princess
-
-Cue: QUEEN: Now, don't dilly-dally, Dauntless. It's n
-Moderato
-
-early time for your cocoa.
-
-Repeat ad lib - -
-- - fade out as curtain 7ises.
-
-2 E B £ L R J & & & & B A B & A B B A B A A B A A A Al et e e
-
-q =
-n = :
-z 5 3 2 Z
-> = g
-2 : 2
-@ el ~ i
-3 2 ) A : £ s
-g 8 8 2 R
-g a 2 =
-() % 3 M
-2 E e 5 5
-2 5 g 3
-= ) = s :
-o S 3 & .
-: =2
-5 _ _
-. e .
-Q o o 3
-= E ] & :
-=
-o M z =
-e . .mn i
-3 < = « 2
-= = _ s ;-
-2 ? % & k) -
-k 2 1 E B
-] % 3 . %
-w & =
-1 = m
-5 Wl g g IT
-B 8 2 e :
-z I £
-> a o po 3 _
-I 2 3 p .
-£ = £ e 3 X
-w & o 8 P
-~ < a & ; m
-) o 5
-p) : n
-- . I s
-: § kS B =
-5 9 5 g s
-O 2 1 5 :
-ad —
-1
-D) o
-)
-IS 2 2
-= ot
-A 1
-g «
-2 O ., _
-< S g
-= 4] m
-g 8
-3 I
-s 3 I
-T i 1
-r f El 3
-£ i . E
-4 a, I A W
-a
-1 - 3
-H Lov] .n g
-E - 2 = g
-) &
-
-)
-1!
-
-58} LADIES:
-E= = =—=—_S55
-
-Four, eight, ten, e -lev-en,
-KNIGHTS:
-
-ﬁ;_—;ﬁﬁi—"—:ﬁﬂ—:@
-
-Pi-ty the gen - tle -men two. Six, eight, ten, e -lev-en,
-LADIES
-= - — -
-= ——
-twelve con - ten - ders in a L ——
-
-KNIGHTS:
-
-oa
-
-con - ten - ders in  a row, —————— They came, they were
-
-Then swift-ly re-quest-ed to
-
-la - dies
-
-re hav - in' an - an -y,
-
-is get -ting an-y young - er, it's been
-prin-cess Who's good e-nough, nice e - nough, sweet e -nough, smart e- nough,
-
-—
-
-I {57
-
-tich e - nough for our poor prince.
-
-No. 4 In A Little While
-
-Cze: LARKEN: Oh! Harry!
-
-Ad Iib. (J—j > T’F)
-
-l-"_i,ﬂﬁ
-
-v
-It won't be long, it won't be long, It
-
-won't be-cause it can't be long Be - fore our dreams come true.
-
-You and I will be one,two, three, four. . In a lit-tle while,
-
-way I have it planned. But ' on - lysuay in love I the
-
-L e 2 e e e 8828893883 R IR IR IR SN
-I dh S ah ah dh R Jh b Jb 40 4B 28 2 B B N = BN B B B E B B B B B R EEEEESE'N'N;N,]
-
--LARKEN
-e gﬁﬂ SESS==
-i
-glove con-tains your  hand. In a vel-vet gown I'll be com-ing down the
-A= ==trpaie il
-aisle it's bound to seem as though the wait-ing's on- ly
-
-- HARRY: Have you any idea how soon, my love?
-
-= pi=
-
-beex.xa lit-tle, In a lit-tle while.
-LARKEN: HARRY:
-
-November. November?  LARKEN: @
-
-Still I wish you'd hur - ry, Har - ry, Har - ry, mar - ry me,
-45 HARRY:
-
-In a lit-tle while, Just a lit-tle while, You and I will be  one, two, three, four.
-
-- er hand in glove I have it planned.
-IK_,qon - ly stay in love the glove con-tains your
-
-T—L:FE E‘EFE
-
-Ican see it all, Down to ev-'rysmallde - tail, wish you'd
-
-look a-round Un-til you've found a  cas<tle In the neigh-bor-hood for sale.
-
-(Dim out pit lights)
-No. 5 In A Little While—Reprise
-
-Cue: LARKEN: I believe you.
-
-Slow
-3 lowly 8 dialogue continues~ ~ -
-@
-I7] LARKEN:
-41 P——— I—
-P —— ——————
-T T = ———
-In a2 lit - te while, Just a it - tle while, You and I will be
-
-HARRY:
-
-one, two, three,
-
-glove
-
-con-tains your hand.
-
-5 it's bound to  seem as tho'
-
-No. 6 Shy
-
-cue: WINNIFRED: Anyway,here I am.Who's the lucky man?
-Moderaze 2
-
-Hey, non - ny, non - ny, {s it
-
-you? Hey, non -ny,
-
-the wait-ing's on - ly
-
-non - ay.
-
-four. In a2 lit-tle while 1 will see your smile
-
-non - ny,
-B O o R b T B e et o B L A
-
-WINNIFRED: KNIGHT:
-T —
-ﬁ‘zﬂ—@:ﬁw ESE=————ct————
-no! Hey, non - ny, non - ny, is it you? Hey, non - ny, non - ny, non~ ny,
-WINNIFRED
-.
-
-AESSSStas ;FTBI—J_-‘:&LT;% ]
-no! Hey, non- ny, non -ny, is it or or you, or you, or
-DAUNTLESS: (spok?nl QUEEN: No, Nt'l. 2l No!
-
-e — .LFJ_L'A._—I
-
-e g{I;ijc ==
-
-Non - ny, nee - oy, noo-ny, NOn-ny, nee-ny, non-ny, Noo-ny,
-4 I2d] WINNIFRED:
-Some - one's
-
-@ﬁ%ﬁ . E———
-bash - tul.\__/__ That's no way , 'w \
-
-+ B4 ,'4 {6t o
-
-I can un - der - stand your point of view: I've al -ways been
-
-I Moderately fast$ — 3 — r".?"\ —3— —3—
-
-shy, 1 con-fessit, I'm shy! Can't you guess that this
-
-@%-57 —3— r-aﬁ_.—a—I
-
-con- fi -dent alr a mask that 1 wear, 'cause I'm shy"
-. And you may be sure: way down deep I'm de -
-9
-=3 wr=dven
-
-@g_ﬂ,ﬁ:r-;— =t === iE
-
-mure. Though some peo=ple 1 know might de -ny it,
-_,_":'3——' — 33— —3— 3
-=
-¥__—/
-Q] bot-tom I'm qui-et and pure! I'm a - ware that W
-wrong to be meekas I am; My chanc-¢s may pass me by. [ pre-tend to be
-
-but as weak as I am, All T can do is try. God knows I
-
-5 T ey AR e L SR N Ty
-
-t
-
-Though I'm  fright - ened and shy
-
-ry! _—
-
-et ) r—"a 1—‘—3—1 —3— —3— —3—
-T ——
-
-= === S==————-=:==°
-
-— And de-spite the im - pres-sion I give, I con - fess that I'm llv-lng a
-Rubato
-—3—= —3—= —3— r——3
-lie, Be-cause I'm zc-tual-l ter =ri-bl; ti-mid and hor - 1
-IZE] Modera(ez 3 Y 2 IR R
-¥ .
-T'hough a
-g E==c=—m=————c
-- dy may be drip - ping with gla - mour, As
-@*"w“f‘*“ e =
-she - 'l stum -
-
-and  stam - mer When
-
-%ﬁmgi% ==
-
-sud - den=- ly con - front -ed with ro - mW
-
-—_— she's
-___”_,.t_A ——
-= :J u, j—‘— o j% —= == :_L%
-—
-like - on her face — —— When  she's
-
-10
-
-agqgesqasNs
-messssEs
-
-- nal-ly face face with a
-: . 3— I@
-Quite oft - en the la - dy's not as
-
-I'm go- ing fish - ing for a mate. She's go - in' fish - ing for a
-WINNIFRED: KNIGHTS:
-
-mate. I'm gon - na look in ev - 'ty
-WINNIFRED:
-
-I wait With bait - ed
-
-brook. But how much long-er must
-
-shy, I'm in-sane to know
-
-why, Though I'm pain-ful-ly
-{igg) Pill mosso - Charleston beat KNIGHT: AGAFREDS
-
-Which sir7- You, sir?_  Not 1, sir._ Then who, sir 7
-Where, sl\"f And when, sir?_ 1 could - n't— be tens - er,— So
-
-11
-e Inoonan
-
-097
-EE =SS ﬁ{iif?ilitﬁy— SI
-Let's get_  this man, on with . the
-KNXGHTS & LADIES: The la - dy is one man
-
-No. 6a Fanfare
-
-cue: QUEEN: When you marry - if you marry - - you'll marry a real princess, you'll - - -
-
-Piano
-
-No. 6b The Minstrel, The Jester And I
-
-cue: MINSTREL: We know you can't talk - - (Dm!ague continues)  JESTER: You certainly do.
-MINSTREL and JESTER:
-
-===——"
-
-We have
-on - ly two voic - es a - mong us and yct There's a third voice: a
-voice in dis - pguise.— _  You'll hear - ing a tri -
-@L-r = M#T% === —
-If you lis -ten with  both of your eyes,
-— —— e y
-T MI gt
-2 Klnd-ly (lis - ten) with both of your (eyes.) — We pro -
-duce a __{ - nique and re - murk-a - ble blend When we raise our three
-
-L4
-In pantomime 12
-
-2099990208200 °0°0°0°0°00999449499994449494§94§999494499448444°
-B7
-g_gﬁ =S==————=———=——=——=
-voic - es  on high. We're in per -fect ac - cord from be -
-» JESTER:
-: ===t —z——
-gin - ning to (end) The King and the Min - strel and T o —
-BOTH: @5
-—— Yet if one of our tri - o should ev - er de - part, Then the
-
-We're like three diff-'rent peo- ple with
-
-oth - ers would lan-guish and die.
-* MINSTREL:
-
-—
-al - ways go (—) The king and the
-(The King pantomimes)
-Min - strel
-MINSTREL & JESTER: ool (simile)
-
-Oh, the vint - ner makes wine from the grapes that he ‘grows, Twen-ty
-
-13
-uaocuan
-
-'R R R EEREREREERREEER R R R R B AR LA A I At
-
-= . % n '
-i _w u E] 3
-i . 2
-2 3 i 4 ATs g
-_ 3 8 3 £%
-§ 2 Il g >3
-g I
-. : : S0
-g § I = : Z
-W'm. m .m I 1.!. m '
-L T E (e 5 :
-i I i 2
-2 a -4 8 2 3
-w
-= g _ _ly i 3 3 =
-sl T _m_m ) . 5
-5 _m -3 _ N . :
-_ i e be 153
-3 o ““_ £ § y 4 § 4
-v o wn
-n... y m. a3 o i ul g
-©opE RS ¢ gl & (N
-A & i
-H i 11 2 3 ¢ 3 ~
-H £ :
-= 3 - } 5
-g O Sl B i
-N, <
-
-I SN BN RN W N RN N W RN W TN AN AW I r TSNS NI WA W O r WS WA WAL WS WA W W W W T (W S O S T
-
-No. 7 Sensitivity
-cue: QUEEN: So we must think up a test that Moderato
-looks and and and isn't fair! Dialogue continues - Repeat ad lib,
-y fair sounds fair I seems fair 7
-I
-(on cue) (on cue)
-QUEEN: ki
-
-tt‘ In  this one word is the e~- pi - to - me
-
-sen - sSi - tive stom - ach, Sen - 8i - tive hands and feet;
-WIZARD: QUEEN:
-
-27
-
-lite. Com - mon peo - ple don't know what Ex-quis-ite a - gon -
-y ls: suf - fered by gen ~ tle peo - ple like ~me! Just
-e  — -——=——======
-B+ P
-1}
-get your hands off me. Think up a trick - y test for that wretch - ed
-WIZARD:
-moat swim -ming prin - cess. Ma - dame, may gest
-15
-lump, E - ven if it were un - der the mat -tress and small as a
-
-pea! That's the an - swerl Un - der the mat - tress - - - We'll test her to -
-
-mat - tress. Oh, God! You're bright! An -y gen - u - ine
-
-Prin - cess would feel it - - if she does-n't, she's through! Get the ti - ni- est
-
-WIZARD: Why not five ?
-@%ﬁjwﬁ —
-
-pea and or - der one mat - tress-No! Make it two!
-
-16
-
-soossonnsscseesecesesdtggeggddE I A IAQAYIEANNNNY
-Mf RS
-
-think would bc pleu 51 - Bet - ter
-@ ;; é {:@ z 5 1;—} = 1—32 == j E
-still, make it - ty _— to play it safe, in e -
-
-;é’% ====—-= ,;?qu:.t—ﬁ E%d‘ii
-
-vent e - ven that's not e - nough to in ~- sure that she sleeps, Wwe'll
-Bells
-a  sooth - ing sed - a - tive, won't we? You can whlp up a
-Spoken: WIZARD: QUEEN:
-@j ===
-drink. Some - thing stun ning: Ah - - Oh, but you're dev - lish.
-Sung:
-1 love the way you think. She's in - sén -si - tive, so in- sen- si -tive,
-‘ bell Spoken:”
-@E&:f === = —H_—ﬁhﬁ—:i
-She'll fall a - sleep, no doubt, but you're clev - er!
-- Bril - liant! gen - lus!  You are di-vine- Get out!
-No. 8 The Swamps Of Home
-
-cue: WINNIFRED: Well, I don't like to brag.
-
-WINNIFRED: ¢/ Rubato
-
-LSS
-
-come from the land cf the fog - gy, fog-gy dew, oo—
-
-= Di:@ﬂ“ w
-
-- Where walk-ing thru'the mecad-ow in
-
-17
-3
-b -~
-) — —— —— S—
-(AN SN AR S SR SR S—
-
-)
-
-morn-ing is like walk- ing through glue. The swamps of
-L
-S=—=— s ,
-home are brushed with green and gold, At bhreak of
-LADIES: WINN:
-o e
-SN O o —  _ —
-day, At break of day, ————— The swamps of
-
-is the beau-ty of the bog. In my mem'- ry the mag-ic of the
-
-LADIES: WINN:
-
-Muh -uh-ud. 1 know that blood is  thick-er than wa - ter, __
-
-A DAUNTLESS: Blqu\,h
-
-Swamps of Home
-
-\_/
-
-are thick -er than  blood,
-
-When shad - ows fall and I hear the call
-
-Of the Swamps of
-
-Home. I hear It call - ing me now,
-
-PPPPIPPIITOOOOOIOIROCEOEEEROEROECECEEECECEEEEEEEQqQqEQ-"
-i O W P R S N R N i A e i
-
-v
-back, Call - ing me: “Win-zi - fred, Win-of - fred Wiz-oi-Ired &
-3 3 3
-- e e— L e——
-A —— ——— —— e — ————
-2
-Who do you thick you are? Girl of the swamp.______ You bave gome too
-3 3
-K —— — n — = B
-¢ — i
-Maid of the marsh - land, Give up the
-1% 3
-.. v v Vv
-strug-gle. LADIES: Lis-ten to the vvz’x&g\ of the swamp, 33 Gleg - gle. ug-gle,
-s ~ N: 2
-— )
-— ; I ——
-ey, ¥y v v
-ug - gle."” Glug - gle,ug-gle, ug-gle. Where - c'er 1 roam The
-( —3 — —3
-T_ = — —
-o v 2 - v
-wb_!pa‘ fate may smart, But deep down in my
-I wice as 8l 3 3 3
-S
-got- ten, Though 1 search far and wide There is no land as
-LADIES: fas an echo)
-
-Rot - ten, rot - ten, rot - ten, rot - ten, rot -ten, rot ~ten, rot -ten, rot -ten,
-
-rot - ten
-p ~ (WINN:) LADIES: The Swamps of home.
-
-T%‘iﬁ—.@:i
-
-rot-ten, As the Swamps of hom
-
-19
-No. 9 Fight-Fight
-
-cue: LARKEN: I hate you!
-
-Ad lib, LARKEN: HARRY: LARKEN: HARRY: Goodbye !
-_(Dialogue - -) Goodbye! Goodbye ! Goodbye ! FL. Ob
-
-A S -DF_*’ —5 %‘4
-
-(2nd time - R:l and fade out)
-
-No. 10 Spanish Panic
-
-cue: QUEEN: Why don't we all watch while court dancers Sir Harold and Lady Beatrice demonstrate ?
-
-Segue
-
-Tents
-
-No. 12 Normandy
-
-cue: LARKEN: Quicksand ?
-
-Agitato
-MINSTREL: Beyond the - -
-
-KEN;
-i (MINSTREL:) Sung: AR Cllmb?
-
-Wall which you must cllmb It's twen-ty two
-sllme?
-e e e
-"
-feet and cov-ered with slime, And  in- fest-ed with
-spi-ders? (Spoken) Sung:
-@ === < = ~—= ﬁ
-spi - ders. Oh, the spi-ders are sweet —— com-pared fo the
-8! JESTER: Oh, they won't hurt you, unless, of course you plan
-5y bnakcsi to go alone.
-snakes e On the oth-er side.
-20
-
- EEEEEEEEEREREEEEEEREEEEEEEEEEE L
-LARKEN: Well, I did, but if I'd known 13
-
-iy it was so terrible ou—‘?creﬂ MINSTREL:
-
-Then you'd think a  se -cond thought and come with
-
-g;r—"ﬁ-ﬁ“é}ﬁ:n@% ===
-
-I know all the se-cret ways to get us free, o - vcr the
-I
-IELARKEN: Then where ?
-
-= : —FF——— =
-
-hi
-
-1is and to the o - pen sea. (xNZ)
-
-MINSTREL: It's April,isn't it? LARKEN: April?
-
-=
-
-MINSTREL & JESTER
-
-man - dy___
-
-man who knows 2 co = zy inn,
-
-man who knows a
-JESTER & MINSTREL: —3—
-
-. air, 1 hear, is rare and clear and warm,
-MINSTREL:
-
-21
-sun,
-
-T
-Where a won - drous thing can hap - pen When an
-
--
-
-green And the world stands  hushed and wait - ing For the
-" 7z
-2 + .
-first white  stars to con - vene. When you see that em - 'rald
-sky You'll know  the rea - son why There's
-
-- er place I'd— rath ~ er be,
-JESTER: (Spoken)
-
-Keep your_ El - dor ~ a - do!
-MINSTREL:  I§g)
-
-for
-
-we Have things to do.
-
-22
-
-AfAdA4444A44AAAARNRAN NN N N N BN B E BRI T O
-LLLLLLLBLBLABALLALBRELERRREREEOEEEREEEEEEETT T
-
-LARKEN: ZY
-%‘.‘*i}" e s
-
-there tru - beach Where  the
-peach  blos - blows ? Are you sure you can
-reach a man who knows a man who knows A
-MINSTREY JESTER:
-Thnres jes - sa - mine and - - - White - lac
-friend - plm:c e
-MINSTREL & JESTER: - 3 ~ﬁ
-ﬁ ==———-——— ,tfﬁtf ===
-and - - - Rows  of win = dows fac - lng the
-ey With rows dows fac - ing the
-
-rare and clear and
-
-=== f—_F:Q
-
-Heav - en
-
-1t's warm _ -
-
-fﬂrf—mg& ===
-
-No. 13 Spanish Panic No. 2
-
-JESTER: You'd better not let the Queen catch you walking.
-
-111
-
-Brightly
-
-No. 14 Song of Love
-
-cue: WINNIFRED: You can call me by my nickname,
-
-DAUNTLESS: Winnie ?
-
-V] . DAUNTLESS:
-Slowly WINNIFRED: Fred, P
-6] Rubato wiRE:
-like you, Fred, like  you! You're just say - ing those words to
-DAUNT: 3 3 WINN:
-
-kind. No, 1 mean it. I like - - I mean, I love you, Fred! He Iis
-
-nev-er felt bet-ter in my lifel Ev-'ry-bod-y! Ev-'ry-bod-y! Ev-'ry-bod-y, come and
-
-W_ﬁ_g
-
-meet my in-cip-1 - ent wife!
-
-24
-TP P TP IIIIIVIIOPIIIIIOIPIPOIPPOPOODIOIGGEIIIIIILVUVDDVDVDVDUVDD UL PV
-
-DAUNTLESS:
-
-B5 P I'm in
-
-- 4 ' I ete. S ete.
-
-love with a girl named  Fred! My rea - sons must be clear. When she
-o
-
-4 CHORUS:
-
-) - === ¢
-% o { " s = e
-shows you all how strong she is You'll stand right up and cheer! With an
-
-F and an R and an E and a_D And an F -R-E- D, FRED, Yea! I'm in
-
-sing a mer- ry drink - ing song And let the wine be pouréd.
-I45) CHORUS:
-
-love with a girl named Fred. She sings just like a bird. You'll be
-
-left com - plete - ly speech-less when her gen - tle voice is heard!
-
-WINN: (raucously)
-
-Ah -ah - ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ahhh!
-
-I33) CHORUS: —_
-. a ete. twsd A2 po gty §
-T o S — 1 = 2 D s — —
-—— e ; »— +
-i — = e
-Fill  the bowl to o -ver-flow- ing. Raise the gob - let high.
-e
-D e == f =ttt
-F and 30R andan E anda D asdan F R E D FRED,
-73
-= — T e E— e — = ' !
-love with 3 girl named Fred. Ste  wres-tles ltke a  Greek. You will
-
-ull
-
-- .  ——
-T —- — -
-I S—" S— he
-&—t«_,ﬁ:«i;_—,—‘ :
-
-clap your hands in  won-der At ber fab-u - lous tech - nique!
-BTl crorus:
-
-(kandclaps)
-: —— > = — 3
-—_ —— ———
-
-WINN: (almost losing control)
-
-P '
-
-EAh-lh = ah, ah, ah, ah, ak, ah, ah, ah, ah, ah, ah.hh'/——\
-
-Fill  the bowl to o - ver-flow-inz. Raise the gob - let  high With an
-DAUNT:
-
-. T o L, T .
-
-S e
-
-F and an R aad an E anda D And 2n F R E D, FRED, Yea!I'min
-2
-
-love with a girl named Fred, Who danc -es with such grace. You are
-ﬁ, oo —— ===
-bv:und sing her prais - es 'til you're pur - ple in the face!
-E CHORUS: —
-+ — — e
-: : P
--
-=) ; )
-Bra - vo, bra - vo, bra-vis - si-mo, Bra-vo, ora-vis =-sl - mo,
-(handclaps)
-@:&ﬂ"—— = —4»‘-:3'——4 f "—‘—.‘Z_“:' e
-
-26
-
-02220 CCTPTRTTRTTRTRTR RO OROCEEOEOCEOEEEEYEEEYEIREeEeILIqeqIqagy”
-N
-
-L P o e et B e e M e o e it D D Bt D LA AN A L A A\ A PR e KR, PR FR B FA A SR oA g e A A LA A ol gl Jh AR
-
-WINN: (even wilder)
-
-s = —
-== — == I - = P
-Ah - ah - ah, ah, ah, ah, ah, ah, ah, 2h, ah, ah, ahbh!
-CHORUS: ——
-=1 ,
-p Ot eVing, , « = Z - = 7
-T T —_—
-Fill  the bowl to o - ver-flow-ing. Raise the gob - let high. With an
-DAUNT.
-——
-7 e
-= = R o
-and 2a R and an E asda D Andan F R E D, FRED, Yea! I'm in
-5 ; T — —r  ————
-— —— e e e e e— e I
-e e—
-love witha girl named Fred. She's. mu-~- 3l -cal to boot. She will
-e
-% ===
-T T
-set your feet a - tap - ping When she plays up - on ber
-
-Bra - vo, bra - vo, bra-vis - si-mo, Bra-vo, bra-vis -si - mo.
-(kandciaps) WINN: (wilder shan ever)
-
-ah,ah, ah, ah, ah, ah, ah, ah, ahhh! Fill the bowl to o= ver-flow - ing
- ————
-e s
-Lt r—t—+—+—+—1—
-—
-Raise the gob - let high. Withaa F and an R and aa E anda D And an
-pauNT: I II57], :
-=T
-? —
-SRl T ; ¥
-F R E D, FRED, Yea! I'm in love with a girl ramed Fred. A
-s - . ) S ———
-e i S — —— ———— . —— —" —— ——" S— — =—]
-9. —t
-Y T T T
-clev - er clown-Ish  wit. When she  does her fun - ay
-27
-——+ T
-) R
-sides are sure to  split! BHa, ha, ha, ha, Ho, ho, bo, ho, Ha, Ra, ha, ha,
-
-WINN: (on lute - ad lib.)
-
-1 . f 1
-
-7 s o S S o S S L — L o o— o o —
-ey —a—r 3ttt
-S A——— S — T E——— — —1—1 —
-
-CHORUS:
-c—
-
-WINN: (completely wild, alcokolic abandon)
-(]
-
-I
-Ah ah ah, ah, ah, ah, ah, ah, ahhh! Fill the bowl to o - ver - flow - ing,
-
-ey —t——————15 )
-A A— m—— —-—_———-——
-Raise the gob- let high. With an F and an R and an E aoda D And 2n
-
-b —
-o CHORUS: 3
-
-End Act I
-
-23
-
-s ERRERREREEREEE g8 8888898 8§444°
-- 9
-
-No. 15
-S 173
-No. 16 0
-
-cue: LARKEN sneezes
-
-QUEEN: (Shouted) ALL:
-
-Entr’acte
-
-pening-Act II
-
-The queen in - sists on  qui - et. She's
-
-threat - ened ex - e - cu - tion
-
-dare dis - turb the rest Of  her
-
-ver -y spe - cial guest. She's or - dered qui - et, (qui- et) qui -et (qui -et)
-
-19 Slow 4 N
-QUEEN: (claps) CAST: (off stage) QUEEN: LADY: Q: L:
-Sheets! Right. Pil -lows! Right.
-
-MEN: 5 2
-
-Blan - kets! Right. Mat - tress-es! Right,
-
-right, right.
-ALL: (Shouted)
-
-— =S==S=—-=-C===
-
-%E‘-——_———::%
-
-Bra - vo, bra-vo, bra-vis - si- mo!
-28]
-LADIES: ( claps) QUEEN:
-(scream) (scream) (scream)
-
-29
-R R R R R R R R R R R R R R R RN R R R R R R R R R R RRRERRRERERRRRERE
-
-(5] (Finger snaps)
-
-JESTER: Not yet. I'll get them out of here. Lay low until the coast
-
-?
-3
-3
-Z
-2
-=
-e 3
-& .
-a g
-Y ¥
-- 1
-I a8
--
-ili i3
-oL 13
-I i
-il :
-". 2
-q =
-ﬂ i g
-5 il
-: s I [
-g 5 uyp
-b £ _
-3 < & “— —m
-Z i1
-
-No. 17 Happily Ever After
-
-cue: WINNIFRED picks up book and begins to read:
-
-Moderate 4
-And so the young Prince etc. ---
-
-e e ey
-
-WINNIFRED:
-
-= s —
-
-They all lived
-
-Wfﬁ Hz—;—’-}aﬁ
-
-hap- pi-ly, hap- pi - ly, hap-pi-ly ev - al - ter.— The cou-ple is
-
-cur - tain de - scends there is noth -ing but lov-ing aod laugh- ter. When the
-
-@ fair-y tale ends, the her-o-ine'sal-waysa bride.
-
-Still I hon-est-ly doubt that__ she could ev-er have done it with-out that__ Cra-zy
-
-{Cinderelia had
-outstde help‘)rl 3.3
-
-la-dy with the wand. (Spoken:) I have no-one but me.
-
-31
-
-I haven't got a Fairy Godmother--
-L~ d oty Ve etc
-@&;Tﬁ* = : B
-. s S— — -
-— T
-God-moth-er, God-moth-er, God-moth-er, Where can you  be? (Spokex)
-—3—
-- ————— i‘“: —— L o= s
-— — §,:§
-L 3 3 3 Snow-
-— m _F- —— I ,ﬂt ===: %r {
-— i
-white was so pret-ty, they tell us _  That the queen was in-sult- ed and jeal- ous — When the
-
-et
-
-mir - ror de - clared that Snow-white was the fair- est of all,
-—3—
-
-WW
-
-She was dumped on the bor ~der __ But was saved by some men who a ~dored her.__
-
-But there. were seven of them,
-
-practically a re;lmex%l
-o
-grant you - - they were small. (Spoken:) I'm a-lone in the night, ___ By my-
-That girl had seven etc. ...
-
-self. Not a dwarf, not an elf, not a gob-lin In  sight! (Spoken:)
-
-==
-
-poison apple, even so - -
-
-o ;ai’:.éf&
-
-sm lived hap-pi-1ly, hap-pi-ly, hap-pi- ly ev - er
-
-A mag-i-cal kiss coun-ter-act- ed the ap - ple
-
-Though I know I'mnotclev-er,I'll dowhat they tell me 1  haf-tal
-
-1 want some
-
-bap-pi- ly ev er a{-ter to hap-pen to
-
-32
-
-2000002000200 000000 F QR QTR TTRTTRRARTIANARTAIAINANNNY -
-kept In a tow-er for years by a wick-ed old witch.
-
-'"Til one night {n des-palr, down she scram-bled by let-tingher hair down.- THat's what
-1 woader - = = No, it'll never hold.
-
-fin- ished be-fore I be- gin
-
-1 want to live hap-pi - ly, bap-pi -ly, hap-pi -ly ev - er
-
-af - ter. I want to walk hap-pi-ly out of a chap-el e - ter-nal-ly
-
-tied. For 1 know that I'll nev -er lve hap-pi-ly ev - er
-
-73)
-
-And thor-ough-ly
-
-fled!
-
-33
-No. 18 Man To Man Talk
-
-JESTER: Do your duty, Sire.
-Moderate 4
-
-% 16
-é) g
-
-7} DAUNTLESS:
-
-want to know  a - bout what get-ting mar-cied is
-
-for.
-
-tell me, tell me, Fa- ther, don't be shy.
-53
-p—
-S— ———
-Boy flow-er, girl flow-er love each oth-er.
-
-34
-
-22000 P P?PRRYR YRR YRR R YE R R R RN R RN R RN E R RN NNy
-A A B B B B B B B OB B B N E U U U YN Sl Sl U SR Sl Rl B A
-
-Boy flow-er, fa - ther-- Girl flow-er, moth-er.
-
-e
-
-Yes, yes, but how ? It's ver - y in - t'rest - ing, but
-
-No, 1 don't see. It's ver - y in - t'rest - ing, but
-(Spoken) :
-
-EEe——=——-_ -
-
-Man and wom-an get mar-ried-- Win- ni-fred in white--
-
-35
-e
-
-love each oth-er-- And then one night--
-
-Yes, then one  night,
-
-hap ~ pens, tell me, fa - ther, please. Shall I
-- go and pick some flow-ers? Shall I go and catch some bees?
-
-Mayrcato
-
-%%—%__f — = =
-; (Sﬁolml) _;!
-
-Prin-cess Win-ni-fred
-
-@M‘% —————
-
-will get mar-ried-- and  then—
-
-Cue to continue:
-DAUNTLESS:No, wait a minute,
-
-g‘ﬁ*ﬁ 'i —— -‘—z— ——
-
-One night-- (Stork pantomime)
-
-bl ¢
-
-Flow - er, seed, man, wom - an, bee, ba- by,
-
-is-n't the stork, it is - n't the stork, it is-n't the stork at all!
-
-Poco pill mosso
-
-m&_—ﬁz@g@%
-
-is  grand. It's ver - ~'trest - ing. 1 think 1 un -der -
-
-36
-
-’
-AT ARIIATITAIYTNLNNNN
-T E N EEEEEEREEEEEEEEEEEEE N
-TEENENEREREE RN A A RA SRS o dd adddhdhdhddddingd
-
-stand. 1  think, I think, I  know. It's ver - y in~ 'trest - ing.
-~
-s
-TEeeee e = =]
-Thank you, fa- ther, And fa - ther, I love you so!
-IBlack out]
-No. 19 Very Soft Shoes
-
-Cue: WIZARD goes up steps - (lights fade)
-Deliberately - in 2
-
-JESTER: (spoken)
-
-iigat —::ﬁhiﬁ
-
-hec - tic  days of four - teen twen- ty  eight. So, in - dulge me
-pause to raise my chal - ice. a qumnt and ch.\rm-mg
-
-e ——3—‘!:—’—:5":-533—% =
-
-the days when my dear
-
-dance they used to
-
-fa -ther played the  pal-ace, Back in thir - teen nine - ty
-
-37
-I52] Monoierare 4
-
-eSS S ess=—ss—=s—s=—==
-
-two. My Dad was deb - o -nalr, And quite as light as air
-
-he could Dip and glide, And
-—— 2
-: = i r
-skxp and slip and slide In his ver - y soft shoes.
-stand and  watch him ev - 'r day; was  al - ways smooth an
-
-cool. 1 used to love to hear the peo - ple say:__ He's a
-
-reg- u - lar danc - Ing  fool. He bare - ly Touched the ground And
-
-nev - er made a sound, But I've no - ticed in all his re - views, That when he
-took  his Tg the crowdand the crown,_ he crowd went cra - zy and the
-
-I"7_§ house came down When Dad-dy wore his ver -y soft shoes.
-= Dance 19 IE5] 41 JESTER:
-
-crowd and the  crown he  crowd went cra - zy and the house came down When
-§ab—j} ﬂ:@}h{i =
-T — -0
-A 3 St
-Dad-dy wore his Ver -y soft SSh e T o o oes.
-altacca
-38
-
-P PP PP PP 0000000 C0CRERRERRCEERYEERQRRQERRRRRGqS -
-No. 20 Three O’clock In The Morning
-
-Slowly - in 4
-é f 12
-
-No. 21 Yesterday I Loved You
-
-Cue: HARRY: Well, in a way I have.
-
-{1 Freely
-
-=)
-B
-3
-®
-@
-©
-g
-3
--
--
-;
-4
-o
-g
-v
-i
--
-<
-k]
-(]
-B
-'
-o
-3
--
-h
-B
-®
-
-a
-
-@igEAgﬂ%%ﬁWil
-
-But that was long
-
-@r =t
-S
-
-it's
-
-@{“;ruﬁ ==
-
-That to - day
-
-st you
-
-love you
-
-@FirAiF ========
-
-@H == s S __F—_ﬂ— =
-I69) Fréely e e
-at yoi;] Tem??h near - half
-@éigfhfr—; %rj
-=
-Bl m‘;‘i{? e
-j——j_:j a ed ?s_ love F_j ly to
-
-— 3—
-
-@P_#gq;mi n%;i
-
-@%;?—;::ta_lg; Fiiiii:ﬁ%
-
-40
-
-asnnnnnnnsnnnenseee IR IR RIRQARARINANNNNYNY-
-)
-
-S et gl et Doal Dt el Dt e WA e AN A oA A A A
-
-==
-
-—=
-
-=
-
-e
-
-tricks my
-
-eyes can
-
-play!
-
-====
-
-gg:o e mf]ﬁ:—:*——‘f
-
-Yes - ter - day_____
-
-]
-
-e
-
-must  have
-—— 33—
-
-at - ter - ly
-em——
-
-blind,
-
-— P
-
-m give you ——
-
-In 4 (HARRY:)
-
-In a lit- tle while
-
-I will see you smile
-
-41
-
-HARRY: o ~- pen - ly con - fess To night 1 love  you
-LARKEN:trem - ble at your touch-- Not near - ly half 50
-Tempo
-= = R —
-=
-less Than will mor - row
-much as will it
-
-BEEEEREEENEEEEEEEEEEEEEEFF EEEEEEREEE EEE RN EEE IR Y, T Yy
-It d AR d A A a A A B B B B B B B B N N W R S SN U U S SN A R MR BN AR
-
-No. 22 Nightingale Lullaby
-
-Two starts
-
-(First ime)-Cue: QUEEN: You were brought here to put a live princess to sleep,
-not to wake up a dead one.
-
-(Second time-start at ) Cue: WINNIFRED: Alright, we'll take it from the top.
-
-E NIGHTINGALE: (whislled)@
-
-No. 22a Wizard
-
-Cue: WINNIFRED: All right, sheep- - I'm ready when you arel
-
-g g 4 ILights fade)
-
-43
-No. 23
-
-Cue: KING: Hopt
-Skip!
-
-Finale
-
-stay a -
-
-Prin - cess we love you
-
-You can re -cog-nize a
-
-la-dy by her
-
-In-t'rest - ing, We
-
-You can re -cog-nize a
-
-44
-
-la-dy by her
-
-PPT222020220000CC0OCCCCORQRQaEeRnenneeneefeerRe e -
-gen-u - ine prin-cess Is ex - ceed-ing - ly rare!
-
-No. 24 Bows and Exit Music
-
-Moderately bright
-
-S
-
-45
