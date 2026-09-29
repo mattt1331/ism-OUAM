@@ -2209,7 +2209,7 @@ A COZY INN...
 
 #tpp[34]
 
-#stack(
+#box(stack(
   dir: ltr,
   [
     $ lr(\{, size: #1900%) $
@@ -2230,8 +2230,7 @@ A COZY INN...
     #dX[MINSTREL & JESTER]
     ...ROWS OF WINDOWS FACING THE SEA.
   ],
-)
-
+))
 
 #dX[ALL THREE]
 THIS TIME OF YEAR THE AIR, I HEAR, IS RARE AND CLEAR...
@@ -2251,11 +2250,9 @@ HEAVEN WAS MADE...
 #dX[ALL THREE]
 ...IN NORMANDY!
 
-Scene 8
+= Scene 8
 
-(Scene: In one. LUCE and STUDLEY enter DOWN RIGHT with GIRLS)
-
-Music 13: SPANISH PANIC NO. 2
+== Music 13: SPANISH PANIC NO. 2
 
 JESTER: You'd better not let the Queen catch you walking. (LUCE and
 STUDLEY with their GIRLS begin to dance as JESTER exits DOWN LEFT)
