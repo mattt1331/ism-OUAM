@@ -2204,7 +2204,7 @@ HAVE THINGS TO DO.
 IS THERE TRULY A BEACH\
 WHERE THE PEACH BLOSSOM BLOWS?\
 ARE YOU SURE YOU CAN REACH\
-AMAN WHO KNOWS A MAN WHO KNOWS\
+A MAN WHO KNOWS A MAN WHO KNOWS\
 A COZY INN...
 
 #tpp[34]
@@ -2255,465 +2255,435 @@ HEAVEN WAS MADE...
 
 == Music 13: SPANISH PANIC NO. 2
 
-JESTER: You'd better not let the Queen catch you walking. (LUCE and
-STUDLEY with their GIRLS begin to dance as JESTER exits DOWN LEFT)
+#dX[JESTER]
+You'd better not let the Queen catch you walking.
 
-LUCE: Have you seen Sir Harry? He’s had a fight with Lady Larken.
-(HARRY dances on with LADY MABELLE) Hey . . . look.
+#dX[LUCE]
+Have you seen Sir Harry? He’s had a fight with Lady Larken. Hey . . . look.
 
-STUDLEY: He’s with that French girl. She only speaks one word of
-English but I hear she’s a charmer.
+#dX[STUDLEY]
+He’s with that French girl. She only speaks one word of English but I hear she’s a charmer.
 
-LUce: What's the one word?
+#dX[LUce]
+What's the one word?
 
-MABELLE (As she and HARRY cross, dancing): Yes!
+#dX[MABELLE]
+Yes!
 
-LUCE (Shouting back to HARRY): How’s it going, Harry old boy?
+#dX[LUCE]
+How’s it going, Harry old boy?
 
-HARRY: Uh . . . “tray bienne.” (MABELLE wrinkles her nose at him)
+#dX[HARRY]
+Uh... "tray bienne."
 
-STUDLEY: After the Ball, we'll have a little party on the West Parapet . . .
-Don’t forget to bring the wine.
+#dX[STUDLEY]
+After the Ball, we'll have a little party on the West Parapet... Don’t forget to bring the wine.
 
-LUCE'S LADY: . . . and something to spread on the ground.
+#dX[LUCE'S LADY]
+...and something to spread on the ground.
 
-LUCE: Harry, ask Mabelle if she’d like to bring something,.
+#dX[LUCE]
+Harry, ask Mabelle if she’d like to bring something,.
 
-HARRY: Uh . .. voulez-vous...uh...?
+#dX[HARRY]
+Uh...voulez-vous...uh...?
 
-MABELLE: Yes! (Music in furioso. Traveler opens, revealing dance in full
-progress)
-Scene 9 35
+#dX[MABELLE]
+Yes! 
 
-Scene 9
+#tpp[35]
 
-(Scene: The Great Hall festooned with garlands)
+= Scene 9
 
-QUEEN: Come along now! Keep it Venetian. Isn’t this fun? (Grand right
-and left) Move along now! That's right. Faster! Now slower! That's
-beautiful. (JESTER and TWO GIRLS break out from the crowd) Oh, Jester!
-(The dance proceeds wildly. The QUEEN is injured in the melee, shrieks in
-pain, and hobbles to DOWN LEFT, to be out of the way. At the end of the
-dance, everyone collapses except WINNIFRED. The QUEEN speaks to her)
+#dX[QUEEN]
+Come along now! Keep it Venetian. Isn’t this fun?  Move along now! That's right. Faster! Now slower! That's
+beautiful. Oh, Jester!\
 Are you feeling a little weary, dear?
 
-WINNIFRED: No, let’s do it again! (The QUEEN exits DOWN LEFT and the
-COUPLEs disperse) Maybe you could give me a clue.
+#dX[WINNIFRED]
+No, let’s do it again! Maybe you could give me a clue.
 
-DAUNTLESS: A clue?
+#dX[DAUNTLESS]
+A clue?
 
-WINNIFRED: I know it’s highly secret, but . . . what sort of test does she
-usually give?
+#dX[WINNIFRED]
+I know it’s highly secret, but... what sort of test does she usually give?
 
-DAUNTLESS: Well, with Mama thinking up the test, it might be almost
-anything . . .
+#dX[DAUNTLESS]
+Well, with Mama thinking up the test, it might be almost anything...
 
-WINNIFRED: Like what?
+#dX[WINNIFRED]
+Like what?
 
-DAUNTLESS: Ohhh . . . sometimes it’s history . . .
+#dX[DAUNTLESS]
+Ohhh... sometimes it’s history...
 
-WINNIFRED: Oh.
+#dX[WINNIFRED]
+Oh.
 
-DAUNTLESS: Sometimes it’s dancing . . . sometimes it’s . . . spelling . . .
+#dX[DAUNTLESS]
+Sometimes it’s dancing... sometimes it’s... spelling...
 
-WINNIERED: Oh.
+#dX[WINNIERED]
+Oh.
 
-DAUNTLESS: . . . but sometimes it’s a test of strength and endurance.
+#dX[DAUNTLESS]
+...but sometimes it’s a test of strength and endurance.
 
-WINNIFRED (Now she perks up): Aha!
+#dX[WINNIFRED]
+Aha!
 
-DAUNTLESS: For instance, one of the girls was supposed to lift this
-weight. (He goes to a large “medieval” weight) She couldn’t. (He tries to
-lift it, giggles) I can’t even lift it . . . But Tknow you'll pass; you don’t
-have to worry.
+#dX[DAUNTLESS]
+For instance, one of the girls was supposed to lift this weight. She couldn't. I can't even lift
+it... But I know you'll pass; you don’t have to worry.
 
-WINNIERED: Do you want me to pass? (He nods) I'll pass. (She goes to
-weight, tucks her hem into her waist, spits on her palms, and, in
-professional weight-lifter fashion, succeeds in getting it off the floor, then
-to her chest, then, with great effort, over her head, and down to floor.
-Then, lest we forget she’s a girl, daintily undoes her skirt, and strikes her
-most feminine pose)
+#dX[WINNIERED]
+Do you want me to pass? I'll pass.
 
-pDAUNTLESS: Hey, I think you're wonderful.
+#dX[DAUNTLESS]
+Hey, I think you're wonderful.
 
-WINNIFRED: By the way, I don’t think I've ever told you . . . my full name
+#dX[WINNIFRED]
+By the way, I don’t think I've ever told you... my full name
 is Winnifred the Woebegone. But Winnifred’s too formal. You can
 call me by my nickname.
 
-DAUNTLESS: Winnie?
+#dX[DAUNTLESS]
+Winnie?
 
-WINNIFRED: Fred.
+#dX[WINNIFRED]
+Fred.
 
-DAUNTLESS: Fred! What a beautiful name . . . So straight . . . So strong
-... So you!
-36 Act One
+#dX[DAUNTLESS]
+Fred! What a beautiful name... So straight... So strong... So you!
 
-Music 14: SONG OF LOVE
+#tpp[36]
 
-DAUNTLESS:
+== Music 14: SONG OF LOVE
 
+#dX[DAUNTLESS]
 I LIKE YOU, FRED, I LIKE YOU!
-WINNIFRED:
 
+#dX[WINNIFRED]
 YOU'RE JUST SAYING THOSE WORDS TO BE KIND.
-DAUNTLESS:
 
-NO, I MEANIT. I LIKE — I MEAN, I LOVE YOU, FRED!
-WINNIFRED:
+#dX[DAUNTLESS]
+NO, I MEAN IT. I LIKE---I MEAN, I _LOVE_ YOU, FRED!
 
+#dX[WINNIFRED]
 HE IS OUT OF HIS MEDIEVAL MIND.
-DAUNTLESS (Shaking his head):
-I'M PERFECTLY SANE AND SOUND!
-I NEVER FELT BETTER IN MY LIFE!
-EVERYBODY! EVERYBODY! EVERYBODY, COME
-AND MEET MY INCIPIENT WIFE!
-(The cHORUS enters during vamp)
-DAUNTLESS:
-I'M IN LOVE WITH A GIRL NAMED FRED!
-MY REASONS MUST BE CLEAR.
-WHEN SHE SHOWS YOU ALL HOW STRONG SHE IS
+
+#dX[DAUNTLESS]
+I'M PERFECTLY SANE AND SOUND!\
+I NEVER FELT BETTER IN MY LIFE!\
+EVERYBODY! EVERYBODY! EVERYBODY, COME\
+AND MEET MY INCIPIENT WIFE!\
+I'M IN LOVE WITH A GIRL NAMED FRED!\
+MY REASONS MUST BE CLEAR.\
+WHEN SHE SHOWS YOU ALL HOW STRONG SHE IS\
 YOU'LL STAND RIGHT UP AND CHEER!
-(WINNIFRED lifts the weight)
-1ST DUO FROM CHORUS:
-WITH AN “F” AND AN “R” AND AN “E” AND A “D"
-AND AN “F” “R” “E” “D”, FRED! YEA!
-DAUNTLESS:
-I'M IN LOVE WITH A GIRL NAMED FRED!
-SHE DRINKS JUST LIKE A LORD.
-SO COME SING A MERRY DRINKING SONG
+
+// TODO: Who are all of these duos?
+#dX[1ST DUO FROM CHORUS]
+WITH AN "F" AND AN "R" AND AN "E" AND A "D"\
+AND AN "F" "R" "E" "D", FRED! YEA!
+
+#dX[DAUNTLESS]
+I'M IN LOVE WITH A GIRL NAMED FRED!\
+SHE DRINKS JUST LIKE A LORD.\
+SO COME SING A MERRY DRINKING SONG\
 AND LET THE WINE BE POURED!
-2nD puo: FILL THE BOWL TO OVERFLOWING.
+
+#dX[2ND DUO]
+FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-(1ST KNIGHT pours wine from a large decanter into a goblet
+#dX[1ST & 2ND DUOS]
+WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
+AND AN “F” “R” “E"” “D”, FRED! YEA!\
 
-held by 2ND KNIGHT. WINNIFRED takes goblet, raises it high
-and drinks the wine)
-
-1ST & 2ND DUOS:
-
-WITH AN “F” AND AN “R” AND AN “E” AND A “D”
-AND AN “F” “R” “E"” “D”, FRED! YEA!
-(WINNIFRED lifts the weight)
-DAUNTLESS:
-I'M IN LOVE WITH A GIRL NAMED FRED!
+#dX[DAUNTLESS]
+I'M IN LOVE WITH A GIRL NAMED FRED!\
 SHE SINGS JUST LIKE A BIRD.
-Scene 9 37
 
-YOU'LL BE LEFT COMPLETELY SPEECHLESS
+#tpp[37]
+
+YOU'LL BE LEFT COMPLETELY SPEECHLESS\
 WHEN HER GENTLE VOICE IS HEARD!
-WINNIFRED (Sings raucously):
-AH-AH-AH, AH, AH, AH, AH, AH, AH, AH, AH, AH,
-AHHH!
-2ND & 3RD DUOS:
-FILL THE BOWL TO OVERFLOWING.
+
+#dX[WINNIFRED]
+AH-AH-AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
+
+#dX[2ND & 3RD DUOS]
+FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
-(Wine is poured. WINNIFRED drinks)
-1ST, 2ND & 3RD DUOS:
-WITH AN “F” AND AN “R” AND AN “E” AND AN "“D”
+
+#dX[1ST, 2ND & 3RD DUOS]
+WITH AN “F” AND AN “R” AND AN “E” AND AN "“D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
-(WINNIFRED lifts the weight)
-DAUNTLESS:
-I'M IN LOVE WITH A GIRL NAMED FRED!
-SHE WRESTLES LIKE A GREEK
-YOU WILL CLAP YOUR HANDS IN WONDER
+
+#dX[DAUNTLESS]
+I'M IN LOVE WITH A GIRL NAMED FRED!\
+SHE WRESTLES LIKE A GREEK\
+YOU WILL CLAP YOUR HANDS IN WONDER\
 AT HER FABULOUS TECHNIQUE!
-(4TH DUO clap in rhythm as WINNIFRED “throws’ DAUNT-
-LESS)
-WINNIFRED (Almost losing control):
-AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH,
-AHHH!
-2ND, 3RD & 4TH DUOS:
-FILL THE BOWL TO OVERFLOWING.
+
+#dX[WINNIFRED]
+AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
+
+#dX[2ND, 3RD & 4TH DUOS]
+FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
-(Wine poured, WINNIERED drinks)
 
-1ST, 2ND, 3RD & 4TH DUOS:
-WITH AN “F” AND AN “R” AND AN “E” AND A “D”
-AND AN “F” “R” “E” “D”, FRED! YEA!
-(WINNIFRED lifts the weight)
+#dX[1ST, 2ND, 3RD & 4TH DUOS]
+WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
+AND AN “F” “R” “E” “D”, FRED! YEA!\
 
-DAUNTLESS: -
-I’'M IN LOVE WITH A GIRL NAMED FRED!
-
-WHO DANCES WITH SUCH GRACE.
-YOU ARE BOUND TO SING HER PRAISES
+#dX[DAUNTLESS]
+I'M IN LOVE WITH A GIRL NAMED FRED!\
+WHO DANCES WITH SUCH GRACE.\
+YOU ARE BOUND TO SING HER PRAISES\
 "TIL YOU'RE PURPLE IN THE FACE!
-(WINNIFRED and DAUNTLESS perform Spanish Panic turns)
-4TH & 5TH DUOS:
-(Handclaps in rhythm as WINNIFRED throws DAUNTLESS)
-WINNIERED (Even wilder):
-AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH,
-AHHH!
-38 Act One
 
-2ND, 3RD, 4TH & 5TH DUOS:
-FILL THE BOWL TO OVERFLOWING.
+#dX[WINNIERED]
+AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
+
+#tpp[38]
+
+#dX[2ND, 3RD, 4TH & 5TH DUOS]
+FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-(Wine poured, winniFrReD drinks)
-IST, 2ND, 3RD, 4TH & 5TH DUOS:
-
+#dX[IST, 2ND, 3RD, 4TH & 5TH DUOS]
 WITH AN “F” AND AN “R” AND AN “E”
-AND AN “F” “R” “g" “D”, FRED! YEA!
-(WINNIFRED lifts the weight)
+AND AN “F” “R” “E" “D”, FRED! YEA!
 
-AND A “D”
-
-DAUNTLESS:
-
-I'M IN LOVE WITH A GIRL NAMED FRED!
-SHE’S MUSICAL TO BOOT,
-
-SHE WILL SET YOUR FEET A-TAPPING
+#dX[DAUNTLESS]
+I'M IN LOVE WITH A GIRL NAMED FRED!\
+SHE’S MUSICAL TO BOOT,\
+SHE WILL SET YOUR FEET A-TAPPING\
 WHEN SHE PLAYS UPON HER LUTE!
 
-(WINNIFRED ad libs on a lute, while 611 UG tap their feet in
-rhythm)
-
-5TH & 6TH DUOS:
-BRAVO, BRAVO, BRAVISSIMO!
+#dX[5TH & 6TH DUOS]
+BRAVO, BRAVO, BRAVISSIMO!\
 BRAVO, BRAVISSIMO!
-(Spanish Panic turns)
-4TH, 5TH & 6TH DUOS:
 
-(Handclaps in rhythm as wINNIFRED throws DAUNTLESS)
-WINNIERED (Wilder than ever):
+#dX[WINNIERED]
+AH - AH - AH, AH, AH, AH, AH AHHH!
 
-AH - AH - AH, AH, AH, AH, AH
-AHHH!
-2ND, 3RD, 4TH, 5TH & 6TH DUOS:
-
-FILL THE BOWL TO OVERFLOWING
+#dX[2ND, 3RD, 4TH, 5TH & 6TH DUOS]
+FILL THE BOWL TO OVERFLOWING\
 RAISE THE GOBLET HIGH!
 
-(Wine poured, WINNIFRED drinks)
-1ST, 2ND, 3RD, 4TH, 5TH & 6TH DUOS:
-WITH AN “F” AND AN “R” AND AN “E” AND A “D”
+#dX[1ST, 2ND, 3RD, 4TH, 5TH & 6TH DUOS]
+WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
-(WINNIFRED reaches for the weight, but then decides to “pass”
-on it this time)
-
-, AH, AH, AH, AH, AH,
-
-DAUNTLESS:
-
-I’'M IN LOVE WITH A GIRL NAMED FRED!
-A CLEVER, CLOWNISH WIT.
-WHEN SHE DOES HER FUNNY PANTOMIME
+#dX[DAUNTLESS]
+I’'M IN LOVE WITH A GIRL NAMED FRED!\
+A CLEVER, CLOWNISH WIT.\
+WHEN SHE DOES HER FUNNY PANTOMIME\
 YOUR SIDES ARE SURE TO SPLIT!
-(WINNIFRED pantominies)
 
-7tHpUO: HA, HA, HA, HA, HO, HO, HO, HO, HA, HA, HA, HA,
-HO!
+#dX[7TH DUO]
+HA, HA, HA, HA, HO, HO, HO, HO, HA, HA, HA, HA, HO!
 
-(WINNIERED ad libs on lute, while 61t1 and 77H DUOS tap their
-feet in rhythm)
+#tpp[39]
 
-s s e e ERSRRKRRNR”
-ARARARRARRRRRRRARRRERRRRRERRR RN RN RSN DR
-
-Scene9 39
-
-5TH, 6TH &7TH DUOS:
-BRAVO, BRAVO, BRAVISSIMO!
+#dX[5TH, 6TH & 7TH DUOS]
+BRAVO, BRAVO, BRAVISSIMO!\
 BRAVO, BRAVISSIMO!
-(Spanish Panic turns)
-4TH, 5TH, 6TH & 7TH DUOS:
-(Handclaps in rhiythm as WINNIFRED heads toward DAUNT-
-LESS, but this time, he flings himself to the floor before she can
-reach him)
-WINNIFRED (In completely wild, alcoholic abandon):
-AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH,
-AHHH!
-(This last “vocalise” turns into raucous laughter, which con-
-tinues through the remainder of the song)
-2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS:
-FILL THE BOWL TO OVERFLOWING.
+
+#dX[WINNIFRED]
+AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
+
+#dX[2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
+FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
-(Wine is poured into goblet, but WINNIFRED takes the jug
-instead, swigs from it, and, still laughing, lurches toward the
-weight)
-1ST, 2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS:
-WITH AN “F” AND AN “R” AND AN “E” AND A “D”
+
+#dX[1ST, 2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
+WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
-DAUNTLESS:
-I'MIN LOVEWITHAGIRL. . .
-(WINNIERED picks up the weight with ease . . .)
-cHorus: HE'SINLOVEWITHAGIRL. . .
-EVERYONE: . . . NAMED “F” “R” “E” “D”, FRED!
-(At the end, the COURTIERS raise WINNIFRED onto their shoul-
-ders. Still laughing, she carries the decanter in one hand and
-the weight in the other. On the final cheer, she falls over
-backwards . . . passed out)
 
-END OF ACT ONE
-ACT TWO
+#dX[DAUNTLESS]
+I'M IN LOVE WITH A GIRL...
 
-Music 15: ENTR’ACTE
+#dX[CHORUS]
+HE'S IN LOVE WITH A GIRL...
+#dX[EVERYONE]
+...NAMED "F" "R" "E" "D", FRED!
 
-(Scene: The Castle. Curtain up on Second Chime in complete darkness.
-KING enters UP RIGHT on stairway on fourth Chime. KING goes to bottom
-of stairway, looks around, motions OFF RIGHT for MINSTREL, JESTER, and
-LARKEN fo enter. LARKEN is disguised as a boy, wearing same outfit
-DAUNTLESS wore in Act One. They come down stairs, KING looks OFF
-RIGHT and sees QUEEN coming on from OFF RIGHT on stage floor, blows out
-his candles. KING, MINSTREL, JESTER and LARKEN stand motionless on
-stairs as QUEEN enters from RIGHT with her procession. As QUEEN passes
+= END OF ACT ONE
 
-CENTER, LARKEN sneezes, and QUEEN begins Quiet Chant. The Quiet
-Round begins)
+#tpp[40]
 
-Music 16: OPENING - ACT 1l
+= ACT TWO
 
-QUEEN:  QUIET!
-ALL: QUIET, THE QUEEN INSISTS ON QUIET.
-SHE’S ORDERED TWENTY MATTRESSES,
-THE SOFTEST AND THE BEST.
-AND SHE’S THREATENED EXECUTION
-IF WE DISTURB THE REST
+== Music 15: ENTR’ACTE
+
+== Music 16: OPENING - ACT II
+
+#dX[QUEEN]
+QUIET!
+
+#dX[ALL]
+QUIET, THE QUEEN INSISTS ON QUIET.\
+SHE’S ORDERED TWENTY MATTRESSES,\
+THE SOFTEST AND THE BEST.\
+AND SHE’S THREATENED EXECUTION\
+IF WE DISTURB THE REST\
 OF HER VERY SPECIAL GUEST.
-1sT GrOUP: SHE’S ORDERED QUIET, QUIET
-THE QUEEN INSISTS ON
-QUIET (ETC.)
-2ND GROUP:
-QUIET! QUIET!
-THE QUEEN INSISTS ON
-QUIET (ETC.)
-3RD GROUP:
-QUIET! QUIET!
-THE QUEEN INSISTS ON
+
+// TODO: Who are these groups?
+// Note: they continue singing
+#dX[1ST GROUP]
+SHE’S ORDERED QUIET, QUIET\
+THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
-= ------.-a.ﬁﬁﬂ““"(““““““'
-Scene 1 41
-
-4TH GROUFP:
-QUIET! QUIET!
+#dX[(ADD) 2ND GROUP]
+QUIET! QUIET!\
+THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
-QUEEN (Entering from pOwN LEFT as round finishes):
+#dX[(ADD) 3RD GROUP]
+QUIET! QUIET!\
+THE QUEEN INSISTS ON\
+QUIET (ETC.)
+
+#tpp[41]
+
+#dX[(ADD) 4TH GROUP]
+QUIET! QUIET!\
+QUIET (ETC.)
+
+#dX[QUEEN]
 PLEASE!
 
-ALL (Bumping into each other as they swarm to exits):
+#dX[ALL]
 SHHHHHHHHHHH!
 
-(QUEEN, at LEFT CENTER, claps as GIRLS enter DOWN LEFT with sheets,
-pillows, and blankets. Her clap is mocked OFF RIGHT. She turns and begins
-to cross to RIGHT)
+#dX[QUEEN]
+Sheets!
 
-QUEEN: Sheets!
+// TODO: Who?
+#dX[LADY]
+Right.
 
-LADY (Following QUEEN): Right.
+#dX[QUEEN]
+Pillows!
 
-QUEEN: Pillows!
+#dX[LADY]
+Right.
 
-LADY: Right.
+#dX[QUEEN]
+Blankets!
 
-QUEEN: Blankets!
+#dX[LADY]
+Right.
 
-LADY: Right.
+#dX[QUEEN]
+Mattresses.
 
-QUEEN: Mattresses.
+#dX[MEN]
+Right. Right. Right.
 
-MEN (With mattresses, entering in procession from pown LEFT): Right. Right.
-Right. (The dance begins, accompanied by hand claps and finger snaps. At
-a point in the dance, KING and LARKEN enter DOWN LEFT and JESTER
-moves to them)
+#dX[CHORUS]
+"Bravo, bravo, bravissimo!" "Show us how, Jester." "Go, go!"
 
-CHORUS (During dance): “Bravo, bravo, bravissimo!” (Screams) “Show us
-how, Jester.” “Go, go!”
+#dX[JESTER]
+Not yet, I'll get them out of here. Lay low until the coast is clear.
 
-JESTER (To KING and LARKEN during dance): Not yet, I'll get them out of
-here. Lay low until the coast is clear.
+#dX[CHORUS]
+Bravo!
 
-CHORUS (At conclusion of dance): Bravo! (After the dance is completed, the
-JESTER leads everyone out UP RIGHT. KING, LARKEN, MINSTREL enfer
-DOWN LEFT. As they get to CENTER, the QUEEN begins talking OFF RIGHT.
-The QUEEN's monologue continues over the action and other dialogue until
-she enters)
+#dX[QUEEN]
+Jester! Jester! Somebody stop him. Stop him, I say. There he goes down that corridor. Bring him here
+to me. This is a fine kettle of fish. Now, you wretch, I want the truth... what is this noise all
+about anyway? The moment I turn my back, something outrageous is always going on in the corridors.
 
-QUEEN (OFF RIGHT): Jester! Jester! Somebody stop him. Stop him, I say.
-There he goes down that corridor. Bring him here to me. This is a
-fine kettle of fish. Now, you wretch, I want the truth . . . what is
-this noise all about anyway? The moment I turn my back, some-
-thing outrageous is always going on in the corridors. (When the
-QUEEN begins to talk, the KING stops LARKEN and the MINSTREL and
-pantomimes that the QUEEN is OFF RIGHT. They all begin to run back off)
+#dX[HARRY]
+Never mind me!
 
-HARRY (OFF LEFT): Never mind me!
+#dX[LARKEN]
+Harry!
 
-LARKEN (Stopping the others on stage): Harry! (They start to run off up RIGHT)
-42 Act Two
+#tpp[42]
 
-MINSTREL: The Queen! (He runs pownstaGE and trips on the center mattress,
+#dX[MINSTREL]
+The Queen!
 
-falling flat on his face on mattress. The KING covers him with a mattress
-and motions LARKEN to lie on top of it, then covers her with the remaining
-mattress, and the KING steps in front of this mattress sandwich)
+#dX[ALL]
+The Queen! The Queen! The Queen!, etc.
 
-ALL (Running on from up RIGHT): The Queen! The Queen! The Queen!,
-etc.
+#dX[QUEEN]
+Stop. I knew I couldn’t trust you, you wretch! What is going on here? What are you up to?
 
-QUEEN (OFF RIGHT): Stop. (She enters pulling the JESTER by his ear, followed by
-the WIZARD. SIR HARRY enters DOWN LEFT, with MABELLE clinging to his
-arm) I knew I couldn’t trust you, you wretch! What is going on
-here? (To kinG) What are you up to?
+#dX[KING]
+(I'm up to here)
 
-KING: (I'm up to here)
+#dX[QUEEN]
+WHAT!
 
-QUEEN: WHAT!
+#dX[KING]
+(I'm doing Spanish Panic)
 
-KING: (I'm doing Spanish Panic)
+#dX[QUEEN]
+There’s something going on around here. What's under the mattress?
 
-QUEEN: There’s something going on around here. What's under the
-mattress?
+#dX[KING]
+(Nothing)
 
-KING: (Nothing)
+#dX[QUEEN]
+It’s a dead body.
 
-QUEEN: It’s a dead body.
+#dX[KING]
+(Mock sadly, yes) (Reverently removes his hat)
 
-KING: (Mock sadly, yes) (Reverently removes his hat)
+#dX[QUEEN]
+Pull that away. Well! What are you doing? Explain yourself.
 
-QUEEN: Pull that away. (MEN pull off mattresses and take them upstack, as
+#dX[MINSTREL]
+It's just a joke, Your Majesty. This boy and I... Go outside and wait for me... uh... uh...
+Lancelot.
 
-LARKEN and MINSTREL get 1p. LARKEN comes DOWN) Well! (MINSTREL
-comes DOWN) What are you doing? Explain yourself.
+#dX[QUEEN]
+Lancelot! Wait! Lady Larken! Take those things up to what's her name’s chamber---mattresses too.
 
-MINSTREL: It's just a joke, Your Majesty. This boy and I . . . Go outside
+#dX[LARKEN]
+Your Majesty...
 
-and wait forme . . .uh ... uh. .. Lancelot. (LARKEN starfs fo exit
-LEFT)
+#dX[QUEEN]
+QUIET! What are you doing in that ridiculous get-up?
 
-QUEEN: Lancelot! Wait! (Everyone bows or curtsies as she screams. QUEEN
-crosses to LARKEN and turns her around. All rise) Lady Larken! Take
-those things up to what's her name’s chamber—mattresses too.
+#dX[LARKEN]
+Please, I...
 
-(She crosses RIGHT. GIRLS pick up sheets, pillows, and blankets and cross
-DOWN RIGHT and MEN with mattresses exit Up RIGHT)
-LARKEN: Your Majesty . . .
+#dX[QUEEN]
+Silence! And why weren’t you at the Ball?
 
-QUEEN: QUIET! What are you doing in that ridiculous get-up?
-LARKEN: Please, I. . .
+#dX[MINSTREL]
+Your Majesty...
 
-QUEEN: Silence! And why weren’t you at the Ball?
-MINSTREL: Your Majesty . . .
+#dX[QUEEN]
+Shut up. And why are you with this man? Answer me!
 
-QUEEN: Shut up. (To LARKEN) And why are you with this man? Answer
-me!
+#dX[LARKEN]
+I...
 
-LARKEN: I . . .
-QUEEN: Well, speak up.
-LARKEN: Your Majesty, I beg of you . . .
+#dX[QUEEN]
+Well, speak up.
 
-QUEEN: You were running away—is that it? (LARKEN doesn’t answer) You
-were running away!
+#dX[LARKEN]
+Your Majesty, I beg of you...
 
-HARRY (Horrified): Larken!
+#dX[QUEEN]
+You were running away---is that it? You were running away!
 
-2a e 8000086000000 000000000000 RECEEEEEEEgENNl"”
-Scene 1 43
+#dX[HARRY]
+Larken!
+
+#tpp[43]
 
 QUEEN: Why you lowborn, ungrateful little sneak! Is this the thanks I
 get for treating you as my own daughter? Just look at you! One of
