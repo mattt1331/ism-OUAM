@@ -2685,1263 +2685,1130 @@ Larken!
 
 #tpp[43]
 
-QUEEN: Why you lowborn, ungrateful little sneak! Is this the thanks I
+#dX[QUEEN]
+Why you lowborn, ungrateful little sneak! Is this the thanks I
 get for treating you as my own daughter? Just look at you! One of
 my girls running off with a musician!
 
-MINSTREL: Majesty, the Lady Larken is innocent! I'll tell you the truth. I
-forced her to leave against her willl (HARRY whirls around to face
-MINSTREL)
+#dX[MINSTREL]
+Majesty, the Lady Larken is innocent! I'll tell you the truth. I
+forced her to leave against her will!
 
-LARKEN: That’s not true!
+#dX[LARKEN]
+That’s not true!
 
-HARRY (Going for the MINSTREL): Why you low . . .
+#dX[HARRY]
+Why you low...
 
-QUEEN: Just a moment!
+#dX[QUEEN]
+Just a moment!
 
-HARRY: Larken, what are you doing with that man?
+#dX[HARRY]
+Larken, what are you doing with that man?
 
-LARKEN (Glaring at MABELLE): What are you doing with that woman?
+#dX[LARKEN]
+What are you doing with that woman?
 
-QUEEN: Just a moment!
+#dX[QUEEN]
+Just a moment!
 
-HARRY (To LARKEN): You go to your room!
+#dX[HARRY]
+You go to your room!
 
-LARKEN: Don'’t you tell me what to do, you . . . libertine!
+#dX[LARKEN]
+Don't you tell me what to do, you... libertine!
 
-QUEEN: QUIET! (To LARKEN) May I remind you that you are still one of
+#dX[QUEEN]
+QUIET! May I remind you that you are still one of
 my Ladies-In-Waiting? Get above stairs where you belong and
 prepare what’s-her-name for bed!
 
-LARKEN: Please, Your Majesty . . .
+#dX[LARKEN]
+Please, Your Majesty...
 
-QUEEN: Do as I say! (LARKEN goes off quickly, QUEEN turns to HARRY) And
-may I remind you, Sir Harry, that you are still one of my Knights.
-Step forward. (HARRY steps forward, dropping MABELLE's hand)
+#dX[QUEEN]
+Do as I say! And may I remind you, Sir Harry, that you are still one of my Knights. Step forward.
 
-MABELLE (Left alone): Ohh . ..
+#dX[MABELLE]
+Ohh...
 
-QUEEN (To MABELLE): And you relax! (To HARRY) Sir Harry, I order this
-Minstrel banished from my kingdom! I want him out of here by
-daybreak. (HARRY takes MINSTRELL off DOWN LEFT. JESTER follows them)
-Sextimus! Go to bed. I don’t want you groping around in the dark
-all night. (QUEEN directs her attention to the others as KING pinches LADY
-and exits powN LEFT) And the rest of you, listen closely. There is a
-little girl upstairs who is dog-tired.
+#dX[QUEEN]
+And you relax! Sir Harry, I order this Minstrel banished from my kingdom! I want him out of here by
+daybreak. Sextimus! Go to bed. I don’t want you groping around in the dark all night.  And the rest
+of you, listen closely. There is a little girl upstairs who is dog-tired.
 
-LaDY: Oh, no. She said she was going to study for her test.
+#dX[LADY]
+Oh, no. She said she was going to study for her test.
 
-QuEEN: All right, let her study, but when she goes to bed, I want her to
+#dX[QUEEN]
+All right, let her study, but when she goes to bed, I want her to
 get a good rest so I want quiet around here. Is that clear? I want
 quiet and I'm going to get quiet if I have to scream the palace
-down. (LADY giggles) QUIET! (She exits with WIZARD)
+down---
 
-ENSEMBLE (Crossing from DOWN RIGHT to DOWN LEFT):
+#dX[LADY]
+(giggles)
 
+#dX[QUEEN]
 QUIET!
 
-THE QUEEN INSISTS ON QUIET!
-THE QUEEN INSISTS ON
-QUEEN INSISTS ON
-
-QUEEN INSISTS ON
-
+#dX[ENSEMBLE ]
+QUIET!\
+THE QUEEN INSISTS ON QUIET!\
+THE QUEEN INSISTS ON\
+QUEEN INSISTS ON\
+QUEEN INSISTS ON\
 QUIET!
-44 Act Two
 
-Scene 2
+#tpp[44]
 
-(Scene: DAUNTLESS has several books and is reading from one. He is
-helping WINNIFRED cram for the test they both think is tomorrow)
+= Scene 2
 
-DAUNTLESS (Reading): “Sum.”
+#dX[DAUNTLESS]
+"Sum."
 
-WINNIFRED: Sum. S-U-M, sum.
+#dX[WINNIFRED]
+Sum. S-U-M, sum.
 
-DAUNTLESS: “Summer.”
+#dX[DAUNTLESS]
+"Summer."
 
-WINNIFRED: “Summer.” S-U-M-E-R. “Summer.”
+#dX[WINNIFRED]
+"Summer." S-U-M-E-R. "Summer."
 
-DAUNTLESs: Good. Well, if Mama tests you in Literature or Spelling,
-you're sure to pass, Fred. (Changes book) That leaves . . . (Reads)
-“History.”
+#dX[DAUNTLESs]
+Good. Well, if Mama tests you in Literature or Spelling, you're sure to pass, Fred. That leaves... "History."
 
-WINNIFRED: History. That takes in quite a lot but let's give it a whirl.
+#dX[WINNIFRED]
+History. That takes in quite a lot but let's give it a whirl.
 
-DAUNTLESS (Reading): The first chapter is called, “The Bravery of Prince
+#dX[DAUNTLESS]
+The first chapter is called, "The Bravery of Prince Waldere."
 
-Waldere.”
+#dX[WINNIFRED]
+...Waldere...
 
-WINNIFRED (Absently): . . . Waldere . . .
+#dX[DAUNTLESS]
+"Young Waldere, wishing to slay the dragon Fafner---"
 
-DAUNTLESS (Reading): “Young Waldere, wishing to slay the dragon Faf-
-ner:: .. .z
+#dX[WINNIFRED]
+Who?
 
-WINNIFRED: Who?
+#dX[DAUNTLESS]
+"...wishing to slay the dragon Fafner---"
 
-DAUNTLESS (Reading): “. . . wishing to slay the dragon Fafner — ”
+#dX[WINNIFRED]
+Oh, yeah, Fafner, that one.
 
-WINNIFRED: Oh, yeah, Fafner, that one.
+#dX[DAUNTLESS]
+Takes his father’s sword “Minning.”
 
-DAUNTLESS: Takes his father’s sword “Minning.”
+#dX[WINNIERED]
+...Minning...
 
-WINNIERED: . . . Minning . . .
+#dX[DAUNTLESS ]
+“Disguised as the West Wind, he goes into the forest, surprises Fafner in his lair and slays him,
+whereupon he is enabled to understand the speech of birds. Meanwhile, Waldere's father, Alberich,
+disguised as the Sacred Goat, tells him that the spirit of Gunthere...”
 
-DAUNTLESS (Reading): “Disguised as the West Wind, he goes into the
-forest, surprises Fafner in his lair and slays him, whereupon he is
-enabled to understand the speech of birds. Meanwhile, Waldere's
-father, Alberich, disguised as the Sacred Goat, tells him that the
-spirit of Gunthere . . .”
+#dX[WINNIFRED]
+Oh, yeah, Gunthere? But I thought... Did you ring for a pageboy?
 
-WINNIFRED: Oh, yeah, Gunthere? But I thought . . . (But LaDY LARKEN,
-still dressed as a boy, enters dazedly. WINNIFRED questions DAUNTLESS)
-Did you ring for a pageboy?
+#dX[DAUNTLESS]
+No.
 
-DAUNTLESS: No.
+#dX[WINNIFRED]
+You've got the wrong room, son. Aren’t you Larken?
 
-WINNIFRED (To LARKEN): You've got the wrong room, son. (But now
-WINNIFRED recognizes her, gets up and goes to her) Aren’t you Larken?
+#dX[LARKEN]
+Yes, Your Highness.
 
-LARKEN (Numb): Yes, Your Highness.
+#dX[WINNIFRED]
+What's the matter?
 
-WINNIFRED: What's the matter?
+#dX[LARKEN]
+I...
 
-LARKEN: I ...
+#dX[DAUNTLESS]
+I have a suit just like that.
 
-DAUNTLESS (Who has been curiously studying LARKEN's attire): I have a suit
-just like that.
+#dX[LARKEN]
+I am in disguise, Your Highness. I... I was running away.
 
-LARKEN: Tam in disguise, Your Highness. I . . . I was running away.
+#dX[WINNIFRED]
+I see. Well, sit down and rest. Dauntless, pull up a chair.
 
-WINNIFRED (Warily): 1 see. Well, sit down and rest. Dauntless, pull up a
-chair. (DAUNTLESS goes and tries to pull up chair)
-Scene 2 45
+#tpp[45]
 
-LARKEN: But, the Queen has ordered me . . .
+#dX[LARKEN]
+But, the Queen has ordered me...
 
-WINNIFRED: Never mind what the Queen has ordered. (WINNIFRED helps
-DAUNTLESS slide chair into place) Just sit here.
+#dX[WINNIFRED]
+Never mind what the Queen has ordered. Just sit here.
 
-LARKEN: But, Your Highness . . .
+#dX[LARKEN]
+But, Your Highness...
 
-WINNIFRED: Oh, sit down. Now then, what's this all about?
+#dX[WINNIFRED]
+Oh, sit down. Now then, what's this all about?
 
-LARKEN: I'll just go out on the parapet and stand there naked and catch a
-chill and die and that'll show him.
+#dX[LARKEN]
+I'll just go out on the parapet and stand there naked and catch a chill and die and that'll show
+him.
 
-DAUNTLESS: Show him what?
+#dX[DAUNTLESS]
+Show him what?
 
-LARKEN: He'll be sorry . . .
-
-DAUNTLESS: Who?
-
-LARKEN: Horrible Harry . . .
-
-DAUNTLESS: You mean big, nice Harry?
-
-WINNIFRED: Just a minute. (Carefully) What did you do to him? (LARKEN
-very slowly comes back to life. She turns to WINNIFRED)
-
-LARKEN: What did I do to him?
-
-WINNIFRED: Well, you must have done something. You're talking the
-way I did once when I was afraid to go home because I'd given my
-little brother a bloody lip. (DAUNTLESS pulls away from her. She speaks
-to DAUNTLESS with an airy wave of the hand) It was an accident. (He is
-reassured)
-
-LARKEN (Evasively): We had a little disagreement.
-
-WINNIFRED: So you decided to run away?
-
-LARKEN (Defending herself): He said some perfectly horrible things to me.
-
-WINNIERED: Oh . . . I see. Well, in that case, I guess you were right.
-guess about the only thing you can dois . . . pack up and . . . get
-out. Unless, of course . . . you just go to him and say you're sorry.
-Listen, that Harry is a wonderful boy . . . and he really loves you.
-Why, we were on the road for two weeks and he never laid a finger
-on me,
-
-LARKEN: Oh, Your Highness!
-
-WINNIFRED: Now, you just get into something pretty that shows you're a
-girl and patch things up with him. Oh, and Larken — try and acta
-little helpless — men don't like girls that are too strong.
-
-DAUNTLESS: I do!
-
-LARKEN: Dear, dear Princess, I don’t know how to thank you!If . .. ifit's
-a girl, I'm going to name her Fred! ( Exits)
-
-DAUNTLEss: What if it's a boy?
-
-wINNIFRED: Dauntless, you'd better go to bed. And leave the history
-
-book.
-DAUNTLESS: I'm positive you're going to pass Mama'’s test tomorrow.
-(No reaction) Well, I'm pretty sure . . . If you don’t . . . I'll
-
-understand. (He leans down, kisses her and goes out ur)
-46 Act Two
-
-WINNIFRED (Picks up book and begins to read): “And so the young Prince
-Waldere, having slain the dragon Fafner with the sword Minning,
-rescued the Princess Frigga, and together they mounted his horse,
-Trigga . . . (Pauses to turn page) . . . and rode to the castle,
-Voonderbar, where they were married and lived happily ever
-after.”” (She closes book) Well, I'm glad. (During the following song,
-WINNIFRED is getting ready for bed, and moves about the chamber
-
-somewhat in the manner of a “strip-tease” dancer, building in intensity to
-a “flash finish.”)
-
-Music 17: HAPPILY EVER AFTER
-
-WINNIFRED:
-THEY ALL LIVE HAPPILY, HAPPILY, HAPPILY EVER
-AFTER.
-
-THE COUPLE IS HAPPILY LEAVING THE CHAPEL
-ETERNALLY TIED.
-
-AS THE CURTAIN DESCENDS, THERE IS NOTHING BUT
-LOVING AND LAUGHTER.
-
-WHEN THE FAIRY TALE ENDS, THE HEROINE'S ALWAYS
-A BRIDE.
-
-ELLA, THE GIRL OF THE CINDERS,
-DID THE WASH AND THE WALLS AND THE WINDERS,
-
-BUT SHE LANDED A PRINCE WHO WAS BRAWNY AND
-BLUE-EYED AND BLOND.
-
-STILL I HONESTLY DOUBT THAT
-SHE COULD EVER HAVE DONE IT WITHOUT THAT
-CRAZY LADY WITH THE WAND —
-(Spoken)
-Cinderella had outside help!
-(Sung)
-I HAVE NO ONE BUT ME.
-
-FAIRY GODMOTHER, GODMOTHER, GODMOTHER!
-WHERE CAN YOU BE?
-
-(Spoken)
-I'haven’t got a Fairy Godmother. I haven't even got a godmother
-... I have a mother . . . a plain, ordinary woman . . .
-(Sung)
-SNOW WHITE WAS SO PRETTY, THEY TELL US,
-THAT THE QUEEN WAS INSULTED AND JEALOUS.
-
-WHEN THE MIRROR DECLARED THAT SNOW WHITE
-WAS THE FAIREST OF ALL
-
-G B B B B B BE B E R EE R EEEEEEEEE R N AR EEEEREEEY
-Scene 2 47
-
-SHE WAS DUMPED ON THE BORDER
-BUT WAS SAVED BY SOME MEN WHO ADORED ER —
-
-OH, I GRANT YOU — THEY WERE SMALL
-
-(Spoken)
-But there were seven of them. Practically a regiment!
-
-(Sung)
-I'M ALONE IN THE NIGHT,
-BY MYSELE. NOT A DWARF, NOT AN ELF, NOT A
-
-GOBLIN IN SIGHT!
-
-(Spoken)
-That girl had seven determined little men working day and night
-
-just for her — Oh sure, the Queen gave her a poison apple, even
-
-SO...
-
-(Sung) y
-SHE LIVED HAPPILY, HAPPILY, HAPPILY EVER AFTER.
-
-A MAGICAL KISS COUNTERACTED THE
-APPLE — EVENTUALLY.
-THOUGH I KNOW I'M NOT CLEVER, I'LL DO WHAT
-
-THEY TELL ME I HAFTA!
-I WANT SOME HAPPILY EVER AFTER TO HAPPEN TO
-
-ME.
-RAPUNZEL HAD PLATINUM TRESSES
-
-THAT WERE DOUBLE THE LENGTH OF HER DRESSES.
-
-SHE WAS KEPT IN A TOWER FOR YEARS BY A WICKED
-OLD WITCH
-
-“TIL ONE NIGHT IN DESPAIR, DOWN
-
-SHE SCRAMBLED BY LETTING HER HAIR DOWN —
-
-THAT'S WHAT I CALL QUITE A SWITCH!
-(Spoken)
-I wonder . . . No, it'll never hold —
-
-(Sung)
-I'LL BE FINISHED BEFORE I BEGIN
-AND BESIDES I DON'T WANT TO GET OUT —
-
-I WANT TO GET IN!
-I WANT TO LIVE HAPPILY, HAPPILY, HAPPILY EVER
-
-AFTER.
-I WANT TO WALK HAPPILY OUT OF A CHAPEL
-
-ETERNALLY TIED—
-FOR I KNOW THAT I'LL NEVER LIVE HAPPILY EVER
-
-AFTER
-
-"TIL AFTER I'M A BRIDE.
-(Now in her stocking feet, she leaves the stage just long enough
-
-to fetch a large “foot-bath” bowl)
-48 Act Two
-
-THEN I'LL BE HAPPILY HAPPY!
-
-(Moves bowl in circles, as if to stir contents)
-YES, HAPPILY HAPPY!
-
-(Sets bowl in front of chair. Sits down on chair)
+#dX[LARKEN]
+He'll be sorry...
+
+#dX[DAUNTLESS]
+Who?
+
+#dX[LARKEN]
+Horrible Harry...
+
+#dX[DAUNTLESS]
+You mean big, nice Harry?
+
+#dX[WINNIFRED]
+Just a minute. What did you do to him?
+
+#dX[LARKEN]
+What did I do to him?
+
+#dX[WINNIFRED]
+Well, you must have done something. You're talking the way I did once when I was afraid to go home
+because I'd given my little brother a bloody lip.\
+It was an accident.
+
+#dX[LARKEN]
+We had a little disagreement.
+
+#dX[WINNIFRED]
+So you decided to run away?
+
+#dX[LARKEN]
+He said some perfectly horrible things to me.
+
+#dX[WINNIERED]
+Oh... I see. Well, in that case, I guess you were right. guess about the only thing you can do
+is... pack up and... get out. Unless, of course... you just go to him and say you're sorry. Listen,
+that Harry is a wonderful boy... and he really loves you. Why, we were on the road for two weeks
+and he never laid a finger on me.
+
+#dX[LARKEN]
+Oh, Your Highness!
+
+#dX[WINNIFRED]
+Now, you just get into something pretty that shows you're a
+girl and patch things up with him. Oh, and Larken---try and act a
+little helpless---men don't like girls that are too strong.
+
+#dX[DAUNTLESS]
+I do!
+
+#dX[LARKEN]
+Dear, dear Princess, I don’t know how to thank you! If... if it's a girl, I'm going to name her
+Fred!
+
+#dX[DAUNTLESS]
+What if it's a boy?
+
+#dX[WINNIFRED]
+Dauntless, you'd better go to bed. And leave the history book.
+
+#dX[DAUNTLESS]
+I'm positive you're going to pass Mama's test tomorrow. Well, I'm pretty sure... If you don't...
+I'll understand.
+
+#tpp[46]
+
+#dX[WINNIFRED]
+"And so the young Prince Waldere, having slain the dragon Fafner with the sword Minning, rescued
+the Princess Frigga, and together they mounted his horse, Trigga... and rode to the castle,
+Voonderbar, where they were married and lived happily ever after." Well, I'm glad.
+
+== Music 17: HAPPILY EVER AFTER
+
+#dX[WINNIFRED]
+THEY ALL LIVE HAPPILY, HAPPILY, HAPPILY EVER AFTER.\
+THE COUPLE IS HAPPILY LEAVING THE CHAPEL ETERNALLY TIED.\
+AS THE CURTAIN DESCENDS, THERE IS NOTHING BUT LOVING AND LAUGHTER.\
+WHEN THE FAIRY TALE ENDS, THE HEROINE'S ALWAYS A BRIDE.\
+ELLA, THE GIRL OF THE CINDERS,\
+DID THE WASH AND THE WALLS AND THE WINDERS,\
+BUT SHE LANDED A PRINCE WHO WAS BRAWNY AND BLUE-EYED AND BLOND.\
+STILL I HONESTLY DOUBT THAT\
+SHE COULD EVER HAVE DONE IT WITHOUT THAT\
+CRAZY LADY WITH THE WAND\
+Cinderella had outside help!\
+I HAVE NO ONE BUT ME.\
+FAIRY GODMOTHER, GODMOTHER, GODMOTHER!\
+WHERE CAN YOU BE?\
+I haven't got a Fairy Godmother. I haven't even got a godmother\
+...I have a mother... a plain, ordinary woman...\
+SNOW WHITE WAS SO PRETTY, THEY TELL US,\
+THAT THE QUEEN WAS INSULTED AND JEALOUS.\
+WHEN THE MIRROR DECLARED THAT SNOW WHITE WAS THE FAIREST OF ALL
+
+#tpp[47]
+
+SHE WAS DUMPED ON THE BORDER\
+BUT WAS SAVED BY SOME MEN WHO ADORED 'ER---\
+OH, I GRANT YOU---THEY WERE SMALL\
+But there were seven of them. Practically a regiment!\
+I'M ALONE IN THE NIGHT,\
+BY MYSELEF. NOT A DWARF, NOT AN ELF, NOT A GOBLIN IN SIGHT!\
+That girl had seven determined little men working day and night just for her---Oh sure, the Queen
+gave her a poison apple, even so...\
+SHE LIVED HAPPILY, HAPPILY, HAPPILY EVER AFTER.\
+A MAGICAL KISS COUNTERACTED THE APPLE---EVENTUALLY.\
+THOUGH I KNOW I'M NOT CLEVER, I'LL DO WHAT THEY TELL ME I HAFTA!\
+I WANT SOME HAPPILY EVER AFTER TO HAPPEN TO ME.\
+RAPUNZEL HAD PLATINUM TRESSES\
+THAT WERE DOUBLE THE LENGTH OF HER DRESSES.\
+SHE WAS KEPT IN A TOWER FOR YEARS BY A WICKED OLD WITCH\
+“TIL ONE NIGHT IN DESPAIR, DOWN\
+SHE SCRAMBLED BY LETTING HER HAIR DOWN---\
+THAT'S WHAT I CALL QUITE A SWITCH!\
+I wonder... No, it'll never hold---\
+I'LL BE FINISHED BEFORE I BEGIN\
+AND BESIDES I DON'T WANT TO GET OUT —\
+I WANT TO GET IN!\
+I WANT TO LIVE HAPPILY, HAPPILY, HAPPILY EVER AFTER.\
+I WANT TO WALK HAPPILY OUT OF A CHAPEL ETERNALLY TIED---\
+FOR I KNOW THAT I'LL NEVER LIVE HAPPILY EVER AFTER\
+'TIL AFTER I'M A BRIDE.
+
+#tpp[48]
+
+THEN I'LL BE HAPPILY HAPPY!\
+YES, HAPPILY HAPPY!\
 AND THOROUGHLY SATISFIED!
 
-(On the last note, she places her fect in the bowl, and leans back
-in ecstatic relief)
+= Scene 3
 
-(Dimout)
+#dX[JESTER]
+You're a bully... and a tyrant... just because you won your spurs you think...
 
-Scene 3
+#dX[HARRY]
+Now see here! This man is charged with attempting to transport a young woman out-of-kingdom against
+her will. That’s a serious offense.
 
-(Scene: Castle corridor. HARRY is half-leading, half-dragging the MIN-
-STREL across stage. A few feet behind them trots the JESTER, followed by the
-KING. The JESTER is taunting HARRY)
+#dX[JESTER]
+He didn’t do it. It was a frame-up.
 
-JESTER: You're a bully . . . and a tyrant . . . just because you won your
-spurs you think . . .
-HARRY (Finally): Now see here! This man is charged with attempting to
+#dX[MINSTREL]
+You've got it all wrong.
 
-transport a young woman out-of-kingdom against her will. That’s
-a serious offense.
+#dX[JESTER]
+He was protecting the Lady Larken... and you keep out of this, Your Majesty.
 
-JESTER: He didn’t do it. It was a frame-up.
+#dX[MINSTREL]
+Sir Harry, I can’t leave yet. There’s someone I must see first!
 
-MINSTREL: You've got it all wrong.
+#dX[HARRY]
+Who?
 
-JESTER: He was protecting the Lady Larken . . . and you keep out of this,
-Your Majesty.
+#dX[MINSTREL]
+The Wizard. I want your permission to speak to the Wizard.
 
-MINSTREL: Sir Harry, I can’t leave yet. There’s someone I must see first!
+#dX[JESTER]
+Yes, yes!
 
-HARRY: Who?
+#dX[HARRY]
+No, permission denied.
 
-MINSTREL: The Wizard. I want your permission to speak to the Wizard.
+#dX[MINSTREL]
+Sir Harry, you're a fathead!
 
-JESTER: Yes, yes! (KING agrees)
+#dX[JESTER]
+Yes, you are. He's trying to help. We're all trying to help.
 
-HARRY: No, permission denied.
+#dX[HARRY]
+How can you help?
 
-MINSTREL: Sir Harry, you're a fathead!
+#dX[MINSTREL]
+By finding out what the test is... from the Wizard.
 
-JESTER: Yes, you are. He's trying to help. We're all trying to help.
+#dX[HARRY]
+That's cheating.
 
-HARRY: How can you help?
+#dX[JESTER]
+Don’t you understand? This is for you.
 
-MINSTREL: By finding out what the testis . . . from the Wizard.
+#dX[MINSTREL]
+Let me go to the Wizard.
 
-HARRY (He thinks it over . . . finally): That's cheating.
+#dX[HARRY]
+No. If anyone should defy the Wizard's magic, I should.
 
-JESTER: Don’t you understand? This is for you.
+#dX[JESTER]
+You must stand guard. This is my job.
 
-MINSTREL: Let me go to the Wizard.
+#dX[KING]
+(Panto: “I'll do it”)
 
-HARRY: No. If anyone should defy the Wizard's magic, I should.
+#dX[JESTER]
+No. You might get hurt.
 
-JESTER: You must stand guard. This is my job.
+#dX[KING]
+(Fight with wizarD)
 
-KING: (Panto: “I'll do it”)
+#dX[JESTER]
+You can’t come, and that’s final!
 
-JESTER: No. You might get hurt.
+#tpp[49]
 
-KING: (Fight with wizarD)
+KING:
+(Still fighting wizARD)
 
-JESTER: You can’t come, and that’s final!
+#dX[DAUNTLESS]
+What's the matter, Papa?
 
-P T T T B B B DY B I I B B B B I B B B B B I B I I B I B B B B B BN B
-.EiiiﬁiiiiBUiiiii...-o-.o.--.--------- MR R
+#dX[HARRY]
+The King mustn’t come with us.
 
-Scene 3 49
+#dX[JESTER]
+I'll get rid of him. Your Majesty, Prince Dauntless is ready now. He needs to have that personal
+talk with you.
 
-KING: (Still fighting wizARD)
+#dX[DAUNTLESS]
+Well, some other time.
 
-DAUNTLESS (Enters from riGHT): What's the matter, Papa?
+#dX[JESTER]
+Dauntless, your father wants to have that little chat with you now. It's very important.
 
-HARRY: The King mustn’t come with us.
+#dX[DAUNTLESS]
+It is?
 
-JESTER: I'll get rid of him. (To KING) Your Majesty, Prince Dauntless is
-ready now. He needs to have that personal talk with you.
+#dX[JESTER]
+It can’t be put off. Come on. Do your duty, Sire.
 
-DAUNTLESS: Well, some other time.
+#dX[DAUNTLESS]
+What is it, Papa? What do you want to talk about? Well, Papa...?
 
-JESTER: Dauntless, your father wants to have that little chat with you
-now. It's very important.
+== Music 18: MAN TO MAN TALK
 
-DAUNTLESS: It is?
+#dX[DAUNTLESS]
+Stop, look listen.\
+Little Prince.\
+Boy... flower...\
+Girl... flower...\
+Boy flower, girl flower...\
 
-JESTER: It can’t be put off. Come on. (JESTER, HARRY, MINSTREL start OFF
-LEFT) Do your duty, Sire. (They ExiT)
+OH, TELL ME MORE,\
+I WANT TO KNOW ABOUT WHAT GETTING MARRIED IS FOR.\
 
-DAUNTLESS: What is it, Papa? What do you want to talk about? Well,
-Papa . . . ? (The KING pantomimes and DAUNTLESS translates aloud,
-struggling to understand what his father is talking about)
+‘Seed... fall... from girl flower...\
 
-Music 18: MAN TO MAN TALK
+AND BYE AND BYE, BABY FLOWER GROW.\
+AH, BUT WHY?\
+OH, TELL ME WHY.\
+OH, FATHER, TELL ME, TELL ME, FATHER DON'T BE SHY.\
+BOY FLOWER, GIRL FLOWER LOVE EACH OTHER.\
+BOY FLOWER, FATHER... GIRL FLOWER, MOTHER.\
+YES, YES, BUT HOW?\
+IT’S VERY INT'RESTING, BUT HOW? OH, TELL ME NOW.\
 
-DAUNTLESS (Spoken):
-Stop, look listen.
-Little Prince.
-Boy . . . flower. . .
-Girl . . . flower. . .
-Boy flower, girl flower . . .
-(Sung)
-OH, TELL ME MORE,
-I WANT TO KNOW ABOUT WHAT GETTING MARRIED IS
-FOR.
-(Spoken)
-‘Seed . . . fall . . . from gitl flower . . .
-(Sung)
-AND BYE AND BYE, BABY FLOWER GROW.
-AH, BUT WHY?
-OH, TELL ME WHY.
-OH, FATHER, TELL ME, TELL ME, FATHER DON'T BE
-SHY.
-BOY FLOWER, GIRL FLOWER LOVE EACH OTHER.
-BOY FLOWER, FATHER . . . GIRL FLOWER, MOTHER.
-YES, YES, BUT HOW?
-IT’S VERY INT'RESTING, BUT HOW? OH, TELL ME NOW.
-(Spoken)
-Bee . . . on boy flower . . .
-Boy flower dust . . . gets on bee.
-50
+Bee... on boy flower...\
+Boy flower dust... gets on bee.
 
-Act Two
+#tpp[50]
 
-Bee flies to girl flower . . .
-Dust touches girl flower.
-Oh, I see. . .
-(Sung)
-NO, IDON'T SEE,
+Bee flies to girl flower...\
+Dust touches girl flower.\
+Oh, I see...
+
+NO, I DON'T SEE,\
 IT'S VERY INT'RESTING, BUT STILL NOT CLEAR TO ME.
-(Spoken)
-Woman: is like girl flower.
-Man: is like bee and like boy flower . . .
+
+Woman: is like girl flower.\
+Man: is like bee and like boy flower...\
 Man, that’s me!
-(Sung)
-BUT TELL ME MORE
-I'VE GOT TO KNOW ABOUT WHAT GETTING MARRIED
-IS FOR.
-(Spoken)
-Sounds like . . . carry. Sounds like carry . . . marry . . .
-Man and woman get married . . .
-Winnifred in white . . . love each other . . . Knight . . .
-And then one night . . .
-(Sung)
-YES, YES, ONE NIGHT,
-IT’S VERY INT'RESTING WHAT HAPPENS IN THE
-NIGHT?
-(KING starts to draw pictures on floor)
-WHAT HAPPENS? WHAT HAPPENS?
-OH, TELL ME FATHER, PLEASE.
-(But when DAUNTLESS comes over, KING quickly rubs it out
-with his foot before the Prince gets a look)
-SHALL I GO AND PICK SOME FLOWERS?
+
+BUT TELL ME MORE\
+I'VE GOT TO KNOW ABOUT WHAT GETTING MARRIED IS FOR.
+
+Sounds like... carry. Sounds like carry... marry...\
+Man and woman get married...\
+Winnifred in white... love each other... Knight...\
+And then one night...
+
+YES, YES, ONE NIGHT,\
+IT’S VERY INT'RESTING WHAT HAPPENS IN THE NIGHT?\
+
+WHAT HAPPENS? WHAT HAPPENS?\
+OH, TELL ME FATHER, PLEASE.\
+SHALL I GO AND PICK SOME FLOWERS?\
 SHALL I GO AND CATCH SOME BEES?
-(Spoken)
-Princess Winnifred . . . and 1. . .
-Will get married . . . and then . . .
-One night . . .
-(KING, defeated, decides to take the easy way, pantos “stork’
-by placing his crown in his kerchief and dangling it from his
-teeth, while standing on one leg, and flapping his “wings”)
-The stork . . . ?
-(Disappointed)
-The stork will come and bring us a baby?
-Oh, father, I know all about the stork.
+
+Princess Winnifred... and I...\
+Will get married... and then...\
+One night...\
+The stork... ?\
+The stork will come and bring us a baby?\
+Oh, father, I know all about the stork.\
 Mama told me about that years ago.
 
-rararareaererear e SN N BEEEREEREEEEEEEEEEEEEEEEEE B BN BB NBNBNMNEN B W B
-)
+#tpp[51]
 
-Scene 4 51
-
-(KING sadly puts back his crown and starts to depart, STAGE
-RIGHT. DAUNTLESS, starting OFF LEFT, suddenly “gets the
-message”)
 No, wait a minute, father.
 
-(Sung)
-
-FLOWER, SEED, MAN, WOMAN, BEE, BABY, SMALL . . .
-
-IT ISN'T THE STORK, IT ISN'T THE STORK, IT ISN'T THE
-
-STORK AT ALL!
-
-(Delighted!)
-
-OH, LIFE IS GRAND!
-
-IT’S VERY INT'RESTING. I THINK I UNDERSTAND.
-
-I THINK, I THINK, I KNOW.
-
-IT'S VERY INT'RESTING.
-(Crosses to KING, who is now mopping his brow in happy
-relief)
-
-THANK YOU, FATHER. . .
-
+FLOWER, SEED, MAN, WOMAN, BEE, BABY, SMALL...\
+IT ISN'T THE STORK, IT ISN'T THE STORK, IT ISN'T THE STORK AT ALL!\
+OH, LIFE IS GRAND!\
+IT’S VERY INT'RESTING. I THINK I UNDERSTAND.\
+I THINK, I THINK, I KNOW.\
+IT'S VERY INT'RESTING.\
+THANK YOU, FATHER...\
 AND FATHER, I LOVE YOU SO!
-(Puts his arm around KING, who responds by suggesting in
-pantomime: “You? Come with me? Have a little drink to-
-gether?” DAUNTLESS agrees, and they go OFF RIGHT, arm-in-
-arm, and beaming)
 
-Scene 4
+= Scene 4
 
-(Scene: The WizARD's chamber. He is alone in the room looking at a
-cauldron of steaming chemicals. The JESTER comes down the stairs followed
-by the MINSTREL)
+#dX[JESTER]
+Pardon, Sir Wizard.
 
-JESTER: Pardon, Sir Wizard.
+#dX[WIZARD]
+What do you want?
 
-wizArD: What do you want?
+#dX[JESTER]
+Our friend, the Minstrel, is a great admirer of yours.
 
-JESTER: Our friend, the Minstrel, is a great admirer of yours.
+#dX[WIZARD]
+No soft soap, if you please.
 
-wizarD: No soft soap, if you please. (Walks away)
+#dX[MINSTREL]
+This is not soft soap. And I wouldn’t even say it except for the fact that I've been banished. And
+before I go — well — I hope this won’t embarrass you, but... I had to tell you what a great
+artist you are... Cardamon.
 
-MINSTREL (Stepping forward): This is not soft soap. And I wouldn’t even
-say it except for the fact that I've been banished. And before I go —
-well — I hope this won’t embarrass you, but . . . I had to tell you
-what a great artist you are . . . Cardamon.
+#dX[WIZARD]
+Cardamon? Don't call me by that name.
 
-wizARD (To JesTeR): Cardamon? Don't call me by that name.
+#dX[MINSTREL]
+I use that name with honor, sir. I don’t think I'll ever forget seeing you in command performance
+at Glastonbury in 92. What a show, what a triumph! You took seven curtain calls.
 
-MINSTREL: I use that name with honor, sir. I don’t think I'll ever forget
-seeing you in command performance at Glastonbury in 92. What a
-show, what a triumph! You took seven curtain calls.
+#dX[WIZARD]
+Eight.
 
-wizarD: Eight.
+#dX[MINSTREL]
+Do you happen to remember a little boy in the second row who stood up and yelled “Bravo” that night?
 
-MINSTREL: Do you happen to remember a little boy in the second row
-who stood up and yelled “Bravo” that night?
-52 Act Two
+#tpp[52]
 
-WIZARD: Yes . . .
+#dX[WIZARD]
+Yes...
 
-MINSTREL: I was that boy.
+#dX[MINSTREL]
+I was that boy.
 
-WIZARD: I can’t believe it.
+#dX[WIZARD]
+I can’t believe it.
 
-MINSTREL: Of course, now I'm in show business, too. And sir . . . if it’s
-any interest to you, it was your inspiration that brought this about.
+#dX[MINSTREL]
+Of course, now I'm in show business, too. And sir... if it’s any interest to you, it was your
+inspiration that brought this about.
 
-WIZARD: You must belong to the guild. (They perform elaborate ritual
-handshake) Camelot Local 714! To think that someone remembers
-those days.
+#dX[WIZARD]
+You must belong to the guild. Camelot Local 714! To think that someone remembers those days.
 
-MINSTREL: Yes. Well, I just wanted to tell you what that performance
-meant to me, Cardamon. I'd better be going now.
+#dX[MINSTREL]
+Yes. Well, I just wanted to tell you what that performance meant to me, Cardamon. I'd better be
+going now.
 
-wizARD: No. Stay awhile. Sir Minstrel — (Flower trick) for you.
+#dX[WIZARD]
+No. Stay awhile. Sir Minstrel — for you.
 
-MINSTREL: Thank you.
+#dX[MINSTREL]
+Thank you.
 
-WIZARD: Here — have a seat.
+#dX[WIZARD]
+Here — have a seat.
 
-MINSTREL: No, the Queen wouldn't like it if she knew I was still around.
+#dX[MINSTREL]
+No, the Queen wouldn't like it if she knew I was still around.
 
-WIZARD: Never mind her. Sit down. This is between us.
+#dX[WIZARD]
+Never mind her. Sit down. This is between us.
 
-MINSTREL: Anyway you're probably busy with that test for tomorrow.
+#dX[MINSTREL]
+Anyway you're probably busy with that test for tomorrow.
 
-wizARD: Oh, that’s all right. The test is all taken care of.
+#dX[WIZARD]
+Oh, that’s all right. The test is all taken care of.
 
-MINSTREL: I don’t suppose you could tell an old Guild brother what it is?
+#dX[MINSTREL]
+I don’t suppose you could tell an old Guild brother what it is?
 
-wizArD: Well, I'm sort of under oath . . .
+#dX[WIZARD]
+Well, I'm sort of under oath...
 
-MINSTREL: I understand. Well, I'd better be going.
+#dX[MINSTREL]
+I understand. Well, I'd better be going.
 
-wiZARD: No. Wait a minute. May I borrow your handkerchief?
+#dX[WIZARD]
+No. Wait a minute. May I borrow your handkerchief?
 
-MINSTREL: What handkerchief? (wizaro produces handkerchief, then
-plucked chicken)
+#dX[MINSTREL]
+What handkerchief?
 
-WIZARD: Some people think my act is pretty fowl.
+#dX[WIZARD]
+Some people think my act is pretty fowl.
 
-MINSTREL: Cardamon the Great!
+#dX[MINSTREL]
+Cardamon the Great!
 
-WIZARD: I bet you can’t guess what the test is about.
+#dX[WIZARD]
+I bet you can’t guess what the test is about.
 
-MINSTREL: Astronomy?
+#dX[MINSTREL]
+Astronomy?
 
-w1zARD: No. You'll never guess. (Conspiratorially) Sensitivity. ( They
-laugh)
+#dX[WIZARD]
+No. You'll never guess. Sensitivity.
 
-MINSTREL: Sensitivity! (To JEsTER) Did you hear? (JESTER rolls on his back
-and kicks his feet. They all laugh) Cardamon the Great.
+#dX[MINSTREL]
+Sensitivity! Did you hear? Cardamon the Great.
 
-wizarD: Cardamon the Greatest. (He makes cane turn into two silks) Now
-let me tell you the rest. (Looks at jester) No, I'd better not.
+#dX[WIZARD]
+Cardamon the Greatest. Now let me tell you the rest. No, I'd better not.
 
-JusTER: Ill go — but may I ask one favor, Cardamon? May [ have this?
-(Picks up flowers)
+#dX[JESTER]
+I'll go — but may I ask one favor, Cardamon? May I have this?
 
-wizarp: What do you want with that?
+#dX[WIZARD]
+What do you want with that?
 
-JESTER: A memento of the good old days, because of my father. (Starts
-out slowly)
+#dX[JESTER]
+A memento of the good old days, because of my father.
 
-WIZARD: Keep it.
+#dX[WIZARD]
+Keep it.
 
-JESTER: Thank you.
+#dX[JESTER]
+Thank you.
 
-WIZARD: Jester! (JESTER comes back. Magnanimously the wizarp gives him
-the ritual handshake)
-Scene 5 53
+#dX[WIZARD]
+Jester!
 
-JESTER: Oh, thank you, sir. (He exits up stairs)
+#tpp[53]
 
-MINSTREL: That was a wonderful thing you did for that boy, Cardamon.
+#dX[JESTER]
+Oh, thank you, sir.
 
-WIZARD: Well — for his father’s sake.
+#dX[MINSTREL]
+That was a wonderful thing you did for that boy, Cardamon.
 
-MINSTREL: Say — I don't actually have to get out of here until daybreak.
-Why don’t we go down to the wine cellar, split a bottle, and talk
-some more about — uh — talk some more.
+#dX[WIZARD]
+Well — for his father’s sake.
 
-WIZARD: Fine — fine. But first I've started something here I'd like to
+#dX[MINSTREL]
+Say — I don't actually have to get out of here until daybreak. Why don’t we go down to the wine
+cellar, split a bottle, and talk some more about — uh — talk some more.
+
+#dX[WIZARD]
+Fine — fine. But first I've started something here I'd like to
 finish. Go ahead and I'll join you in two seconds.
 
-MINSTREL: I'll be waiting. (MINSTREL exits and WIZARD uses cauldron as
-inhalator, clears his nose and lights fade as he goes up steps)
+#dX[MINSTREL]
+I'll be waiting.
 
-Scene 5
+= Scene 5
 
-(Scene: A corridor. The JESTER comes in carrying the WizARD's flowers.
-He sits at STAGE RIGHT. SIR STUDLEY and a GIRL enter RIGHT and g0 dcross.
+#dX[STUDLEY]
+What's the matter, Jester?
 
-They see him sitting there)
+#dX[JESTER]
+Oh, nothing.
 
-STUDLEY: What's the matter, Jester?
+#dX[STUDLEY]
+Say something funny.
 
-JESTER: Oh, nothing.
+#dX[JESTER]
+Have you ever heard of my father, Sliding Peter Jingle? 
 
-STUDLEY: Say something funny.
+// TODO: who?
+#dX[GIRL]
+(laughs wildly)
 
-JESTER: Have you ever heard of my father, Sliding Peter Jingle? (GIrL
-laughs wildly)
+#dX[STUDLEY]
+Is that funny?
 
-STUDLEY: Is that funny?
+#dX[LADY]
+I don’t know.
 
-LaDY: I don’t know.
+#dX[STUDLEY]
+I think the clown is losing his touch.
 
-STUDLEY: I think the clown is losing his touch. (They go out DOwN LEFT)
+== Music 19: YERY SOFT SHOES
 
-Music 19: YERY SOFT SHOES
-
-JESTER: (Verse)
-I AM FAR FROM SENTIMENTAL OR ROMANTIC
-
-AND I LIKE TO THINK I'M STRICTLY UP TO DATE,
-BUT AT TIMES THE DANCES GET A BIT TOO FRANTIC
-IN THESE HECTIC DAYS OF 1428.
-SO INDULGE ME AS I PAUSE TO RAISE MY CHALICE
-TO A QUAINT AND CHARMING DANCE THEY USED TO
-DO
-IN THE DAYS WHEN MY DEAR FATHER PLAYED THE
-PALACE
-BACK IN 1392.
-(Chorus)
-MY DAD WAS
-
-DEBONAIR,
+#dX[JESTER]
+I AM FAR FROM SENTIMENTAL OR ROMANTIC\
+AND I LIKE TO THINK I'M STRICTLY UP TO DATE,\
+BUT AT TIMES THE DANCES GET A BIT TOO FRANTIC\
+IN THESE HECTIC DAYS OF 1428.\
+SO INDULGE ME AS I PAUSE TO RAISE MY CHALICE\
+TO A QUAINT AND CHARMING DANCE THEY USED TO DO\
+IN THE DAYS WHEN MY DEAR FATHER PLAYED THE PALACE\
+BACK IN 1392.\
+MY DAD WAS\
+DEBONAIR,\
 AND QUITE AS LIGHT AS AIR
-54 Act Two
 
-IN HIS VERY SOFT SHOES!
+#tpp[54]
 
-HOW HE COULD
-
-DIP AND GLIDE
-
-AND SKIP AND SLIP AND SLIDE
-
-IN THOSE VERY SOFT SHOES!
-
-I USED TO STAND AND WATCH HIM EV'RY DAY:
-HE WAS ALWAYS SMOOTH AND COOL.
-
-I USED TO LOVE TO HEAR THE PEOPLE SAY:
-“HE’S A REGULAR DANCIN’ FOOL.”
-
-HE BARELY ;
-
-TOUCHED THE GROUND
-
-AND NEVER MADE A SOUND,
-
-BUT I'VE NOTICED IN ALL HIS REVIEWS.. . .
-THAT WHEN HE TOOK HIS BOW
-
-TO THE CROWD AND THE CROWN
-
-THE CROWD WENT CRAZY AND THE HOUSE CAME
-DOWN
-
-WHEN DADDY WORE HIS
+IN HIS VERY SOFT SHOES!\
+HOW HE COULD\
+DIP AND GLIDE\
+AND SKIP AND SLIP AND SLIDE\
+IN THOSE VERY SOFT SHOES!\
+I USED TO STAND AND WATCH HIM EV'RY DAY:\
+HE WAS ALWAYS SMOOTH AND COOL.\
+I USED TO LOVE TO HEAR THE PEOPLE SAY:\
+“HE’S A REGULAR DANCIN’ FOOL.”\
+HE BARELY\
+TOUCHED THE GROUND\
+AND NEVER MADE A SOUND,\
+BUT I'VE NOTICED IN ALL HIS REVIEWS...\
+THAT WHEN HE TOOK HIS BOW\
+TO THE CROWD AND THE CROWN\
+THE CROWD WENT CRAZY AND THE HOUSE CAME DOWN\
+WHEN DADDY WORE HIS\
 VERY SOFT SHOES!
-(Dance)
 
-Music 20: THREE O'CLOCK IN THE MORNING
+== Music 20: THREE O'CLOCK IN THE MORNING
 
-Scene 6
+= Scene 6
 
-(It is very dark, HARRY is discovered pacing back and forth. LARKEN enters
-DOWN LEFT. HARRY hears her as she gets to CENTER)
+#dX[HARRY]
+Who's there? Friend or foe?
 
-HARRY (Turning): Who's there? Friend or foe?
-LARKEN: Friend . . .
-HARRY: Oh.
+#dX[LARKEN]
+Friend...
 
-LARKEN: Thope. .. OhHarry! Harry, lookatme...I...Iwas tryingto
-run away — but it was only because I thought you didn’t love me
-. . (Waits for response, gets none . . . tries again, tentatively) . . . 1
-thought you didn’t love me? (Still nothing . . . tries a different tack)
-But even if you — don’t love me, I can’t love anyone but you and I
-want to be near youif I can . . . aslong as I can . . . Oh, Harry, I
+#dX[HARRY]
+Oh.
+
+#dX[LARKEN]
+I hope... Oh Harry! Harry, look at me... I... I was trying to run away — but it was only because I
+thought you didn’t love me... I thought you didn’t love me? But even if you — don’t love me, I
+can’t love anyone but you and I want to be near you if I can... as long as I can... Oh, Harry, I
 don’t blame you if you've changed.
 
-HARRY: Well, in a way I have.
-"‘-'.'-'.‘.‘.’."""'"."""'.'.-.'-.---------.
+#dX[HARRY]
+Well, in a way I have.
 
-Scene 6
+#tpp[55]
 
-Music 21: YESTERDAY I LOVED YOU
+== Music 21: YESTERDAY I LOVED YOU
 
-e s i e T e A
-HARRY (Sings):
-
-LARKEN:
-
-HARRY:
-
-LARKEN:
-
-YESTERDAY I LOVED YOU
-
-AS NEVER BEFORE.
-
-BUT PLEASE DON'T THINK ME STRANGE —
-I'VE UNDERGONE A CHANGE
-
-AND TODAY I LOVE YOU EVEN MORE.
-
-MY HEART CANNOT BE TRUSTED.
-
-I GIVE YOU FAIR WARNING,
-
-I OPENLY CONFESS —
-
-TONIGHT I LOVE YOU LESS
-
+#dX[HARRY]
+YESTERDAY I LOVED YOU\
+AS NEVER BEFORE.\
+BUT PLEASE DON'T THINK ME STRANGE —\
+I'VE UNDERGONE A CHANGE\
+AND TODAY I LOVE YOU EVEN MORE.\
+MY HEART CANNOT BE TRUSTED.\
+I GIVE YOU FAIR WARNING,\
+I OPENLY CONFESS —\
+TONIGHT I LOVE YOU LESS\
 THAN I WILL TOMORROW MORNING!
-YESTERDAY I LOVED YOU
 
-AS NEVER BEFORE.
 
-BUT THAT WAS LONG AGO
-
-AND NOW IT’S BEST YOU KNOW
-
-THAT TODAY I LOVE YOU EVEN MORE.
-
-MY HEART CANNOT BE TRUSTED.
-
-I GIVE YOU FAIR WARNING,
-
-I TREMBLE AT YOUR TOUCH —
-
-NOT NEARLY HALF SO MUCH
-
+#dX[LARKEN]
+YESTERDAY I LOVED YOU\
+AS NEVER BEFORE.\
+BUT THAT WAS LONG AGO\
+AND NOW IT’S BEST YOU KNOW\
+THAT TODAY I LOVE YOU EVEN MORE.\
+MY HEART CANNOT BE TRUSTED.\
+I GIVE YOU FAIR WARNING,\
+I TREMBLE AT YOUR TOUCH —\
+NOT NEARLY HALF SO MUCH\
 AS I WILL TOMORROW MORNING!
-YESTERDAY YOU SEEMED AS LOVELY TO ME
-AS ANYONE EVER COULD BE.
 
-NOW I'SEE WHAT TRICKS MY EYES CAN PLAY!
-YESTERDAY 1 MUST HAVE BEEN UTTERLY BLIND,
-OR ELSE I WAS OUT OF MY MIND —
-
+#dX[HARRY]
+YESTERDAY YOU SEEMED AS LOVELY TO ME\
+AS ANYONE EVER COULD BE.\
+NOW I'SEE WHAT TRICKS MY EYES CAN PLAY!\
+YESTERDAY I MUST HAVE BEEN UTTERLY BLIND,\
+OR ELSE I WAS OUT OF MY MIND —\
 FOR I FIND YOU SO MUCH LOVELIER TODAY.
-MY HEART CANNOT BE TRUSTED.
 
-I GIVE YOU FAIR WARNING —
+#box(stack(
+  dir: ltr,
+  box(width: 50%)[
+    #dX[LARKEN]
+    MY HEART CANNOT BE TRUSTED.\
+    I GIVE YOU FAIR WARNING —\
+    IN A LITTLE WHILE\
+    JUST A LITTLE WHILE\
+    YOU AND I WILL BE ONE,\
+    TWO, THREE, FOUR.\
+    IN A LITTLE WHILE\
+    I WILL SEE YOUR SMILE\
+    ON THE FACE OF MY SON.\
+    TO BE FOREVER HAND IN GLOVE\
+    IS THE WAY I HAVE IT PLANNED.
+  ],
+  box(width: 50%)[
+    #dX[HARRY]
+    FOR YESTERDAY I LOVED YOU
+    AS NEVER BEFORE.
+    BUT THAT WAS LONG AGO,
+    AND NOW IT’S BEST YOU KNOW
+    THAT TODAY I LOVE YOU EVEN MORE.
+  ]
+))
 
-IN A LITTLE WHILE )
+#tpp[56]
 
-JUST A LITTLE WHILE 3l o &
-YOU AND I WILL BE ONE, :
-TWO, THREE, FOUR. point
-IN A LITTLE WHILE I‘j’i:“RRY
-I WILL SEE YOUR SMILE
-
-ON THE FACE OF MY SON.
-
-TO BE FOR—
-
-EVER HAND IN GLOVE
-
-IS THE WAY I HAVE IT PLANNED.
-
-55
-56 Act Two
-
-HARRY:  FOR YESTERDAY I LOVED YOU In .count.er-
-AS NEVER BEFORE. point with
-BUT THAT WAS LONG AGO, LARKEN.
-
-AND NOW IT’S BEST YOU KNOW
-
-THAT TODAY I LOVE YOU EVEN MORE.
-BOTH: MY HEART CANNOT BE TRUSTED.
-
-I GIVE YOU FAIR WARNING —
-
-I OPENLY CONFESS—
-
-TONIGHT I LOVE YOU LESS
-
+#dX[BOTH]
+MY HEART CANNOT BE TRUSTED.\
+I GIVE YOU FAIR WARNING —\
+I OPENLY CONFESS—\
+TONIGHT I LOVE YOU LESS\
 THAN I WILL TOMORROW MORNING.
 
-Scene 7
+= Scene 7
 
-(Scene: The Bedchamber. The room is dominated by an enormous bed piled
-high with mattresses. The QUEEN, alone, is counting them)
+#dX[QUEEN]
+Seventeen, eighteen, nineteen, twenty. That should do it. And one small pea... that I had to bring
+all the way up from the pantry. All the way up the most killing stairs in the kingdom... There...
+All right, you can come in now. Did you bring everything? The hypnotic mirror?
 
-QUEEN: Seventeen, eighteen, nineteen, twenty. That should do it. And
-one small pea . . . that I had to bring all the way up from the
-pantry. All the way up the most killing stairs in the kingdom . . .
-(Reaches into her bosom, gets out pea) There . . . (She kisses it, blows on
-it, shakes it like a pair of dice, and places it under the bottom mattress. She
-goes to LEFT and summons LADIES-IN-WAITING who carry a hypnotic
-mirror, a flagon, and an incense burner) All right, you can come in
+#dX[1ST LADY]
+Yes, Madame.
 
-now. Did you bring everything? The hypnotic mirror?
-1ST LADY: Yes, Madame.
+#dX[QUEEN]
+And the rest of the things?
 
-QUEEN: And the rest of the things?
-2ND & 3RD LADIES: Yes, Madame. (PRINCESS WINNIFRED staggers in, all but
+#dX[2ND & 3RD LADIES]
+Yes, Madame.
 
-asleep on her feet. She manages to navigate over to 1ST LADY, lean against
-her back, and fall asleep)
-
-QUEEN: And the girl . . . where is the girl? Doesn’t she know it’s long
-past bedtime? You would think she would be dropping from
-exhaustion. (To winNIFRED) Oh, it’s you. Ready for bed? You must
-be sure to get a good night's rest so you'll be fresh early tomorrow
-morning for your trip back to your kingdom or wherever you're
-going. Bring the hypnotic mirror. (1St LADY brings her an eight-sided
-cylinder which revolves on a stick through its center. Each side is faced
-
-with a mirror) And where is the incantation? The Wizard said it
+#dX[QUEEN]
+And the girl... where is the girl? Doesn’t she know it’s long past bedtime? You would think she
+would be dropping from exhaustion. Oh, it’s you. Ready for bed? You must be sure to get a good
+night's rest so you'll be fresh early tomorrow morning for your trip back to your kingdom or
+wherever you're going. Bring the hypnotic mirror. And where is the incantation? The Wizard said it
 would be written right on the wrapper.
 
-1sT LADY: Here it is, Your Majesty.
-QUEEN: Yes. (Reading as she revolves the mirror before WINNIFRED's eyes)
-“Silken swishing sibilance
-Wraps us in a gentle trance.
-Deep in Morpheus’ arms we lie;
-Off we go to beddy-bye.”
-- W W W W W W
-.v'v'v""'v'-""""------------.
+#dX[1ST LADY]
+Here it is, Your Majesty.
 
-Scene 7 57
+#dX[QUEEN]
+Yes.\
+"Silken swishing sibilance\
+Wraps us in a gentle trance.\
+Deep in Morpheus’ arms we lie;\
+Off we go to beddy-bye."\
 
-WINNIERED (Stops the mirror and stares into it as though hypnotized): You
-know, I think I'm getting a sty right here.
+#tpp[57]
 
-QUEEN: Ugh. Bring the poppy and mandragora incense. (2D LADY sets
-up a small tripod before WINNIERED and hands an incantation to the
-QUEEN, who reads)
+#dX[WINNIERED]
+You know, I think I'm getting a sty right here.
 
-“Drowsy incense, sweet aroma
-
-Wraps us in a gentle coma.
-
-Murmuring voices seem to say,
-
-‘Mr. Sandman’s on his way.” ”
-(The LADY drops a lighted taper into the incense. There is a minor
-explosion and a miniature mushroom cloud rises into WINNIFRED's face)
+#dX[QUEEN]
+Ugh. Bring the poppy and mandragora incense.\
+"Drowsy incense, sweet aroma\
+Wraps us in a gentle coma.\
+Murmuring voices seem to say,\
+‘Mr. Sandman’s on his way."\
 That ought to get us to sleep, shouldn't it? The sleeping draught.
 
-3RD LADY (Handing her the potion): Here, Madame.
+#dX[3RD LADY]
+Here, Madame.
 
-QUEEN: That’s right. Drink a little extract of opium and warm milk
-before going to bed, I always say. Drink it down. (She pinches
-WINNIFRED's nose and pours the potion down her throat. She gives the
-half-empty flagon back to 2ND LADY who finishes it off) Now I'm sure
-you're going to get a good night's sleep . . . I wish I could say the
-same for myself. And just to make sure you have no trouble
-drifting off, I've prepared a special treat. (To the LADIES) Bring on
-the Nightingale of Samarkand. Who has the Nightingale of Samar-
-kand? (The LADIES look at each other helplessly) Naturally, I have to do
-everything myself. (She goes to the wall and cranks a winch which
-lowers a gold cage from above. In it is a GIRL dressed as an exotic bird) All
-right, sing! (The BIRD, startled, lets out a piercing shriek) Stop! You
-were brought here to put a live princess to sleep . . . not to wake a
-dead one. Let’s have a lullaby, Birdie, nice and soft.
+#dX[QUEEN]
+That’s right. Drink a little extract of opium and warm milk before going to bed, I always say.
+Drink it down. Now I'm sure you're going to get a good night's sleep... I wish I could say the same
+for myself. And just to make sure you have no trouble drifting off, I've prepared a special treat.
+Bring on the Nightingale of Samarkand. Who has the Nightingale of Samarkand?\
+Naturally, I have to do everything myself. All right, sing! 
 
-Music 22: NIGHTINGALE LULLABY
+#dX[BIRD]
+(piercing shriek)
 
-(The BIRD begins a quict quasioriental vocalise as a lullaby)
+#dX[QUEEN]
+Stop! You were brought here to put a live princess to sleep... not to wake a dead one. Let’s have
+a lullaby, Birdie, nice and soft.
 
-QUEEN: Yea, verily. (To winNiFReD) Now, my dear, why aren’t you in
-bed?
+== Music 22: NIGHTINGALE LULLABY
 
-WINNIFRED (Moves slowly to the ladder leading up to the top mattress, grasps
-the ladder with both hands, and places one foot on the bottom rung. The
-foot slips off the rung, and she places the next foot up. When this slips to
-the floor, she tries her first foot again. She continues this until it is obvious
-that she thinks she is climbing. Slowly, she stops): Am I almost there?
+#dX[BIRD]
+(la la la)
 
-QUEEN (To 2ND LADY): Help her up. (2ND LADY is almost asleep from the
-effects of the potion, but she pushes WINNIFRED up the ladder) Well, at
-least one person in this castle is going to get a good night's sleep.
-(The QUEEN exits LEFT. 2ND LADY collapses in the other LADIES' arms and
-they drag her orr LErFT)
-58
+#dX[QUEEN]
+Yea, verily. Now, my dear, why aren’t you in bed?
 
-Act Two
+#dX[WINNIFRED]
+Am I almost there?
 
-WINNIEFRED (Bed Pantomime: WINNIFRED lies on her back for a moment. The
+#dX[QUEEN]
+Help her up.\
+Well, at least one person in this castle is going to get a good night's sleep.
 
-bird cage is behind her, and she arches her back so that she can see the BirD.
-Slowly, she sits up and stares at the BIRD)
+#tpp[58]
 
-What are you . . . some kinda nut?
-
-(She stares in fascination and slowly begins to move rhythmically with the
-beat of the lullaby. Almost without knowing she’s doing it, she begins to
-
-conduct the lullaby. She gives a vicious cut-off, and the BIRD stops with a
-squawk. Slowly WINNIFRED's head drops to the mattress so that only it
-
-and her knees support her arched body. But there is something hard under
-her head. She pokes it and finds other protuberances. She smooths the bed
-
-and flops down. She changes her position several times . . . then stands on
-the bed. She warns)
-
-All right, lumps, watch out.
-
-(With a growl, she springs to one corner of the bed and curls up in a hard
-knot. But her eyes pop open. She flails about and lands in several rapidly
-changing and highly improbable positions . . . the last of which has her
-hanging off the bed upside down facing the audience)
-
+#dX[WINNIFRED]
+What are you... some kinda nut?\
+(WINNIFRED conducts the BIRD)\
+All right, lumps, watch out.\
 All right, we'll take it from the top.
 
-(The BIRD begins to sing again. WINNIFRED gets off the bed onto the floor,
-addresses the room generally)
+#dX[BIRD]
+(more la la la)
 
-Goodnight, everybody . . . sleep well.
-(She starts up the ladder)
+#dX[WINNIFRED]
+Goodnight, everybody... sleep well.\
+What a beautiful bed! Twenty soft downy mattresses. Oh, I'm going to sleep like a baby.\
+(screams)\
+Quiet.\
+All right, sheep... I'm ready when you are!
 
-What a beautiful bed! Twenty soft downy mattresses. Oh, I'm
-going to sleep like a baby.
+== Music 22a: WIZARD
 
-(She folds herself over so gracefully into a languid position and closes her
-eyes. And pops them open. She screams)
+#tpp[59]
 
-Quiet.
+= Scene 8
 
-(She half-heartedly tries a few more positions, including spinning around
+#dX[QUEEN]
+Here, darling, let Mother fix it.
 
-on one shoulder while lying down. Giving up, she sits on the edge of the
-bed)
+#dX[DAUNTLESS]
+Leave me alone, Mama, I can dress myself.
 
-All right, sheep . . . I'm ready when you are!
+#dX[QUEEN]
+Well! Far be it from me to interfere, precious.
 
-Music 22a: WIZARD
+#dX[DAUNTLESS]
+I can do it!
 
-(As she starts to count, the music swells)
-(Fade out)
+#dX[QUEEN]
+Why are you wearing that so early in the morning?
 
-e 2200002028 R LR TRTRRSENSNSNSN
-Scene 9 59
+#dX[DAUNTLESS]
+Well, today’s the test, Mama, and I want to look my best for---
 
-Scene 8
+#dX[QUEEN]
+The test! Why, Dauntless, the test is all over, sweetheart.
 
-(Scene: In one. Early next morning. DAUNTLESS hurries on with QUEEN
-AGGRAVAIN. DAUNTLESS 15 still not entirely dressed and QUEEN AGGRA-
-VAIN is annoying him by trying to help)
+#dX[DAUNTLESS]
+Huh?
 
-QUEEN: Here, darling, let Mother fix it.
+#dX[QUEEN]
+The test is over, darling boy.
 
-DAUNTLESS (Shrugging her off): Leave me alone, Mama, I can dress
-myself.
+#dX[DAUNTLESS]
+But Mama, when was it? What was it?
 
-QUEEN: Well! Far be it from me to interfere, precious. (She immediately
-straightens his hat)
+#dX[QUEEN]
+It was last night. We put her to bed on twenty soft downy mattresses with a pea under the bottom
+one... to test her sensitivity. And, of course, the pea would have kept a real princess awake.
 
-DAUNTLESS (Annoyed): 1 can do it! (He continues to try to attach the pendant
-throughout the following)
+#dX[DAUNTLESS]
+And she slept?
 
-QUEEN: Why are you wearing that so early in the morning?
+#dX[QUEEN]
+Well, darling, I'm sure I don’t know. But she was practically falling asleep before she got into
+bed... and yawning like a vulgar scullery maid. I mean she looked ghastly, darling, and old enough
+to be your... oh well, we'll see.
 
-DAUNTLEss: Well, today’s the test, Mama, and I want to look my best for
+#dX[DAUNTLESS]
+Oh, Fred...
 
-QUEEN: The test! Why, Dauntless, the test is all over, sweetheart.
-DAUNTLESS (Startled): Huh?
+= Scene 9
 
-QUEEN: The test is over, darling boy.
-DAUNTLESS: But Mama, when was it? What was it?
-QUEEN: It was last night. We put her to bed on twenty soft downy
+#dX[LADY ROWENA]
+(Hysterical giggle quickly smothered)
 
-mattresses with a pea under the bottom one ... to test her
-sensitivity. And, of course, the pea would have kept a real princess
-awake.
+#dX[OTHERS]
+Shh-hush, quiet.
 
-DAUNTLESS (Miserably): And she slept?
-
-QUEEN: Well, darling, I'm sure I don’t know. But she was practically
-falling asleep before she got into bed . . . and yawning like a vulgar
-scullery maid. I mean she looked ghastly, darling, and old enough
-to be your . .. oh well, we'll see.
-
-DAUNTLESS (Sadly): Oh, Fred . . . (They exit as we open Scene 9)
-
-Scene 9
-
-(Scene: Banqueting Hall at breakfast the next morning. The LORDS are
-standing behind their chairs; the LADIES are seated. They are all
-immobile — )
-
-LADY ROWENA: (Hysterical giggle quickly smothered)
-
-OTHERS: Shh-hush, quiet.
-
-LADY ROWENA: I can’t help it. I'm so nervous I could die. (Pause)
+#dX[LADY ROWENA]
+I can’t help it. I'm so nervous I could die.\
 Absolutely die. (Hysterical giggle)
 
-OTHERS: Shhh!
+#dX[OTHERS]
+Shhh!
 
-sTUDLEY: Control yourself — they’ll be here in a minute. (Pause)
-BNl MuSsiIcals
+#dX[STUDLEY]
+Control yourself — they’ll be here in a minute.
 
-698030
+#tpp[60]
 
-60 Act Two
+#dX[LADY ROWENA]
+If she didn’t pass I'll just kill myself.
 
-LADY ROWENA: If she didn’t pass I'll just kill myself.
+#dX[STUDLEY]
+Don't talk! Here comes the Queen.
 
-STUDLEY: Don't talk! Here comes the Queen. (There is silence from the
-LORDS and LADIES 4s AGGRAVAIN enters with DAUNTLESS following
-disconsolately behind)
+#dX[QUEEN]
+...and someday, dear, we'll find a true princess for you, so don’t worry. Good morning, everyone.
 
-QUEEN (Over her shoulder): . . . and someday, dear, we'll find a true
-princess for you, so don’t worry. Good morning, everyone.
+#dX[ALL]
+Good morning, Your Majesty.
 
-ALL: Good morning, Your Majesty.
+#dX[QUEEN]
+All here to see the princess on her way? Since she’s such a favorite of ours, I have decided that
+she should have an extra-special consolation prize. Sir Studley?
 
-QUEEN: All here to see the princess on her way? Since she’s such a
-favorite (To DAUNTLESS) of ours, I have decided that she should
-have an extra-special consolation prize. Sir Studley?
+#dX[STUDLEY]
+Here, Your Majesty. A very thoughtful gift.
 
-STUDLEY (Holding up a plucked fowl): Here, Your Majesty. A very thought-
-ful gift.
+#dX[QUEEN]
+Charming, charming.\
+Dauntless! — And where is our little slugabed? She should be getting an early start. Ah, here she
+is now. She isn’t even dressed yet. She must have slept like a baby.
 
-QUEEN: Charming, charming. (DAUNTLESS grabs bird, hits STUDLEY over
-head with it, and throws it OFF RIGHT) Dauntless! — And where is our
-little slugabed? She should be getting an early start. (Looks OFF
-RIGHT) Ah, here she is now. She isn’t even dressed yet. She must
-have slept like a baby. (Pause)
+#dX[WINNIFRED]
+37,428.
 
-WINNIFRED (Enters DOWN RIGHT): 37,428.
+#dX[QUEEN]
+37,428 what?
 
-QUEEN: 37,428 what?
+#dX[WINNIFRED]
+Sheep. What do you stuff your mattresses with — jousting equipment?
 
-WINNIFRED: Sheep. What do you stuff your mattresses with — jousting
-equipment?
+#dX[QUEEN]
+What do you mean?
 
-QUEEN (Uneasily): What do you mean?
+#dX[WINNIERED]
+I mean that bed ought to be moved down to the torture chamber.
 
-WINNIERED: I mean that bed ought to be moved down to the torture
-chamber.
+#dX[QUEEN]
+You didn’t sleep?
 
-QUEEN (Aghast): You didn’t sleep?
+#dX[WINNIFRED]
+I never shut my eyes.
 
-WINNIFRED: I never shut my eyes.
+#dX[DAUNTLESS]
+You've passed.
 
-DAUNTLESS (Rushing up to her): You've passed.
+#dX[WINNIFRED]
+Passed what?
 
-WINNIFRED: Passed what?
-DAUNTLESS: The test. Mama put a pea under twenty mattresses and you
-felt it and now we can be married! (HARRY faints DOWN LEFT. LARKEN
+#dX[DAUNTLESS]
+The test. Mama put a pea under twenty mattresses and you felt it and now we can be married!
 
-rushes to revive him) :
-omnEs: Hooray! My love! Married at last! At last! (All embrace)
-WINNIERED (Drawing herself up to her most noble and with a surprised but
-satisfied smile, and, once again, striking her 'dainty feminine’ pose): A
-pea under twenty mattresses? No wonder I'm black and blue!
-11arrY: Now don’t you think she’s pretty?
+#dX[ALL]
+Hooray! My love! Married at last! At last! (All embrace)
 
-LaRKEN: No, she’s not pretty, she’s beautiful.
-WINNIFRED: Twenty mattresses, huh? Dauntless, dear? I'll leave the
+#dX[WINNIERED]
+A pea under twenty mattresses? No wonder I'm black and blue!
 
+#dX[HARRY]
+Now don’t you think she’s pretty?
+
+#dX[LARKEN]
+No, she’s not pretty, she’s beautiful.
+
+#dX[WINNIFRED]
+Twenty mattresses, huh? Dauntless, dear? I'll leave the
 wedding arrangements up to you. You'd better start looking
 around for a small kingdom for us — I've gota feeling we aren’t
-going to want to live with the in-laws. (Very delicately, she stretches
+going to want to live with the in-laws.
 
-out on the breakfast table at LEFT and goes to sleep)
+#tpp[61]
 
-EELEEEEEEEEEEEEEEEEEEEECEE SRS SN ESERERSEREEERE R RSN RSN
-Scene 9 61
+#dX[DAUNTLESS]
+She’s going to get cold sleeping on that bare table. I'd better take her up to her room.
 
-DAUNTLESs: She’s going to get cold sleeping on that bare table. I'd better
-take her up to her room.
+#dX[QUEEN]
+Dauntless, wait...
 
-QUEEN: Dauntless, wait . . .
+#dX[DAUNTLESS]
+What should I wait for, Mama?
 
-DAUNTLESs: What should I wait for, Mama?
+#dX[QUEEN]
+To give this matter proper consideration...
 
-QUEEN: To give this matter proper consideration . . .
+#dX[DAUNTLESS]
+She passed the test — and I have to take her up to our room.
 
-DAUNTLESS: She passed the test —and I have to take her up to our
-room.
+#dX[QUEEN]
+I said wait!! Now you listen to your Mother. Throughout this heartbreaking business of trying to
+find a true princess, I have never nagged, never interfered, and never expected one solitary word
+of sympathy.
 
-QUEEN: I said wait!! Now you listen to your Mother. Throughout this
-heartbreaking business of trying to find a true princess, I have never
-nagged, never interfered, and never expected one solitary word of
-sympathy.
+#dX[DAUNTLESS]
+Shh, Mama. She’s asleep.
 
-DAUNTLESS (Sotto): Shh, Mama. She’s asleep.
+#dX[QUEEN]
+But I will not stand by and watch you throw yourself away on this little nobody.
 
-QUEEN: But I will not stand by and watch you throw yourself away on
-this little nobody.
+#dX[DAUNTLESS]
+Mama, quiet!
 
-DAUNTLESS: Mama, quiet!
+#dX[QUEEN]
+I mean look at her: she may have pased the test, but I must say I've never trusted anyone who had
+those shifty eyes or that mean little mouth or...
 
-QUEEN: I mean look at her: she may have pased the test, but I must say
-I've never trusted anyone who had those shifty eyes or that mean
-little mouth or . . . :
+#dX[DAUNTLESS]
+1 told you to SHUT UP!!
 
-DAUNTLESS (Shouts): 1 told you to SHUT UP!! (The QUEEN is struck
-dumb — literally dumb. Her mouth hangs open but no words come out.
-The JESTER jumps up on a table)
+#dX[JESTER]
+It happened... it happened: The Prophecy! "The mouse devoured the hawk..."
 
-JESTER: It happened . . . it happened: The Prophecy! “The mouse
-devoured the hawk . . .”
+#dX[HARRY]
+Look... look... the Queen can't talk!
 
-HARRY (Watching, fascinated, as QUEEN helplessly flaps her jaw trying to talk):
-Look . .. look . . . the Queen can't talk! (Now the KING begins working
-his mouth as well as the QUEEN)
+#dX[KING]
+I... I... I...
 
-KING:T...I...I...
+#dX[JESTER]
+What?
 
-JESTER (Excitedly, to KING): What?
+#dX[KING]
+I can!
 
-KING (Beaming): I can!
+#dX[JESTER]
+The King talks!
 
-JESTER (Throwing his cap in the air): The King talks!
+#dX[KING]
+And I've got a lot to say...
 
-KING (To QUEEN): And I've gotalottosay . ..
+#dX[DAUNTLESS]
+Well, good night.
 
-DAUNTLESS: Well, good night. (The QUEEN grabs his arm as he starts for
-WINNIFRED)
+#dX[KING]
+Unhand the boy! Go ahead. Now you asked for it, Aggravain, and you got it. From now on when I say
+hop, I want you to hop. Hop! Skip! Jump! Hop! Skip! Jump!
 
-KING (Pushing QUEEN away): Unhand the boy! (To bAUNTLESS) Go ahead.
-(DAUNTLESS goes fo WINNIERED) Now you asked for it, Aggravain,
+== Music 23: FINALE
 
-and you got it. From now on when I say hop, I want you to hop.
-Hop! (She hops) Skip! (She skips) Jump! (She jumps and exits pown
-LEFT, hopping, skipping and jumping) Hop! Skip! Jump! (The xiNG
-follows her out, giving orders and the WizarD rushes out after him. The
-center banquet table revolves, revealing the bed. During the finale, the
-JESTER climbs the ladder, lifts the top mattress, and from under it removes:
-the MINSTREL's lute, SIR HARRY'S helmet, his own be-ribboned staff, a
-62 Act Two
-
-spiked shield bearing the KING's insignia, and various other bulky, thorny
-objects, such as deer antlers, mace-and-chains, saddles, boots, spurs, efc.
-
-— handing them down to the MINSTREL, who hands them to someone
-offstage)
-
-Music 23: FINALE
-
-ALL: HOW DID SHE STAY AWAKE?
+#dX[ALL]
+HOW DID SHE STAY AWAKE?\
 THE PEA WAS AWF'LLY
 
-JESTER (Shouts, holding up the MINSTREL's lute): But it wasn’t the pea!
+#dX[JESTER]
+But it wasn’t the pea!
 
-ALL (Sung):
-
-IT WASN'T THE PEA
-
-IT WASN'T THE PEA AT ALL.
-
-OH, LIFE IS GRAND —
-
-IT’S VERY INT'RESTING!
-
-. WE THINK WE UNDERSTAND.
-
-WE THINK WE THINK WE KNOW —
-
-IT’S VERY INT'RESTING.
-
-THANK YOU, PRINCESS —
-
-AND PRINCESS
-
-WE LOVE YOU SO!
-(DAUNTLESS helps WINNIFRED up onto the bed, where she
-gratefully stretches out, but after a moment, begins to squirm
-in lady-like discomfort. DAUNTLESS seems to understand why
-and quickly descends ladder, lifts the bottom mattress, removes
-the pea, shows it to WINNIFRED, who, “thoroughly satisfied,”
-now falls immediately asleep . . . smiling. Her arm hangs
-limply over the edge of the bed, so that her hand is within
-
-DAUNTLESS' reach. He takes it and holds it tenderly in his own
-throughout the final chorus)
-
-ALL: FOR A PRINCESS IS A DELICATE THING.
-DELICATE AND DAINTY AS A DRAGONFLY’S WING.
-YOU CAN RECOGNIZE A LADY BY HER ELEGANT AIR
+#dX[ALL]
+IT WASN'T THE PEA\
+IT WASN'T THE PEA AT ALL.\
+OH, LIFE IS GRAND —\
+IT’S VERY INT'RESTING!\
+WE THINK WE UNDERSTAND.\
+WE THINK WE THINK WE KNOW —\
+IT’S VERY INT'RESTING.\
+THANK YOU, PRINCESS —\
+AND PRINCESS\
+WE LOVE YOU SO!\
+FOR A PRINCESS IS A DELICATE THING.\
+DELICATE AND DAINTY AS A DRAGONFLY’S WING.\
+YOU CAN RECOGNIZE A LADY BY HER ELEGANT AIR\
 BUT A GENUINE PRINCESS —
 
-(WINNIFRED snores)
-ALL: IS EXCEEDINGLY RARE!
+#dX[WINNIFRED]
+(snores)
 
-(Curtain)
+#dX[ALL]
+IS EXCEEDINGLY RARE!
 
-END OF ACT TWO
+= END OF ACT TWO
 
-Music 24: BOWS AND EXIT MUSIC
-
+== Music 24: BOWS AND EXIT MUSIC
