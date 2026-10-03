@@ -1,5 +1,7 @@
 #import "./script_fmt.typ": *;
-#show: script;
+#show: script.with(
+  font_size: 12pt
+);
 
 #tpp[1]
 = ACT ONE
@@ -1061,6 +1063,9 @@ This is her leg!
 
 #dX[QUEEN]
 We'll test her for...
+
+#dX[WIZARD]
+(whisper) ...sensitivity.
 
 #dX[WINNIFRED]
 That’s not my leg!
