@@ -45,5 +45,5 @@
 #let d15(body) = dx(15, body)
 #let d16(body) = dx(16, body)
 // Original page number
-#let tpp(body) = place(right, dx: 0%)[#smallcaps[_tpp.#body _]]
-#let bpp(body) = place(right, dx: 0%)[#smallcaps[_bpp.#body _]]
+#let tpp(body) = place(right, dx: 10%)[#smallcaps[_tpp.#body _]]
+#let bpp(body) = place(right, dx: 10%)[#smallcaps[_bpp.#body _]]
