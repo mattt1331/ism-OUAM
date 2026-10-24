@@ -10,7 +10,9 @@
 
 == Music 2: PROLOGUE — MANY MOONS AGO
 
-#dX[MINSTREL]
+#cue[1 1]
+
+#d1[MINSTREL]
 MANY MOONS AGO, IN A FAR-OFF PLACE\
 LIVED A HANDSOME PRINCE WITH A GLOOMY FACE,\
 FOR HE DID NOT HAVE A BRIDE.\
@@ -43,16 +45,18 @@ THEN WE'VE PROOF ENOUGH OF YOUR ROYALTY.\
 LET THE WEDDING MUSIC PLAY.”\
 AND THE PEOPLE SHOUTED QUIETLY,
 
-#dX[ALL (Sing pianissimo)]
+#d2[ALL (Sing pianissimo)]
 “HOORAY!”
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 FOR A PRINCESS IS A DELICATE THING,\
 DELICATE AND DAINTY AS A DRAGONFLY’S WING.\
 YOU CAN RECOGNIZE A LADY BY HER ELEGANT AIR,\
 BUT A GENUINE PRINCESS IS EXCEEDINGLY RARE!
 
-#dX[MINSTREL]
+#cue[1 2]
+
+#d1[MINSTREL]
 There are many versions of this story; I sing them all.
 This is the prettiest, but it's not quite accurate. I happen to know
 the true story of “The Princess and the Pea” for the very good
@@ -66,85 +70,87 @@ one reason or another, were found to be unsuitable.
 
 #tpp[3]
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 As a matter of fact, the day I arrived at court, they were
 testing Princess Number 12. A curious quiz was in progress.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Are you ready for the next question?
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 I guess so.
 
-#dX[WIZARD]
+#d2[WIZARD]
 The next question concerns famous rulers. Are you quite ready?
 
-#dX[PRRINCESS]
+#d3[PRRINCESS]
 Uh-huh.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Well, then: name three kings. Is that clear?
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 Yes. (Thinks a moment) Would you repeat the question, please?
 
-#dX[WIZARD]
+#d2[WIZARD]
 Certainly. Name three kings.
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 May I take the third king first? (WIZARD nods "Yes") Well, then. Three kings are...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Is this a trial?
 
-#dX[LADY ROWENA]
+#d4[LADY ROWENA]
 No, it's the royalty test to find out if she’s a real princess.
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 King John, King Arthur, and...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Does it matter if she’s a true princess?
 
-#dX[LADY MERRILL]
+#d4[LADY MERRILL]
 Oh yes. If she’s a true princess, we can all get married.
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 King Ethelred.
 
-#dX[WIZARD]
+#d2[WIZARD]
 That is absolutely correct!
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 She's smart, Mama. She’s the best one yet. Can I marry her now, huh?
 Can I, Mama?
 
-#dX[QUEEN]
+#d5[QUEEN]
 No, sweetheart. There’s still one more question. (Snaps fingers)
 
-#dX[LADY LUCILLE (Sotto voce)]
+#d4[LADY LUCILLE (Sotto voce)]
 This test isn't going to be fair.
 
-#dX[LADY MERRILL]
+#d4[LADY MERRILL]
 It's the law that isn't fair.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Law?
 
-#dX[LADY LUCILLE]
+#d4[LADY LUCILLE]
 The Marriage Law:\
 ‘Throughout the land no one may wed\
 Till Dauntless to the altar’s led.”
 
 #tpp[4]
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Dauntless?
 
-#dX[LADY ROWENA]
+#d4[LADY ROWENA]
 The Prince. Until he gets married none of us can.
 
-#dX[WIZARD]
+#cue[1 3]
+
+#d2[WIZARD]
 You have now reached the seventh plateau, and here is your
 final question. It is divided into four parts and concerns a famous
 man often referred to as the Knight of the Red Cross. 1. What was
@@ -153,64 +159,64 @@ did the beast have and what kind? ...and 4. What was the middle
 name of the daughter-in-law of the best friend of the blacksmith
 who forged the sword that killed the beast?
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 (Taking a deep breath) 1. St. George, 2. the dragon, 3. twelve
 rows of teeth and they were iron, and 4. would you repeat the last
 question please?
 
-#dX[WIZARD]
+#d2[WIZARD]
 What was the middle name of the daughter-in-law of the best
 friend of the blacksmith who forged the sword that killed the
 beast?
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 The middle name?
 
-#dX[WIZARD]
+#d2[WIZARD]
 The middle name.
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 The daughter-in-law?
 
-#dX[WIZARD]
+#d2[WIZARD]
 In-law. (He inverts a small hour-glass) You have thirty seconds.
 
-#dX[LADY LARKEN]
+#d4[LADY LARKEN]
 Oh, pass. Please, please, pass.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Do you speak, my Lady?
 
-#dX[LARKEN]
+#d4[LARKEN]
 No — I... (She turns to look at the Princess again)
 
-#dX[WIZARD]
+#d2[WIZARD]
 Twenty seconds.
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 Oh...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I wish her success. She’s a pretty little thing.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Ten seconds.
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 Ohhh...
 
-#dX[WIZARD]
+#d2[WIZARD]
 I'm terribly sorry...
 
-#dX[PRINCESS]
+#d3[PRINCESS]
 OHHHHHHHHHHHH...
 
-#dX[WIZARD]
+#d2[WIZARD]
 ...your time is up.
 
 // TODO: What are they doing with this scream?
-#dX[QUEEN]
-Too bad, my dear, too bad. You do show a certain aptitude, but as for the true brilliance of
+#d5[QUEEN]
+#cue[1 4] Too bad, my dear, too bad. You do show a certain aptitude, but as for the true brilliance of
 royalty... well, I'm afraid not. Remember: blood will tell, and yours didn’t tell us quite enough.
 However, to show that there are no hard feelings, here is a nice consolation prize for you. Goodbye;
 good luck; and get out. Sweetheart... Dauntless! Stop pouting. (KING gooses A LADY — she screams)
@@ -220,112 +226,113 @@ Now, don’t dilly-dally, Dauntless. It's nearly time for your cocoa.
 
 == Music 3: OPENING FOR A PRINCESS
 
-#dX[DAUNTLESS]
+#d1[DAUNTLESS]
 OH...! I LIKED HER!
 
-#dX[LARKEN]
+#d2[LARKEN]
 SO DID I.
 
-#dX[DAUNTLESS]
+#d1[DAUNTLESS]
 WHY MUST EV'RY PRINCESS GET THE BIRD?
 
-#dX[LADY MERRILL]
+#d3[LADY MERRILL]
 IT'S JUST ABSURD.
 
-#dX[LADY ROWENA]
+#d3[LADY ROWENA]
 I NEVER HEARD\
 A TEST SO DIFFICULT TO PASS.
 
-#dX[DAUNTLESS]
-ALAS! A LASS IS WHAT I LACK.\
+#d1[DAUNTLESS]
+#cue[1 5] ALAS! A LASS IS WHAT I LACK.\
 I LACK A LASS; ALAS! ALACK!
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 THROUGHOUT THE LAND NO ONE MAY WED
 
-#dX[LADIES]
+#d3[LADIES]
 OH...
 
-#dX[KNIGHTS]
-'TIL DAUNTLESS SHARES HIS MARRIAGE BED.
+#d4[KNIGHTS]
+#cue[1 6] 'TIL DAUNTLESS SHARES HIS MARRIAGE BED.
 
-#dX[LADIES]
+#d3[LADIES]
 THE LONELY SPINSTER'S LIFE\
 GO...\
 AND GET THE PRINCE A ROYAL WIFE!
 
-#dX[ALL]
+#d3[] #d4[ALL]
 WE HAVE AN OPENING FOR A PRINCESS,\
 FOR A GENUINE, CERTIFIED PRINCESS.
 
-#dX[LADIES]
+#d3[LADIES]
 TELL US WHEN YOU INTEND TO END THIS DILEMMA WE'RE IN--
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 NONE OF THE LADIES GIVE A FIG FOR LIVIN' IN SIN!
 
-#dX[ALL]
+#d3[] #d4[ALL]
 WE HAVE AN OPENING FOR A PRINCESS,\
 FOR A BEAUTIFUL, BONAFIDE PRINCESS.
 
-#dX[LADIES]
+#d3[LADIES]
 WHERE'S THE DUTIFUL KNIGHT WHO'LL RIGHT ALL\
 THE WRONG WE'VE BEEN DONE?
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 NONE OF THE LADIES ARE HAVING ANY FUN.
 
-#dX[LADIES]
+#d3[LADIES]
 WHAT TO DO?
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 WHAT TO DO?
 
-#dX[LADIES]
+#d3[LADIES]
 WHAT TO DO?
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 WHAT TO DO?
 
-#dX[LADIES]
+#d3[LADIES]
 PITY THE LADIES-IN-WAITING;
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 PITY THE GENTLEMEN TOO!
 
-#dX[LADIES]
+#d3[LADIES]
 FOUR!
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 SIX!
 
-#dX[ALL]
+#d3[] #d4[ALL]
 EIGHT, TEN, ELEVEN, TWELVE CONTENDERS IN A ROW.
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 THEY CAME; THEY WERE TESTED;
 
 #tpp[6]
 
-#dX[LADIES]
+#d3[LADIES]
 THEN SWIFTLY REQUESTED TO GO . . .
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 BLOW THE TRUMPET! SOUND THE FIFE!
 
-#dX[LADIES]
+#d3[LADIES]
 ...FOR A PRINCESS\
 FOR A GENUINE, CERTIFIED PRINCESS.
 
-#dX[KNIGHTS] GO AND GET THE PRINCE A ROYAL WIFE!
+#d4[KNIGHTS]
+GO AND GET THE PRINCE A ROYAL WIFE!
 
-#dX[LADIES]
+#d2[LADIES]
 TELL US WHEN YOU INTEND TO SEND US A GIRL WHO CAN PASS.
 
-#dX[KNIGHTS]
+#d4[KNIGHTS]
 NONE OF THE LADIES ARE HAVING ANY —
 
-#dX[ALL]
+#d3[] #d4[ALL]
 NO ONE IS GETTING ANY--\
 NO ONE IS GETTING ANY-- YOUNGER.\
 AND IT’S BEEN GOD KNOWS HOW LONG SINCE\
@@ -334,147 +341,157 @@ WHO’S GOOD ENOUGH, NICE ENOUGH, SWEET\
 ENOUGH, SMART ENOUGH, RICH ENOUGH\
 FOR OUR POOR PRINCE!
 
-#dX[KNIGHTS, LADIES]
+#d3[] #d4[KNIGHTS, LADIES]
 (ad-libs)
 
-#dX[WIZARD]
+#d1[WIZARD]
 Minstrel! You are just arrived!
 
-#dX[MINSTREL]
-Yes, I am, Sir Wizard.
+#d2[MINSTREL]
+Yes, I am, Sir Wizard. #cue[1 7]
+// Cue 1 7
+// 1: Wizard
+// 2: Minstrel
+// 3 OFF: Jester
+// 4 OFF: Knight 1
 
-#dX[WIZARD]
+#d1[WIZARD]
 Splendid, splendid! Watch closely. I take a perfectly plain piece of parchment with no cuts, folds,
 creases or concealed pockets...  Well, what is it?
 
-#dX[JESTER]
+#d3[JESTER]
 Excuse me, Cardamon, but I have to take the Minstrel to sign in with the Castle Steward.
 
-#dX[KNIGHT \#1]
+#d4[KNIGHT \#1]
 This way, please!
 
-#dX[MINSTREL]
+#d2[MINSTREL]
 I'm on my way to Normandy. I won’t be staying long.
 
-#dX[WIZARD]
-For your father’s sake, I put up with a good deal from you.
+#d1[WIZARD]
+#cue[1 8] For your father’s sake, I put up with a good deal from you.
 Don’t address me as Cardamon in Court. Just because your father
 and I were in show business together, don’t presume.
+// Cue 1 8
+// 1: Wizard
+// 2: Knight 2
+// 3: Larken
+// 4: Harry
 
-#dX[KNIGHT \#2]
+#d2[KNIGHT \#2]
 Ho! Sir Harry.
 
-#dX[LARKEN]
+#d3[LARKEN]
 My darling, you missed the test.
 
-#dX[HARRY]
+#d4[HARRY]
 Sweet Larken, my new responsibilities as Chivalric Knight of the
 Herald keep me busy.
 
 #tpp[7]
 
-#dX[LARKEN]
+#d3[LARKEN]
 The latest princess was a failure.
 
-#dX[HARRY]
+#d4[HARRY]
 No!
 
-#dX[LARKEN]
+#d3[LARKEN]
 Yes.
 
-#dX[HARRY]
+#d4[HARRY]
 Bad luck. But don’t despair for we have plenty of time. If a true
 princess is not found in the next few months I will go out and find
 one myself... or I don’t deserve to wear my spurs.
 
-#dX[LARKEN]
+#d3[LARKEN]
 Darling...
 
-#dX[HARRY]
+#d4[HARRY]
 My love?
 
-#dX[LARKEN]
+#d3[LARKEN]
 Do you remember the Royal Joust on Whitsunday, when you
 won those spurs?
 
-#dX[HARRY]
+#d4[HARRY]
 Of course.
 
-#dX[LARKEN]
+#d3[LARKEN]
 When you were called Sir Harry, the Fairest and Bravest Knight
 in all the Land, and everyone agreed that you had a brilliant future
 ahead of you; that you might someday become Lord Chamberlain,
 or ever Prime Minister?
 
-#dX[HARRY]
+#d4[HARRY]
 Well, I don’t know about Prime Minister...
 
-#dX[LARKEN]
+#d3[LARKEN]
 Do you remember the picnic we all had later on the greensward
 with the lovely cold pheasant?
 
-#dX[HARRY]
+#d4[HARRY]
 Yes.
 
-#dX[LARKEN]
+#d3[LARKEN]
 And you and I wandered away from the others to climb the hill
 and watch the sun go down?
 
-#dX[HARRY]
+#d4[HARRY]
 Yes.
 
-#dX[LARKEN]
+#d3[LARKEN]
 And a lark was singing in the trees and you said you'd
 remember that moment forever because the lark’s song reminded
 you of my name?
 
-#dX[HARRY]
+#d4[HARRY]
 Yes, Larken, yes!
 
-#dX[LARKEN]
+#d3[LARKEN]
 And then we watched the sun go down?
 
-#dX[HARRY]
+#d4[HARRY]
 Yes!
 
-#dX[LARKEN]
+#d3[LARKEN]
 Well. I'm going to have a baby. So you see, a princess for Dauntless nmust
 be found... and soon or I shall have to go away somewhere.
 
-#dX[HARRY]
+#d4[HARRY]
 (Clears his throat) Uh... uhrm. ..
 
-#dX[LARKEN]
+#d3[LARKEN]
 Oh, darling... I'm so worried! This could
 ruin you and you'd never be Prime Minister or anything! Say the
 word, Harry, and I'll go now. I'll go far away where they’ll never
 find me! Just say the word!
 
-#dX[HARRY]
+#d4[HARRY]
 No! You'll stay here! Why should we both suffer all our
 lives just because you had a moment of weakness?
 
-#dX[LARKEN]
+#d3[LARKEN]
 Oh, Harry! (She throws herself into his arms)
 
-#dX[HARRY]
+#d4[HARRY]
 We're none of us perfect! Everything’s going to be all right.
 
-#dX[LARKEN]
+#d3[LARKEN]
 Thank you, Harry!
 
 #tpp[8]
 
 == Music 4: IN A LITTLE WHILE
 
-#dX[HARRY]
+#d4[HARRY]
 IT WON'T BE LONG, IT WON'T BE LONG,\
 IT WON'T BECAUSE IT CAN'T BE LONG\
 BEFORE OUR DREAMS COME TRUE.\
 BECAUSE YOU KNOW I DON'T BELONG,\
 AND FURTHERMORE I SHAN'T BELONG TO ANYONE BUT YOU.
 
-#dX[LARKEN]
+#d3[LARKEN]
 IN A LITTLE WHILE,\
 JUST A LITTLE WHILE\
 YOU AND I WILL BE ONE,\
@@ -489,26 +506,26 @@ BUT I'LL ONLY STAY IN LOVE\
 IF THE GLOVE CONTAINS YOUR HAND.\
 IN A VELVET GOWN\
 I'LL BE COMING DOWN THE AISLE---\
-AND IT’S BOUND TO SEEM AS THOUGH THE WAITING'’S ONLY BEEN A LITTLE,\
+AND IT'S BOUND TO SEEM AS THOUGH THE WAITING'S ONLY BEEN A LITTLE,\
 IN A LITTLE WHILE.
 
-#dX[HARRY]
+#d4[HARRY]
 Have you any idea how soon, my love?
 
-#dX[LARKEN]
+#d3[LARKEN]
 November.
 
-#dX[HARRY]
+#d4[HARRY]
 November?
 
-#dX[LARKEN]
+#d3[LARKEN]
 MY TIME IS AT A PREMIUM,\
 FOR SOON THE WORLD WILL SEE ME A MATERNAL BRIDE-TO-BE.\
 I KNOW I MUSTN'T WORRY, HARRY.\
 STILL I WISH YOU'D HURRY, HARRY.\
 HARRY, MARRY ME!
 
-#dX[HARRY]
+#d4[HARRY]
 IN A LITTLE WHILE,\
 JUST A LITTLE WHILE,\
 YOU AND I WILL BE ONE,\
@@ -528,46 +545,51 @@ I CAN SEE IT ALL\
 DOWN TO EV'RY SMALL DETAIL —\
 SO I WISH YOU'D LOOK AROUND\
 UNTIL YOU'VE FOUND\
-A CASTLE IN THE NEIGHBORHOOD FOR SALE.
+A CASTLE IN THE NEIGHBORHOOD FOR SALE. #cue[2 1]
+// Cue 2 1
+// 1: Queen
+// 2: Daunt
+// 3: Larken
+// 4: Harry
 
 = Scene 2
 
-#dX[QUEEN]
+#d1[QUEEN]
 Come along darling, don’t dawdle. Dauntless, pick up your feet for heaven’s sake and don’t squint!
 I told you not to look at the sun.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Yes, Mama.
 
-#dX[QUEEN]
+#d1[QUEEN]
 That's better. SEXTIMUS! If I've told you once, I've told you a hundred thousand times, I will not
 have you playing these foolish games and running around in the halls. It just isn’t dignified. We
 are the rulers of the kingdom and if we don't set a proper example for the rest of the court, I'd
 like to know who will. I mean what is the point of being a ruler if one isn’t going to behave as a
 ruler should.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Now what?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama, when am I going to get my Princess?
 
-#dX[QUEEN]
+#d1[QUEEN]
 Dauntless, I don’t want to discuss that now. It's time for your cocoa.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 But Mama, sometimes I get the funniest feeling that you don’t want me to get married.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Don’t want you to get married? Don’t want you to get married? Dauntless---don’t you trust me?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Of course, Mama, but...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Well, then how can you say such a thing? I want you to get
 
 #tpp[10]
@@ -606,128 +628,129 @@ That’s what you really want, isn’t it? Someone like me? Of course
 you do! Oh, God! If I were only twenty years younger — Just
 remember this — you must trust me...
 
-#dX[LARKEN]
+#d3[LARKEN]
 Your Majesty... Your Highness.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Hello, Harry.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Don't interrupt! Well?
 
-#dX[LARKEN]
+#d3[LARKEN]
 Sir Harry wishes to speak to you, Madame.
 
-#dX[QUEEN]Well?
+#d1[QUEEN]
+Well?
 
-#dX[HARRY]
+#d4[HARRY]
 Madame, I have the honour to request a Perilous Labor. I wish to search for a true princess, a
 princess of the Royal Blood: one who will suit both Your Majesty and Prince Dauntless.
 
 #tpp[11]
 
-#dX[QUEEN]
+#d1[QUEEN]
 No!
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama!
 
-#dX[QUEEN]
+#d1[QUEEN]
 No, no, no! We've been through all the eligible girls in all the
 neighboring kingdoms. There are none left. We simply have to
 wait until their little sisters grow up, and that'll take years.
 
-#dX[HARRY]
+#d4[HARRY]
 But Madame, I plan to head North, over the mountains.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Over the mountains?
 
-#dX[HARRY]
+#d4[HARRY]
 ...across the Badlands.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Across the Badlands?
 
-#dX[HARRY]
+#d4[HARRY]
 ...and into the marsh land where the beautiful Swamp Lily grows.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Into the marsh land? Are you out of your mind?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Let him go, Mama, let him go.
 
-#dX[QUEEN]
+#d1[QUEEN]
 You won't find anything there, but frogs and tadpoles and things.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Do you know what the weather there is like?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama, please!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Do you know how damp and foggy and...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Quiet! ...and humid and oppressive...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama... let Sir Harry try! Please. For me, Mama? Please!
 
-#dX[QUEEN]
+#d1[QUEEN]
 All right, go ahead. It's your sinus.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Hooray!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Come along, Dauntless, it's time for your bubble bath.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Good luck, Harry! Good luck!
 
-#dX[HARRY]
+#d4[HARRY]
 Don't be afraid, little Larken. I'll bring
 back a princess who is not only a real princess, but one who will be
 able to pass the Queen’s test.
 
-#dX[LARKEN]
+#d3[LARKEN]
 I believe you! I'm not afraid.
 
-#dX[HARRY]
+#d4[HARRY]
 And I shan’t be away long.
 
-#dX[LARKEN]
+#d3[LARKEN]
 Only fly as fast as you can, my love! We shall be waiting for you.
 
-#dX[HARRY]
+#d4[HARRY]
 We?
 
-#dX[LARKEN]
+#d3[LARKEN]
 You know. And wear this---
 
-#dX[HARRY]
+#d4[HARRY]
 Next to my heart!
 
 #tpp[12]
 
 == Music 5: IN A LITTLE WHILE (Reprise)
 
-#dX[LARKEN]
+#d3[LARKEN]
 IN A LITTLE WHILE,\
 JUST A LITTLE WHILE,\
 YOU AND I WILL BE ONE,\
 TWO, THREE, FOUR.
 
-#dX[HARRY]
+#d4[HARRY]
 IN A LITTLE WHILE,\
 I WILL SEE YOUR SMILE\
 ON THE FACE OF MY SON.\
@@ -737,16 +760,22 @@ IS THE WAY I HAVE IT PLANNED.\
 BUT I'LL ONLY STAY IN LOVE\
 IF THE GLOVE CONTAINS YOUR HAND.
 
-#dX[BOTH]
+#d3[] #d4[BOTH]
 IN A VELVET GOWN\
 I'LL (YOU'LL) BE COMING DOWN THE AISLE\
 AND IT'S BOUND TO SEEM AS THO’\
 THE WAITING’S ONLY BEEN A LITTLE,\
-IN A LITTLE WHILE.
+IN A LITTLE WHILE. #cue[3 1]
+// Cue 3 1
+// 1: Minstrel
+// 2: Winni
+// 3: Daunt
+// 4: Queen
+// 5: Knights
 
 = Scene 3
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Sir Harry’s perilous journey took three weeks and Lady Larken had all but given up hope that he
 would find a true princess. Then, one sunny morning in mid-April when the crocuses were just
 beginning to dot the meadows, the lookout in the north round tower spied two distant figures
@@ -760,32 +789,32 @@ And the princess only looked as though she’d come in from a storm.
 
 #tpp[13]
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Actually, I swam the moat. But never mind. If I just stand right here, there’s a nice draft. I'll be
 dry in no time.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Mama, look! She’s all wet!
 
-#dX[QUEEN]
+#d4[QUEEN]
 You swam the moat?
 
-#dX[1ST KNIGHT]
+#d5[1ST KNIGHT]
 We tried to stop her, but she wouldn’t wait for the drawbridge.
 
-#dX[QUEEN]
+#d4[QUEEN]
 You swam the moat?
 
-#dX[2ND KNIGHT]
+#d5[2ND KNIGHT]
 She seemed determined to arrive as soon as possible.
 
-#dX[3RD KNIGHT]
+#d5[3RD KNIGHT]
 We had to get a rope and pull her out.
 
-#dX[QUEEN]
+#d4[QUEEN]
 You _swam the moat_?
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 All right, 1 was a little anxious. My friend, Sir Harry---uhh,
 he’s still out there---he told me you had an opening for a princess.
 Any princess. I figured: the Early Bird... Anyway, here I am.
@@ -793,34 +822,36 @@ Who's the lucky man?
 
 == Music 6: SHY
 
-#dX[WINNIERED]
+#d2[WINNIERED]
 HEY, NONNY, NONNY, IS IT YOU?
 
-#dX[1ST KNIGHT]
+#d5[1ST KNIGHT]
 HEY, NONNY, NONNY, NONNY, NO!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 HEY, NONNY, NONNY, IS IT YOU?
 
-#dX[2ND KNIGHT]
+#d5[2ND KNIGHT]
 HEY, NONNY, NONNY, NONNY, NO!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 HEY, NONNY, NONNY, IS IT YOU, OR YOU, OR YOU, OR YOU OR...
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 NONNY, NEENY, NOONY, NONNY, NEENY, NONNY, NOONY---
 
-#dX[AGGRAVAIN]
+#d4[QUEEN]
 NO! NO! NO!
 
-#dX[WINNIERED]
+#d2[WINNIERED]
 SOMEONE’S BEING BASHFUL---\
 THAT'S NO WAY TO BE,\
 NOT WITH ME.\
 CAN'T YOU SEE THAT I AM JUST AS EMBARRASSED AS YOU?
 
 #tpp[14]
+
+#cue[3 2]
 
 AND I CAN UNDERSTAND YOUR POINT OF VIEW:\
 I'VE ALWAYS BEEN\
@@ -848,23 +879,29 @@ WHEN SHE'S FINALLY FACE-TO-FACE WITH A PAIR OF PANTS.\
 QUITE OFTEN THE LADY’S NOT AS HARD-TO-PLEASE AS SHE SEEMS.\
 QUITE OFTEN SHE'LL SETTLE FOR SOMETHING LESS THAN THE MAN OF HER DREAMS.\
 I'M GOIN’ FISHING FOR A MATE.
+// Cue 3 2
+// 1: Queen
+// 2: Winni
+// 3: Knights
+// 4: Ladies
+// 5: Daunt
 
-#dX[KNIGHTS]
+#d3[KNIGHTS]
 SHE'S GOIN' FISHING FOR A MATE.
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 I'M GONNA LOOK IN EV'RY BROOK!
 
-#dX[KNIGHTS]
+#d3[KNIGHTS]
 SHE'S GONNA LOOK IN EV'RY BROOK!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 BUT HOW MUCH LONGER MUST I WAIT\
 WITH BAITED BREATH AND HOOK?
 
 #tpp[15]
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Oh that was wonderful!\
 AND THAT IS WHY---\
 THOUGH I'M PAINFULLY SHY,\
@@ -872,10 +909,10 @@ I'M INSANE TO KNOW\
 WHICH SIR?\
 YOU, SIR?
 
-#dX[KNIGHTS]
+#d3[KNIGHTS]
 NOT I, SIR.
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 THEN WHO, SIR?\
 WHERE, SIR? AND WHEN, SIR?\
 I COULDN'T BE TENSER!\
@@ -883,426 +920,467 @@ SO LET’S GET THIS DONE, MAN.\
 GET ON WITH THE FUN, MAN.\
 I AM ONE MAN...
 
-#dX[KNIGHTS & LADIES]
+#d3[] #d4[KNIGHTS & LADIES]
 THE LADY IS ONE MAN...
 
-#dX[ALL]
+#d2[] #d3[] #d4[ALL]
 SHY!
 
-#dX[QUEEN]
+#d1[QUEEN]
 You swam the moat?
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Does she ever say anything else except "You swam the moat?"
 
-#dX[1ST KNIGHT]
+#d3[1ST KNIGHT]
 Why don’t you ask her yourself?
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Do you ever say anything else except "You swam the..."
 
-#dX[QUEEN]
+#d1[QUEEN]
 Do you mean to ask me to believe that you're a true princess of
 the royal blood, and am I to actually understand that you have the
 nerve and the gall and the presumption to apply for my son’s hand
 in marriage...
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 Mama, may I say something?
 
-#dX[QUEEN]
-No! ...Do you imagine for one moment that I would even
+#d1[QUEEN]
+#cue[3 3] No! ...Do you imagine for one moment that I would even
 consider you suitable for any son of mine? You are laboring under a
 very unfortunate misapprehension, my dear; my son isn’t going to
 marry any moat-swimmer; not while I have breath in my body.
 And I haven’t been well, not well at all... I get these shooting
 pains all in through here. And don’t try to tell me it’s the vapours. I
 know what the vapours are---I've had the vapours.
+// Cue 3 3
+// 1: Queen
+// 2: Wizard
+// 3: Winni
+// 4: Ladies
+// 5: Daunt
 
-#dX[WIZARD]
+#d2[WIZARD]
 Are you new here? Watch closely: I take a
 perfectly plain piece of parchment... Notice that it is a single piece
 of parchment with no folds, creases, or concealed pockets...
 
 #tpp[16]
 
-#dX[WINNIERED]
+#d3[WINNIERED]
 It's a nut house!
 
-#dX[LADIES]
+#d4[LADIES]
 No, please don't leave!\
 No, don’t go away! Stay!\
 Don’t leave us!
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 No, wait!
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 You're the one, I guess.
 
-#dX[DAUNTLESS]
-Sure, I’'m Prince Dauntless the Drab.
+#d5[DAUNTLESS]
+Sure, I'm Prince Dauntless the Drab.
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 Well, glad to have met you.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 No, please don’t go. I like you. Everybody does. Well, almost everybody.
 
-#dX[WIINNIFRED]
-Dauntless, I'd like to stay here, but I wouldn’t want to come
+#d3[WIINNIFRED]
+#cue[3 4] Dauntless, I'd like to stay here, but I wouldn’t want to come
 between you and your mother. So, I guess I'll just face the facts,
 cut my losses, and head back to the swamps.
+// Cue 3 4
+// 1: Queen
+// 2: Harry
+// 3: Winni
+// 4: Studley, knight 2
+// 5: Daunt
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 But I really like you.
 
-#dX[WINNIERED]
+#d3[WINNIERED]
 You do? Why?
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 You swam the moat!
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 Dauntless: I know I swam the moat, but that's not the real me. I'm not like that. Actually...
 I'm...shyyyyy...(splash)
 
-#dX[STUDLEY]
+#d4[STUDLEY]
 She’s in the moat again!
 
-#dX[2ND KNIGHT]
+#d4[2ND KNIGHT]
 Lower the drawbridge!
 
-#dX[STUDLEY]
+#d4[STUDLEY]
 Are you all right?
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 Sure.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 You ought to see her swim, Mama. She’s wonderful!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Yes, isn’t she?
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 I like her, Mama. She swam the moat.
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 It's cold!
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 Twice
 
-#dX[WINNIEFRED]
+#d3[WINNIEFRED]
 I don’t need any help!
-#dX[DAUNTLESS]
+
+#d5[DAUNTLESS]
 Can I marry her, Mama, can I?
 
-#dX[QUEEN]
-Marry her? Of course not. When you marry---if you marry---you'll marry a real princess, you'll...
+#d1[QUEEN]
+#cue[3 5] Marry her? Of course not. When you marry---if you marry---you'll marry a real princess, you'll...
+// Cue 3 5
+// 1: Queen
+// 2: Harry
+// 3: Wizard
+// 4: Daunt
+// 5: Ladies
 
 == Music 6a: FANFARE
 
-#dX[HARRY]
+#d2[HARRY]
 I have the honor to announce the arrival of Her Royal Highness, the Princess Winnifred.
 
-#dX[QUEEN]
+#d1[QUEEN]
 You're a little late. She’s been here and gone.
 
-#dX[HARRY]
+#d2[HARRY]
 Gone?
 
-#dX[QUEEN]
+#d1[QUEEN]
 Yes, she’s swimming home. That, Sir Harry, is no Princess.
 
-#dX[HARRY]
+#d2[HARRY]
 Ah, but she is, Your Majesty.
 
 #tpp[17]
 
-#dX[QUEEN]
+#d1[QUEEN]
 What?
 
-#dX[WIZARD]
+#d3[WIZARD]
 That one? You jest.
 
-#dX[HARRY]
+#d2[HARRY]
 On mine honor as a Knight, I swear she is! I have her papers right here. "Winnifred, Princess of
 Icolmkill, Guardian of the Midgard Serpent and Warden of the Ragnorok Marsh Lily. The inscription on
 her family crest reads: "Tu ne cede malis sed contra audentior ito."
 
-#dX[QUEEN]
+#d1[QUEEN]
 What does that mean?
 
-#dX[HARRY]
+#d2[HARRY]
 Uh... roughly, it means "If at first you don't
 succeed---"
 
-#dX[QUEEN]
+#d1[QUEEN]
 Never mind.
 
-#dX[DAUNTLESS]
+#d4[DAUNTLESS]
 You see, she is a Princess.
 
-#dX[LADIES]
+#d5[LADIES]
 "She looks like a princess." "I know she’s a princess." "She must be a princess." "At least a test, Your Majesty."
 
-#dX[DAUNTLESS]
+#d4[DAUNTLESS]
 At least a test! Mama, for me. Please!
 
-#dX[QUEEN]
-All right, we'll test her. The Wizard and I will put on our thinking--caps...and make up a nice fair
+#d1[QUEEN]
+#cue[3 6] All right, we'll test her. The Wizard and I will put on our thinking--caps...and make up a nice fair
 test just as we always do and I'll prove to you that this girl cannot possibly be a princess.
+// Cue 3 6
+// 1: Queen
+// 2: Knight 1, Knight 2
+// 3: Wizard
+// 4: Winni
 
-#dX[1ST KNIGHT]
+#d2[1ST KNIGHT]
 Get her by the leg!
 
-#dX[2ND KNIGHT]
+#d2[2ND KNIGHT]
 This is her leg!
 
-#dX[QUEEN]
+#d1[QUEEN]
 We'll test her for...
 
-#dX[WIZARD]
+#d3[WIZARD]
 (whisper) ...sensitivity.
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 That’s not my leg!
 
-#dX[QUEEN]
-How crude! We'll test her for sensitivity! She’ll have her test and she’ll fail just like all the
+#d1[QUEEN]
+#cue[3 7] How crude! We'll test her for sensitivity! She’ll have her test and she’ll fail just like all the
 others... fair and square.
+// Cue 3 7
+// 1: Queen
+// 2: Rowena
+// 4: Winni
+// 5: Daunt
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 Fail what?
 
-#dX[LADY ROWENA]
+#d2[LADY ROWENA]
 The royalty test.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 Every princess suing for my hand must pass a test to prove she’s a real princess.
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 What kind of test?
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 It's always highly secret.
 
-#dX[WINNIERED]
-Well, we'll worry about that later. Right now, I'd better get out of these wet clothes.
+#d4[WINNIERED]
+#cue[3 8] Well, we'll worry about that later. Right now, I'd better get out of these wet clothes.
+// Cue 3 8
+// 1: Larken
+// 2: King
+// 3: Jester
+// 4: Winni
+// 5: Daunt
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 May I show you part of the castle on the way to your room?
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 Sure.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 You're awfully nice.
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 You're nicer.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 And you're good-looking, too.
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 You're better looking. And nicer, too.
 
 #tpp[18]
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 Well, you're a better swimmer.
 
-#dX[LARKEN]
+#d1[LARKEN]
 Oh your Majesty, I'm so excited. Sir Harry is back!
 
-#dX[KING]
+#d2[KING]
 (Embrace)
 
-#dX[LARKEN]
+#d1[LARKEN]
 Yes, he is and he’s brought us a sweet princess. Have you seen her?
 
-#dX[KING]
+#d2[KING]
 (No)
 
-#dX[LARKEN]
+#d1[LARKEN]
 Neither have I, but I'm sure she’s as delicate as an orange blossom! And I'm to be her
 Lady--in--Waiting. Sir Harry arranged it. Isn't he thoughtful? He arranges everything.
 
-#dX[KING]
+#d2[KING]
 (Agrees)
 
-#dX[JESTER]
+#cue[3 9]
+// Cue 3 9
+// 1: Minstrel
+// 2: King
+// 3: Jester
+
+#d3[JESTER]
 My father expected me to follow in his footsteps but then I landed this jester job and...
 What's wrong?
 
-#dX[KING]
+#d2[KING]
 (Worried)
 
-#dX[JESTER]
+#d3[JESTER]
 You're worried?
 
-#dX[KING]
+#d2[KING]
 (Yes)
 
-#dX[JESTER]
+#d3[JESTER]
 About what?
 
-#dX[KING]
+#d2[KING]
 (Points OFF RIGHT)
 
-#dX[JESTER]
+#d3[JESTER]
 Who?
 
-#dX[KING]
+#d2[KING]
 (Lady)
 
-#dX[JESTER]
+#d3[JESTER]
 Some lady? Which lady?
 
-#dX[KING]
+#d2[KING]
 (Two syllables)
 
-#dX[JESTER]
+#d3[JESTER]
 Two syllables.
 
-#dX[KING]
+#d2[KING]
 (First syllable)
 
-#dX[JESTER]
+#d3[JESTER]
 First syllable.
 
-#dX[KING]
+#d2[KING]
 (Bird)
 
-#dX[JESTER]
+#d3[JESTER]
 Bird... some kind of bird.
 
-#dX[KING]
+#d2[KING]
 (Yes)
 
-#dX[JESTER]
+#d3[JESTER]
 Auk, bluebird, catbird, dove, eagle, finch, grouse, hawk, ibis,
 jay, kiwi, lark, marten...
 
-#dX[KING]
+#d2[KING]
 (Claps hands on “lark”)
 
-#dX[JESTER]
+#d3[JESTER]
 Lark!
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Lady Larken.
 
-#dX[KING]
+#d2[KING]
 (Right... pantos small word... "and")
 
-#dX[JESTER]
+#d3[JESTER]
 "And"...
 
-#dX[KING]
+#d2[KING]
 (Pantos: Knight)
 
-#dX[JESTER]
+#d3[JESTER]
 A Knight?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Which Knight?
 
-#dX[KING]
+#d2[KING]
 (Sir Harry)
 
-#dX[BOTH]
+#d1[] #d3[BOTH]
 Sir Harry!
 
 #tpp[19]
 
-#dX[KING]
+#d2[KING]
 (Pantos: “Dust”)
 
-#dX[JESTER]
+#d3[JESTER]
 Dust...
 
-#dX[KING]
+#d2[KING]
 (Sounds like)
 
-#dX[JESTER]
+#d3[JESTER]
 Sounds like dust... uh... "lust"
 
-#dX[KING]
+#d2[KING]
 (How could you)
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 "Must." Must what?
 
-#dX[KING]
+#d2[KING]
 (Erase)
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 You're going to start all over, right?
 
-#dX[KING]
+#d2[KING]
 (She’s in trouble)
 
-#dX[JESTER]
+#d3[JESTER]
 She’s in trouble.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 What kind of trouble?
 
-#dX[KING]
+#d2[KING]
 (Big)
 
-#dX[JESTER]
+#d3[JESTER]
 Big trouble...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 How many syllables?
 
-#dX[KING]
+#d2[KING]
 (Pregnant)
 
-#dX[JESTER]
+#d3[JESTER]
 She’s going to have a baby.
 
-#dX[KING]
+#d3[KING]
 (Takes off crown, puts it under his tunic, and waddles)
 
-#dX[JESTER]
+#d3[JESTER]
 Does anyone else know?
 
-#dX[KING]
+#d2[KING]
 (Sir Harry)
 
-#dX[JESTER]
+#d3[JESTER]
 Sir Harry.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Of course! But does anyone else know besides Sir Harry?
 
-#dX[KING]
+#d2[KING]
 (No... and you must keep the secret)
 
-#dX[JESTER]
+#d3[JESTER]
 Don’t worry, we can keep a secret! The question is... can you?
 
-#dX[KING]
+#d2[KING]
 (Me? I can’t even talk. "Locks" his mouth and swallows the "key")
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 We know you can't talk...\
 (GIRL crosses; KING starts after her
 but is pulled back by MINSTREL. Music in)\
 You can’t talk but you manage to communicate.
 
-#dX[KING]
+#d2[KING]
 (Yes)
 
 == Music 6b: THE MINSTREL, THE JESTER AND I
 
-#dX[MINSTREL & JESTER (The words in parentheses are mimed by the KING)]
+#d1[] #d2[] #d3[MINSTREL & JESTER (The words in parentheses are mimed by the KING)]
 WE HAVE ONLY TWO VOICES AMONG US AND YET\
 THERE'S A THIRD VOICE: A VOICE IN DISGUISE.\
 YOU'LL BE HEARING A TRIO, AND NOT A DUET\
@@ -1315,18 +1393,18 @@ WE'RE IN PERFECT ACCORD FROM BEGINNING TO\
 
 #tpp[20]
 
-#dX[JESTER]
+#d3[JESTER]
 THE KING AND THE MINSTREL AND I.
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 YET IF ONE OF OUR TRIO SHOULD EVER DEPART,\
 THEN THE OTHERS WOULD LANGUISH AND DIE.\
 WE'RE LIKE THREE DIFFERENT PEOPLE WITH ONLY ONE (HEART).
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 THE KING AND THE JESTER AND I.
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 SING HEY! NONNY NONNY HEY! NONNY NONNY\
 HI DIDDLE DIDDLE,\
 STRIKE UP A TUNE ON THE (FIDDLE).\
@@ -1334,33 +1412,33 @@ NOW THE BISHOP DECLARES OUR BEHAVIOR IS CRUDE,\
 AS HE PIOUSLY LOOKS TO THE SKY,\
 'CAUSE WHEN WE GO SWIMMING WE ALWAYS GO (NUDE).\
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 THE KING AND THE JESTER
 
-#dX[JESTER]
+#d3[JESTER]
 THE KING AND THE MINSTREL
 
-#dX[KING]
+#d2[KING]
 (THE MINSTREL), (THE JESTER), (AND I).
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 O THE VINTNER MAKES WINE FROM THE GRAPES THAT HE GROWS,\
 TWENTY BARRELS WERE LOST LAST JULY.\
 WHERE THEY WENT IS A SECRET THAT NOBODY (NOSE)\
 BUT...
 
-#dX[KING]
+#d2[KING]
 (THE MINSTREL), (THE JESTER), (AND I).
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 O THE COOK CLAIMS SHE'S MISSING ONE CHOC'LATE CREAM ROLL\
 AND A FISH THAT WAS READY TO FRY.\
 GUESS WHO'S DINING ON PASTRY AND FILET OF (BOTTOM OF FOOT)
 
-#dX[KING]
+#d2[KING]
 (THE MINSTREL), (THE JESTER), (AND I).
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 SING HEY! NONNY NONNY HEY NONNY NONNY,\
 NEEDLE AND THIMBLE\
 CRASH US A CLASH ON THE (CYMBAL)\
@@ -1371,50 +1449,55 @@ BUT THE QUEEN IS MUCH WORSE ON THE SLY
 
 WELL, WHAT'S GOOD FOR THE GANDER IS GOOD FOR THE...
 
-#dX[JESTER]
+#d3[JESTER]
 SAY THE KING AND THE JESTER---
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 THE KING AND THE MINSTREL---
 
-#dX[KING]
+#d2[KING]
 (THE MINSTREL), (THE JESTER), (AND I).
+
+#cue[4 1]
+// Cue 4 1
+// 1: Queen
+// 2: Wizard
 
 = Scene 4
 
-#dX[QUEEN]
+#d1[QUEEN]
 As if I didn’t have enough trouble trying to protect my only son
 from every catch-penny princess that comes along... now I'm
 surrounded by spies and traitors! Whom can I trust?
 
-#dX[WIZARD]
+#d2[WIZARD]
 Me.
 
-#dX[QUEEN]
+#d1[QUEEN]
 No one! And now I have another one of those princesses to cope
 with. I'm in no mood to sit for hours in a stuffy chamber and wrack
 my brain over a test for that girl when I'm not feeling at all well.
 But that’s the way Dauntless wants it. That's the way it'll be. She'll
 have her test.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Well, her papers seem to be in order.
 
-#dX[QUEEN]
+#d1[QUEEN]
 I know, and the worst of it is that foolish boy actually seems to
 like the girl, so we must think of a test that looks fair, and sounds
 fair, and seems fair, and isn't fair. When you got the idea of testing
 her for sensitivity I could have applauded right out loud. But exactly what?
 
-#dX[WIZARD]
+#d2[WIZARD]
 Table manners?
 
-#dX[QUEEN]
+#d1[QUEEN]
 No, that's not good enough. Mmmmmm---Sensitivity...
 
 == Music 7: SENSITIVITY
 
-#dX[QUEEN]
+#d1[QUEEN]
 SENSITIVITY, SENSITIVITY,\
 I'M JUST LOADED WITH THAT!\
 IN THIS ONE WORD IS\
@@ -1434,11 +1517,11 @@ GET YOUR HANDS OFF ME.\
 _THINK_ UP A TRICKY\
 TEST FOR THAT WRETCHED, MOAT-SWIMMING PRINCESS.
 
-#dX[WIZARD]
+#d2[WIZARD]
 MADAME, MAY I SUGGEST:\
 MAYBE WE OUGHT TO---
 
-#dX[QUEEN]
+#d1[QUEEN]
 DON'T TAKE ALL NIGHT! I'M NOT WELL, I NEED MY REST...\
 NOT THAT I EVER SLEEP ON THAT LUMPY MATTRESS:\
 OH GOD, MY BACK!\
@@ -1462,10 +1545,10 @@ GET THE TINIEST\
 PEA AND ORDER ONE\
 MATTRESS---NO! MAKE IT _TWO_!
 
-#dX[WIZARD]
+#d2[WIZARD]
 Why not five?
 
-#dX[QUEEN]
+#d1[QUEEN]
 TEN, I THINK WOULD BE PLENTY---\
 BETTER STILL MAKE IT TWENTY.\
 AND TO PLAY IT SAFE, IN THE EVENT\
@@ -1478,10 +1561,10 @@ SOMETHING STUNNING;
 
 #tpp[23]
 
-#dX[WIZARD]
+#d2[WIZARD]
 AH---
 
-#dX[QUEEN]
+#d1[QUEEN]
 OH, BUT YOU'RE DEVILISH! I LOVE THE WAY YOU THINK!\
 SHE’S INSENSITIVE, SO INSENSITIVE\
 SHE’LL FALL ASLEEP NO DOUBT.\
