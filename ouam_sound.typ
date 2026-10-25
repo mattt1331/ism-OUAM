@@ -2376,129 +2376,145 @@ HEAVEN WAS MADE...
 #d1[] #d3[] #d4[ALL THREE]
 ...IN NORMANDY!
 
+#cue[8 1]
+// Cue 8 1
+// 1: Jester
+// 2: Luce
+// 3: Studley, Luce's Lady
+// 4: Mabelle
+// 5: Harry
+
 = Scene 8
 
 == Music 13: SPANISH PANIC NO. 2
 
-#dX[JESTER]
+#d1[JESTER]
 You'd better not let the Queen catch you walking.
 
-#dX[LUCE]
+#d2[LUCE]
 Have you seen Sir Harry? He’s had a fight with Lady Larken. Hey . . . look.
 
-#dX[STUDLEY]
+#d3[STUDLEY]
 He’s with that French girl. She only speaks one word of English but I hear she’s a charmer.
 
-#dX[LUce]
+#d2[LUCE]
 What's the one word?
 
-#dX[MABELLE]
+#d4[MABELLE]
 Yes!
 
-#dX[LUCE]
+#d2[LUCE]
 How’s it going, Harry old boy?
 
-#dX[HARRY]
+#d5[HARRY]
 Uh... "tray bienne."
 
-#dX[STUDLEY]
+#d3[STUDLEY]
 After the Ball, we'll have a little party on the West Parapet... Don’t forget to bring the wine.
 
-#dX[LUCE'S LADY]
+// TODO: Who is this
+#d3[LUCE'S LADY]
 ...and something to spread on the ground.
 
-#dX[LUCE]
+#d2[LUCE]
 Harry, ask Mabelle if she’d like to bring something,.
 
-#dX[HARRY]
+#d5[HARRY]
 Uh...voulez-vous...uh...?
 
-#dX[MABELLE]
+#d4[MABELLE]
 Yes! 
+
+#cue[9 1]
+// Cue 9 1
+// 1: Queen
+// 2: Fred
+// 3: Daunt
+// 4: All of the duos *eek*
 
 #tpp[35]
 
 = Scene 9
 
-#dX[QUEEN]
+#d1[QUEEN]
 Come along now! Keep it Venetian. Isn’t this fun?  Move along now! That's right. Faster! Now slower! That's
-beautiful. Oh, Jester!\
+beautiful. Oh, Jester! (shrieks)\
 Are you feeling a little weary, dear?
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 No, let’s do it again! Maybe you could give me a clue.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 A clue?
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 I know it’s highly secret, but... what sort of test does she usually give?
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Well, with Mama thinking up the test, it might be almost anything...
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Like what?
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Ohhh... sometimes it’s history...
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Oh.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Sometimes it’s dancing... sometimes it’s... spelling...
 
-#dX[WINNIERED]
+#d2[WINNIERED]
 Oh.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 ...but sometimes it’s a test of strength and endurance.
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Aha!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 For instance, one of the girls was supposed to lift this weight. She couldn't. I can't even lift
 it... But I know you'll pass; you don’t have to worry.
 
-#dX[WINNIERED]
+#d2[WINNIERED]
 Do you want me to pass? I'll pass.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Hey, I think you're wonderful.
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 By the way, I don’t think I've ever told you... my full name
 is Winnifred the Woebegone. But Winnifred’s too formal. You can
 call me by my nickname.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Winnie?
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 Fred.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Fred! What a beautiful name... So straight... So strong... So you!
 
 #tpp[36]
 
 == Music 14: SONG OF LOVE
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I LIKE YOU, FRED, I LIKE YOU!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 YOU'RE JUST SAYING THOSE WORDS TO BE KIND.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 NO, I MEAN IT. I LIKE---I MEAN, I _LOVE_ YOU, FRED!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 HE IS OUT OF HIS MEDIEVAL MIND.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M PERFECTLY SANE AND SOUND!\
 I NEVER FELT BETTER IN MY LIFE!\
 EVERYBODY! EVERYBODY! EVERYBODY, COME\
@@ -2509,25 +2525,25 @@ WHEN SHE SHOWS YOU ALL HOW STRONG SHE IS\
 YOU'LL STAND RIGHT UP AND CHEER!
 
 // TODO: Who are all of these duos?
-#dX[1ST DUO FROM CHORUS]
+#d4[1ST DUO FROM CHORUS]
 WITH AN "F" AND AN "R" AND AN "E" AND A "D"\
 AND AN "F" "R" "E" "D", FRED! YEA!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M IN LOVE WITH A GIRL NAMED FRED!\
 SHE DRINKS JUST LIKE A LORD.\
 SO COME SING A MERRY DRINKING SONG\
 AND LET THE WINE BE POURED!
 
-#dX[2ND DUO]
+#d4[2ND DUO]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#dX[1ST & 2ND DUOS]
+#d4[1ST & 2ND DUOS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E"” “D”, FRED! YEA!\
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M IN LOVE WITH A GIRL NAMED FRED!\
 SHE SINGS JUST LIKE A BIRD.
 
@@ -2536,106 +2552,107 @@ SHE SINGS JUST LIKE A BIRD.
 YOU'LL BE LEFT COMPLETELY SPEECHLESS\
 WHEN HER GENTLE VOICE IS HEARD!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 AH-AH-AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
-#dX[2ND & 3RD DUOS]
+#d4[2ND & 3RD DUOS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#dX[1ST, 2ND & 3RD DUOS]
+#d4[1ST, 2ND & 3RD DUOS]
 WITH AN “F” AND AN “R” AND AN “E” AND AN "“D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M IN LOVE WITH A GIRL NAMED FRED!\
 SHE WRESTLES LIKE A GREEK\
 YOU WILL CLAP YOUR HANDS IN WONDER\
 AT HER FABULOUS TECHNIQUE!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
-#dX[2ND, 3RD & 4TH DUOS]
+#d4[2ND, 3RD & 4TH DUOS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#dX[1ST, 2ND, 3RD & 4TH DUOS]
+#d4[1ST, 2ND, 3RD & 4TH DUOS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!\
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M IN LOVE WITH A GIRL NAMED FRED!\
 WHO DANCES WITH SUCH GRACE.\
 YOU ARE BOUND TO SING HER PRAISES\
 "TIL YOU'RE PURPLE IN THE FACE!
 
-#dX[WINNIERED]
+#d2[WINNIERED]
 AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
 #tpp[38]
 
-#dX[2ND, 3RD, 4TH & 5TH DUOS]
+#d4[2ND, 3RD, 4TH & 5TH DUOS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#dX[IST, 2ND, 3RD, 4TH & 5TH DUOS]
+#d4[IST, 2ND, 3RD, 4TH & 5TH DUOS]
 WITH AN “F” AND AN “R” AND AN “E”
 AND AN “F” “R” “E" “D”, FRED! YEA!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M IN LOVE WITH A GIRL NAMED FRED!\
 SHE’S MUSICAL TO BOOT,\
 SHE WILL SET YOUR FEET A-TAPPING\
 WHEN SHE PLAYS UPON HER LUTE!
 
-#dX[5TH & 6TH DUOS]
+#d4[5TH & 6TH DUOS]
 BRAVO, BRAVO, BRAVISSIMO!\
 BRAVO, BRAVISSIMO!
 
-#dX[WINNIERED]
+#d2[WINNIERED]
 AH - AH - AH, AH, AH, AH, AH AHHH!
 
-#dX[2ND, 3RD, 4TH, 5TH & 6TH DUOS]
+#d4[2ND, 3RD, 4TH, 5TH & 6TH DUOS]
 FILL THE BOWL TO OVERFLOWING\
 RAISE THE GOBLET HIGH!
 
-#dX[1ST, 2ND, 3RD, 4TH, 5TH & 6TH DUOS]
+#d4[1ST, 2ND, 3RD, 4TH, 5TH & 6TH DUOS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I’'M IN LOVE WITH A GIRL NAMED FRED!\
 A CLEVER, CLOWNISH WIT.\
 WHEN SHE DOES HER FUNNY PANTOMIME\
 YOUR SIDES ARE SURE TO SPLIT!
 
-#dX[7TH DUO]
+#d4[7TH DUO]
 HA, HA, HA, HA, HO, HO, HO, HO, HA, HA, HA, HA, HO!
 
 #tpp[39]
 
-#dX[5TH, 6TH & 7TH DUOS]
+#d4[5TH, 6TH & 7TH DUOS]
 BRAVO, BRAVO, BRAVISSIMO!\
 BRAVO, BRAVISSIMO!
 
-#dX[WINNIFRED]
+#d2[WINNIFRED]
 AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
-#dX[2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
+#d4[2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#dX[1ST, 2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
+#d4[1ST, 2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 I'M IN LOVE WITH A GIRL...
 
-#dX[CHORUS]
+#d4[CHORUS]
 HE'S IN LOVE WITH A GIRL...
-#dX[EVERYONE]
+
+#d3[] #d4[EVERYONE]
 ...NAMED "F" "R" "E" "D", FRED!
 
 = END OF ACT ONE
