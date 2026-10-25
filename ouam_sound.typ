@@ -1574,155 +1574,167 @@ A GENIUS!\
 YOU ARE DIVINE---\
 GET OUT!
 
+#cue[5 1]
+// Cue 5 1
+// 1: Winni
+// 2: Jester
+// 3: Daunt
+// 4: Rowena
+
 = Scene 5
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Well, it certainly feels good to get into something dry. This
 old dress is just soaked.
 
-#dX[JESTER]
+#d2[JESTER]
 Your Highness, the King has asked to meet the young lady.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Why? He never asked before.
 
-#dX[JESTER]
+#d2[JESTER]
 He heard she swam the moat.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Is your father anything like your mother, because if he is...
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Oh no... my father is silent. He...
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 I'd love to meet him!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Papa, this is Princess Winnifred.
 
-#dX[JESTER]
+#d2[JESTER]
 Your Highness, the King welcomes you---and---(KING pantos)---he asked me to say that he hopes you'll
 get a hundred on the test tomorrow.
 
-#dX[WINNIERED]
+#d1[WINNIERED]
 Ahhhh — Well... thanks!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 My father never touches his crown to his heart unless he really means it.
 
-#dX[JESTER]
+#d2[JESTER]
 Alas, madame, the King is mute, or he would speak for himself.
 He’s still under a curse cast by a witch long ago---before Prince
 Dauntless was born. The curse says:\
 “King Sextimus will never talk\
 Until the mouse devours the hawk.”
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 "Until the mouse devours the hawk?" Well, can’t you find a big mouse and a little hawk and...
 
 #tpp[24]
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 We tried that once, but the mouse got scared and ran away and the hawk bit Daddy.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Well, just let me get this test under my belt and we'll figure out something, don’t you worry...  It
 certainly has been a pleasure meeting His Majesty! A short while ago, I had the pleasure of meeting
 Her Majesty. Now that is a nice man.
 
-#dX[JESTER]
+#d2[JESTER]
 Uh... Your Majesty, I think you'd better speak to Prince Dauntless very soon about... you know.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 About what?
 
-#dX[JESTER]
+#d2[JESTER]
 Your father feels that he has been neglecting his
 duty. And now that you're old enough to get married, he thinks
 you ought to have a little talk---you know, man-to-man.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 You mean... about things? You mean... now?
 
-#dX[JESTER]
+#d2[JESTER]
 Well, the King says that maybe it would be better to wait until
 later. He says there are a few facts he wants to look up first.
 
-#dX[WINNIERED]
+#d1[WINNIERED]
 I certainly do like almost both your parents, Dauntless!
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 We want you to be happy here... and we know it’s a lot different from what you're used to.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Well, it is a little hard making the adjustment to dry land and everything.
 
-#dX[LADY ROWENA]
+#d4[LADY ROWENA]
 You must feel like a fish out of water!
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 As a matter of fact, I do. You see, where I come from, we don’t have any dry land. Oh, some of the
 poorer people do, but the nobility all live right in the swamp, with their servants and pets.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Oh, do you have pets?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Lots.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 Dogs?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Frogs...
 
 == Music 8: THE SWAMPS OF HOME
 
-#dX[WINNIFRED]
-I COME FROM THE LAND OF THE FOGGY, FOGGY DEW\
+#d1[WINNIFRED]
+#cue[5 2] I COME FROM THE LAND OF THE FOGGY, FOGGY DEW\
 OOH-OOH-OOH!\
 WHERE WALKING THROUGH THE MEADOW IN THE MORNING\
 IS LIKE WALKING THROUGH\
 GLUE
+// Cue 5 2
+// 1: Winni
+// 2: Ladies LEFT
+// 3: Ladies RIGHT
+// 4: Daunt
 
 #tpp[25]
 
-#dX[LADIES]
+#d2[] #d3[LADIES]
 OOH-OOH-OOH!
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 THE SWAMPS OF HOME\
 ARE BRUSHED WITH GREEN AND GOLD.\
 AT BREAK OF DAY...
 
-#dX[LADIES]
+#d2[] #d3[LADIES]
 AT BREAK OF DAY...
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 THE SWAMPS OF HOME\
 ARE LOVELY TO BEHOLD\
 FROM FAR AWAY...
 
-#dX[LADIES]
+#d2[] #d3[LADIES]
 FROM FAR AWAY...
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 IN MY SOUL IS THE BEAUTY OF THE BOG.\
 IN MY MEM'RY THE MAGIC OF THE MUD.
 
-#dX[LADIES]
+#d2[] #d3[LADIES]
 MU-UH-UD
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 I KNOW THAT BLOOD IS THICKER THAT WATER,\
 BUT THE SWAMPS OF HOME\
 ARE THICKER THAN BLOOD!\
 
-#dX[DAUNTLESS]
+#d4[DAUNTLESS]
 BLUH-UH-UD
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 WHERE E’ER I ROAM\
 MY HEART GROWS DANK AND COLD.\
 MY FACE GROWS GREY---\
@@ -1736,10 +1748,10 @@ MAID OF THE MARSHLAND, GIVE UP THE STRUGGLE!\
 LISTEN TO THE VOICE OF THE SWAMP:\
 GLUGGLE UGGLE UGGLE!"
 
-#dX[LADIES]
+#d2[] #d3[LADIES]
 "GLUGGLE UGGLE UGGLE!"
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 WHERE E’ER I ROAM
 
 #tpp[26]
@@ -1751,201 +1763,218 @@ AND WILL NE'ER BE FORGOTTEN,\
 THOUGH I SEARCH FAR AND WIDE---\
 THERE IS NO LAND AS ROTTEN---
 
-#dX[LADIES]
+#d2[] #d3[LADIES]
 ROTTEN ROTTEN ROTTEN ROTTEN ROTTEN ROTTEN
 ROTTEN ROTTEN ROTTEN---
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 AS THE SWAMPS OF HOME.
 
-#dX[ALL]
-THE SWAMPS OF HOME.
+#d1[] #d2[] #d3[] #d4[ALL]
+THE SWAMPS OF HOME. #cue[5 3]
+// Cue 5 3
+// 1: Winni
+// 2: Rowena
+// 3: Daunt
+// 4: Lucille
+// 5: Lady H
 
-#dX[LADY ROWENA]
+#d2[LADY ROWENA]
 Your Highness, the girls and I would like to lend you
 something to wear while your---uh---garment is drying.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Why, thanks.
 
-#dX[LADY ROWENA]
-Ladies! (She claps her hands twice and LADIES exit uP)
+#d2[LADY ROWENA]
+Ladies! (She claps her hands twice and LADIES exit up)
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Dauntless, I have to change now.
 
-#dX[DAUNTLESS]
+#d3[DAUNTLESS]
 You do? All right.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 No, Dauntless. It's bad luck to see too much of the bride before the wedding.
 
-#dX[LaDY LUCILLE]
+#d4[LADY LUCILLE]
 Hurry, ladies. May I show you the gowns now, your Highness?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Yes.
 
-#dX[LADY LUCILLE]
+#d4[LADY LUCILLE]
 Now here is the very latest thing from — they do such
 lovely work, don’t you think? Notice the fullness in the back. And
 the window sleeves cut right down to the---it’s really you---It
 looks marvelous on. Don’t you think so, Lady H?
 
-#dX[LADY H]
+// TODO: Who is Lady H?
+#d5[LADY H]
 Stunning!
 
-#dX[LADY LUCILLE]
+#d4[LADY LUCILLE]
 Perhaps Her Highness would like to look in the mirror?
 
-#dX[LADY H]
+#d5[LADY H]
 Does Her Highness have a favorite color?
 
-#dX[WINNIFRED]
-Well, back home we wear a lot of dark green and earth
+#d1[WINNIFRED]
+#cue[5 4]Well, back home we wear a lot of dark green and earth
 brown. But I guess my own dress there is my favorite color---
 Huckleberry. I tell you what---leave them all and the ones I can’t
 use I'll send back.
+// Cue 5 4
+// 1: Winni
+// 2: Larken
+// 3: Harry
+// 4: Lucille
 
-#dX[LADY LUCILLE]
+#d4[LADY LUCILLE]
 Very good, Your Highness. Lady H. Lady R.
 
 #tpp[27]
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Come in.
 
-#dX[LARKEN]
+#d2[LARKEN]
 I guess I won’t need you, Emily. They've already sent a girl up
 to do the floor. You're new here, aren't you?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Yes, I...
 
-#dX[LARKEN]
+#d2[LARKEN]
 Well, remember! We're all here to do a job and your job is just
 as important as anyone else’s. "Oh dear, sweet, fovely Princess Winnifred,
 you will pass the Queen’s test, you will!" ---Gramercy, my dear,
 you can’t possibly clean the floor with such a tiny patch--- Here, what's this?
 
-wiNNIFRED: That’s my huckleber---
+#d1[WINNIFRED]
+That’s my huckleber---
 
-#dX[LARKEN]
+#d2[LARKEN]
 ---Use this old thing. Just look at this mess! What will my gentle Princess think of me? "Can you know
 what it means to me to be Lady-in-Waiting to the blessed Winnifred? Oh, Winnifred, Winnifred!
 ---what name is sweeter than that?" Ugh---look at that table! It's dripping wet. Here, I'll use this. I
 can’t bear to see the delicate beauty of my Royal Mistress in such a messy place.  Get that, please.
 Quick, quick, quick, quick, quick!
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Harry!
 
-#dX[HARRY]
+#d3[HARRY]
 Your Highness---
 
-#dX[LARKEN]
+#d2[LARKEN]
 Your what?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 How are you? Oh, get up. You don’t have to go through the motions with me. Say, I'm awfully sorry
 about that---you know ---swimming the moat. I hope I didn’t make a bad impression.
 
-#dX[HARRY]
+#d3[HARRY]
 Not at all, Your Highness. And if you'll just give your wet dress
 to one of the Ladies-in-Waiting, she’ll see that it’s taken care of.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Thank you. It's all ready been taken care of.
 
-#dX[HARRY]
+#d3[HARRY]
 I see you have met my dear Lady Larken.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 You mean this is the little Larken girl?
 
-#dX[HARRY]
+#d3[HARRY]
 The very same, Your Highness.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Harry, she’s beautiful... and a bundle of energy!
 
-#dX[HARRY]
+#d3[HARRY]
 When I gaze upon that captivating face, I realize how poor my description must have been.
 
 #tpp[28]
 
-#dX[LARKEN]
+#d2[LARKEN]
 Sir Harry is not very good at describing people, Your Highness.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Well, he may not know how to describe 'em, but he sure knows how to pick 'em. Now, if you'll excuse
 me... I have to return these to the 4th floor.
 
-#dX[LARKEN]
+#d2[LARKEN]
 I've never been so humiliated in my life!
 
-#dX[HARRY]
+#d3[HARRY]
 What's the matter?
 
-#dX[LARKEN]
+#d2[LARKEN]
 I thought she was a chambermaid!
 
-#dX[HARRY]
+#d3[HARRY]
 What?
 
-#dX[LARKEN]
+#d2[LARKEN]
 A chambermaid!
 
-#dX[HARRY]
+#d3[HARRY]
 Larken, how could you? How could you mistake the Princess for a chambermaid?
 
-#dX[LARKEN]
+#d2[LARKEN]
 How could I? How could you mistake that chambermaid for a Princess?
 
-#dX[HARRY]
+#d3[HARRY]
 Don’t say such a thing. Just because you made a stupid mistake...
 
-#dX[LARKEN]
+#d2[LARKEN]
 I made a mistake? Don’t you dare try to blame it on me.
 
-#dX[HARRY]
+#d3[HARRY]
 I do blame it on you.
 
-#dX[LARKEN]
+#d2[LARKEN]
 She was on her hands and knees scrubbing the floor.
 
-#dX[HARRY]
+#d3[HARRY]
 She’s a real lady wherever she was. That's more than I can say for some people around here!
 
-#dX[LARKEN]
+#d2[LARKEN]
 I hate you!
 
 == Music 9: FIGHT — FIGHT
 
-#dX[HARRY]
+#d3[HARRY]
 Well, I hate you, too!
 
-#dX[LARKEN]
+#d2[LARKEN]
 Get out!
 
-#dX[HARRY]
+#d3[HARRY]
 Don’t worry, I'm going!
 
-#dX[LARKEN]
+#d2[LARKEN]
 Goodbye!
 
-#dX[HARRY]
+#d3[HARRY]
 Goodbye!
 
-#dX[LARKEN]
+#d2[LARKEN]
 Goodbye!
 
-#dX[HARRY]
-Goodbye!
+#d3[HARRY]
+Goodbye! #cue[6 1]
+// Cue 6 1
+// 1: Queen
+// 2: Harold and Beatrice
+// 3: Wizard
 
 = Scene 6
 
-#dX[QUEEN]
+#d1[QUEEN]
 After all, you're a Wizard. You should be able to think of something that will help that
 what's-her-name to sleep. Don't
 
@@ -1963,20 +1992,26 @@ Now, try it. Flip your skirts, open, close, right, right, WRONG!!! Doesn’t any
 Spanish Panic?
 
 // TODO: who?
-#dX[HAROLD & BEATRICE]
+#d2[HAROLD & BEATRICE]
 Yes, Your Majesty.
 
 == Music 10: SPANISH PANIC
 
-#dX[QUEEN]
+#d1[QUEEN]
 Well, thank heaven somebody is up-to-date around here. Why
 don’t we all watch while Court Dancers Sir Harold and Lady
 Beatrice demonstrate? Thank you, Sir Harold and Lady Beatrice! Now, was that
 hard? Suppose we all try it. Take partners, please! Prepare! Et! Don’t you just love it?
 Doesn't it make you want to fly? WHEEEEEEEE!
 
-#dX[WIZARD]
-Are you sure you know what you're doing?
+#d3[WIZARD]
+Are you sure you know what you're doing? #cue[7 1]
+// Cue 7 1
+// 1: Minstrel
+// 2: King
+// 3: Jester
+// 4: Larken
+// 5: Queen
 
 == Music 11: TENTS
 
@@ -1985,283 +2020,285 @@ Are you sure you know what you're doing?
 #tpp[30]
 
 // TODO: What are we doing here?
-#dX[KING]
+#d2[KING]
 (Panto: frustration)
 
-#dX[JESTER]
+#d3[JESTER]
 What's the matter?
 
-#dX[KING]
-(Panto: Saw a girl! . . . T'lost her)
+#d2[KING]
+(Panto: Saw a girl! . . . I lost her)
 
-#dX[JESTER]
+#d3[JESTER]
 You lost her.
 
-#dX[KING]
+#d2[KING]
 (Panto: Help me)
 
-#dX[JESTER]
+#d3[JESTER]
 All right, Your Majesty, I'll help you.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Has he ever had any success?
 
-#dX[JESTER]
+#d3[JESTER]
 Well...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I've been here a month and he hasn’t caught a girl yet.
 
-#dX[jESTER]
+#d3[JESTER]
 I'll tell you what. Tomorrow we’ll set a trap. (KING does trap panto.
 Ends up on floor facing JESTER)
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 You exaggerate.
 
-#dX[JESTER]
+#d3[JESTER]
 Not a bit!
 
-#dX[KING]
+#d2[KING]
 (Someone’s coming)
 
-#dX[JESTER]
+#d3[JESTER]
 Someone’s coming?
 
-#dX[KING]
+#d2[KING]
 (Queen Aggravain)
 
-#dX[JESTER & MINSTREL]
+#d1[] #d3[JESTER & MINSTREL]
 THE QUEEN!!
 
-#dX[QUEEN]
+#d5[QUEEN]
 ...and this has to be the biggest loudest ball we've ever had and be sure to hire extra musicians
 for tonight’s dancing and tell the Jester I want him to perform. Not that I'll be able to enjoy any
 of it with my back, and that strange, nagging pain in my jaw. Oh, God, no one will ever know what I
 suffer...
 
-#dX[JESTER]
+#d3[JESTER]
 What was she jabbering about?
 
-#dX[KING]
+#d2[KING]
 (Queen scolding)
 
-#dX[JESTER]
+#d3[JESTER]
 The Queen is going to make us do something.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 What?
 
-#dX[KING]
+#d2[KING]
 (Spanish Panic — Fast)
 
-#dX[JESTER]
+#d3[JESTER]
 Exercise?
 
-#dX[KING]
+#d2[KING]
 (Drops ear to ground)
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Who is it?
 
-#dX[JESTER]
+#d3[JESTER]
 I don’t know. My lady...is there something wrong?
 
 #tpp[31]
 
-#dX[LARKEN]
+#d4[LARKEN]
 No...
 
-#dX[JESTER]
+#d3[JESTER]
 Well, we're glad of that anyway.
 
-#dX[LARKEN]
+#d4[LARKEN]
 I felt faint, that's all. I was sitting in my room...sewing...and it got a little stuffy, so I just
 decided to come out here and get some air.
 
-#dX[JESTER]
+#d3[JESTER]
 I see you were planning to camp out for a while.
 
-#dX[LARKEN]
+#d4[LARKEN]
 (bursts into tears) Oh, Your Majesty. You don’t know; you just don’t know! Do you have any idea what can happen
 to the relationship between a man and a woman?
 
-#dX[KING]
+#d2[KING]
 (Does he have any idea!!!)
 
-#dX[LARKEN]
+#d4[LARKEN]
 I'm glad I found out when I did; it's better this way. I'm leaving.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 You're leaving?
 
-#dX[LARKEN]
+#d4[LARKEN]
 Yes. I'm leaving the service of the Queen forever.
 
-#dX[JESTER]
+#d3[JESTER]
 That's a pretty big step to take all alone.
 
-#dX[LARKEN]
+#d4[LARKEN]
 I have no choice.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 You're leaving forever?
 
-#dX[LARKEN]
+#d4[LARKEN]
 Yes.
 
-#dX[JESTER]
+#d3[JESTER]
 You'll need help.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Who would help me?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I, my Lady.
 
-#dX[KING]
+#d2[KING]
 (Me too. I'll take her on my horse and ride away)
 
-#dX[JESTER]
+#d3[JESTER]
 What did you say?
 
-#dX[KING]
+#d2[KING]
 (Pantos)
 
-#dX[JESTER]
+#d3[JESTER]
 You want to take care of the Lady Larken?
 
-#dX[KING]
+#d2[KING]
 (Yes)
 
-#dX[JESTER]
+#d3[JESTER]
 Who's going to take care of you?
 
-#dX[KING]
+#d2[KING]
 (You)
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Chivalry demands that we protect a damsel in distress.
 
-#dX[KING]
+#d2[KING]
 (Knights JESTER)
 
-#dX[JESTER]
+#d3[JESTER]
 If you say so, Your Majesty.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 But she’ll have to travel light... the way a man does.
 
-#dX[JESTER]
+#d3[JESTER]
 Yes, she’ll go as a boy. We can steal one of Prince Dauntless' suits. We'll get those things out of
 sight---you can wait in your room.
 
 #tpp[32]
 
-#dX[LARKEN]
+#d4[LARKEN]
 No. I don’t need help from anyone, thank you. I can go alone.
-#dX[JESTER]
+
+#d3[JESTER]
 Over the wall?
 
-#dX[LARKEN]
+#d4[LARKEN]
 Yes, I don’t need help from anyone.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 You'll be all right once you get past the water rats.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Rats?
 
-#dX[KING]
+#d2[KING]
 (Pantos rats)
 
-#dX[JESTER]
+#d3[JESTER]
 Oh, yes. They live on the edges of the stagnant pools near the quicksand.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Quicksand?
 
-#dX[KING]
+#d2[KING]
 (Sinks)
 
 == Music 12: NORMANDY
+// TODO: Do we want to pan 1/3 here?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Beyond the...\
 ...WALL WHICH YOU MUST CLIMB.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Climb?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 IT’S TWENTY-TWO FEET AND COVERED WITH\
 SLIME...
 
-#dX[LARKEN]
+#d4[LARKEN]
 Slime?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 ...AND INFESTED WITH SPIDERS.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Spiders?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Oh, the spiders are sweet...\
 ...COMPARED TO THE SNAKES...
 
-#dX[LARKEN]
+#d4[LARKEN]
 Snakes?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 ...ON THE OTHER SIDE.
 
-#dX[JESTER]
+#d3[JESTER]
 Oh, they won’t hurt you, unless of course you plan to go alone.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Well, I did, but if I'd known it was so terrible out there...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 THEN YOU’D THINK A SECOND THOUGHT AND COME WITH ME.\
 I KNOW ALL THE SECRET WAYS TO GET US FREE.\
 OVER THE HILLS AND TO THE OPEN SEA.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Then where?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 It’s April, isn’t it?
 
-#dX[LARKEN]
+#d4[LARKEN]
 April?
 
 #tpp[33]
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 NORMANDY\
 IS FINE AND FAIR,\
 SO NORMANDY\
 IS WHERE WE'LL GO.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I CAN SHOW YOU A BEACH\
 WHERE THE PEACH BLOSSOM BLOWS.\
 AND I KNOW HOW TO REACH\
 A MAN WHO KNOWS A MAN WHO KNOWS\
 A COZY INN,
 
-#dX[JESTER]
+#d3[JESTER]
 A FRIENDLY PLACE
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 WITH ROWS OF WINDOWS FACING THE SEA.\
 THIS TIME OF YEAR\
 THE AIR, I HEAR, IS RARE AND CLEAR\
 AND WARM\
 IN NORMANDY!
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I KNOW A MEADOW COVERED WITH MUSTARD FLOWERS,\
 GOLDEN AS THE SUN,\
 WHERE A WONDROUS THING CAN HAPPEN\
@@ -2274,21 +2311,21 @@ WHEN YOU SEE THAT EM'RALD SKY\
 YOU’LL KNOW THE REASON WHY\
 THERE’S NOT ANOTHER PLACE I'D RATHER BE.
 
-#dX[JESTER]
+#d3[JESTER]
 Keep your Eldorado!
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 AND TO HELL WITH BURGUNDY!\
 COME FLY WITH ME,
 
-#dX[JESTER]
+#d3[JESTER]
 COME TRY THOSE WINGS,
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 COME SWIFT, FOR WE\
 HAVE THINGS TO DO.
 
-#dX[LARKEN]
+#d4[LARKEN]
 IS THERE TRULY A BEACH\
 WHERE THE PEACH BLOSSOM BLOWS?\
 ARE YOU SURE YOU CAN REACH\
@@ -2304,39 +2341,39 @@ A COZY INN...
     $ lr(\{, size: #1900%) $
   ],
   [
-    #dX[MINSTREL]
+    #d1[MINSTREL]
     THERE’S JESSAMINE AND...
 
-    #dX[LARKEN]
+    #d4[LARKEN]
     ...THAT FRIENDLY PLACE...
 
-    #dX[JESTER]
+    #d3[JESTER]
     ...WHITE LILAC LACE AND
 
-    #dX[LARKEN]
+    #d4[LARKEN]
     ...WITH ROWS OF WINDOWS FACING THE SEA.
 
-    #dX[MINSTREL & JESTER]
+    #d1[] #d3[MINSTREL & JESTER]
     ...ROWS OF WINDOWS FACING THE SEA.
   ],
 ))
 
-#dX[ALL THREE]
+#d1[] #d3[] #d4[ALL THREE]
 THIS TIME OF YEAR THE AIR, I HEAR, IS RARE AND CLEAR...
 
-#dX[LARKEN]
+#d4[LARKEN]
 ...AND WARM.
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 DON'T BE AFRAID...
 
-#dX[LARKEN]
+#d4[LARKEN]
 IT'S WARM...
 
-#dX[MINSTREL & JESTER]
+#d1[] #d3[MINSTREL & JESTER]
 HEAVEN WAS MADE...
 
-#dX[ALL THREE]
+#d1[] #d3[] #d4[ALL THREE]
 ...IN NORMANDY!
 
 = Scene 8
