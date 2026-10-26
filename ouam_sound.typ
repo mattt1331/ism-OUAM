@@ -2665,10 +2665,16 @@ HE'S IN LOVE WITH A GIRL...
 
 == Music 16: OPENING - ACT II
 
-#dX[QUEEN]
+#cue[1 1]
+// Cue 1 1
+// 1: Queen
+// 2: Lady
+// 3: All
+
+#d1[QUEEN]
 QUIET!
 
-#dX[ALL]
+#d3[ALL]
 QUIET, THE QUEEN INSISTS ON QUIET.\
 SHE’S ORDERED TWENTY MATTRESSES,\
 THE SOFTEST AND THE BEST.\
@@ -2678,223 +2684,259 @@ OF HER VERY SPECIAL GUEST.
 
 // TODO: Who are these groups?
 // Note: they continue singing
-#dX[1ST GROUP]
+#d3[1ST GROUP]
 SHE’S ORDERED QUIET, QUIET\
 THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
-#dX[(ADD) 2ND GROUP]
+#d3[(ADD) 2ND GROUP]
 QUIET! QUIET!\
 THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
-#dX[(ADD) 3RD GROUP]
+#d3[(ADD) 3RD GROUP]
 QUIET! QUIET!\
 THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
 #tpp[41]
 
-#dX[(ADD) 4TH GROUP]
+#d3[(ADD) 4TH GROUP]
 QUIET! QUIET!\
 QUIET (ETC.)
 
-#dX[QUEEN]
+#d1[QUEEN]
 PLEASE!
 
-#dX[ALL]
+#d3[ALL]
 SHHHHHHHHHHH!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Sheets!
 
 // TODO: Who?
-#dX[LADY]
+#d2[LADY]
 Right.
 
-#dX[QUEEN]
+#cue[1 2]
+// Cue 1 2
+// 1: Queen
+// 2: Lady
+// 3: Men
+// 4: Chorus
+// 5: Jester
+
+#d1[QUEEN]
 Pillows!
 
-#dX[LADY]
+#d2[LADY]
 Right.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Blankets!
 
-#dX[LADY]
+#d2[LADY]
 Right.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Mattresses.
 
-#dX[MEN]
+// TODO: Who?
+#d3[MEN]
 Right. Right. Right.
 
-#dX[CHORUS]
+// TODO: Who?
+#d4[CHORUS]
 "Bravo, bravo, bravissimo!" "Show us how, Jester." "Go, go!"
 
-#dX[JESTER]
+#d5[JESTER]
 Not yet, I'll get them out of here. Lay low until the coast is clear.
 
-#dX[CHORUS]
+#d4[CHORUS]
 Bravo!
 
-#dX[QUEEN]
-Jester! Jester! Somebody stop him. Stop him, I say. There he goes down that corridor. Bring him here
+#d1[QUEEN]
+#cue[1 3] Jester! Jester! Somebody stop him. Stop him, I say. There he goes down that corridor. Bring him here
 to me. This is a fine kettle of fish. Now, you wretch, I want the truth... what is this noise all
 about anyway? The moment I turn my back, something outrageous is always going on in the corridors.
+// Cue 1 3
+// 1: Queen
+// 2: King OFF
+// 3: Harry, Larken OFF
+// 4: Minstrel OFF
+// 5: All OFF
 
-#dX[HARRY]
+#d3[HARRY]
 Never mind me!
 
-#dX[LARKEN]
+#d3[LARKEN]
 Harry!
 
 #tpp[42]
 
-#dX[MINSTREL]
+#d4[MINSTREL]
 The Queen!
 
-#dX[ALL]
+#d5[ALL]
 The Queen! The Queen! The Queen!, etc.
 
-#dX[QUEEN]
-Stop. I knew I couldn’t trust you, you wretch! What is going on here? What are you up to?
+#d1[QUEEN]
+#cue[1 4] Stop. I knew I couldn’t trust you, you wretch! What is going on here? What are you up to?
+// Cue 1 4
+// 1: Queen
+// 2: King
+// 3: Minstrel
+// 4: Larken
+// 5: Harry
 
-#dX[KING]
+#d2[KING]
 (I'm up to here)
 
-#dX[QUEEN]
+#d1[QUEEN]
 WHAT!
 
-#dX[KING]
+#d2[KING]
 (I'm doing Spanish Panic)
 
-#dX[QUEEN]
+#d1[QUEEN]
 There’s something going on around here. What's under the mattress?
 
-#dX[KING]
+#d2[KING]
 (Nothing)
 
-#dX[QUEEN]
+#d1[QUEEN]
 It’s a dead body.
 
-#dX[KING]
+#d2[KING]
 (Mock sadly, yes) (Reverently removes his hat)
 
-#dX[QUEEN]
+#d1[QUEEN]
 Pull that away. Well! What are you doing? Explain yourself.
 
-#dX[MINSTREL]
+#d3[MINSTREL]
 It's just a joke, Your Majesty. This boy and I... Go outside and wait for me... uh... uh...
 Lancelot.
 
-#dX[QUEEN]
+#cue[1 5]
+// Cue 1 5
+// 1: Queen
+// 2: Mabelle
+// 3: Minstrel
+// 4: Larken
+// 5: Harry
+
+#d1[QUEEN]
 Lancelot! Wait! Lady Larken! Take those things up to what's her name’s chamber---mattresses too.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Your Majesty...
 
-#dX[QUEEN]
+#d1[QUEEN]
 QUIET! What are you doing in that ridiculous get-up?
 
-#dX[LARKEN]
+#d4[LARKEN]
 Please, I...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Silence! And why weren’t you at the Ball?
 
-#dX[MINSTREL]
+#d3[MINSTREL]
 Your Majesty...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Shut up. And why are you with this man? Answer me!
 
-#dX[LARKEN]
+#d4[LARKEN]
 I...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Well, speak up.
 
-#dX[LARKEN]
+#d4[LARKEN]
 Your Majesty, I beg of you...
 
-#dX[QUEEN]
+#d1[QUEEN]
 You were running away---is that it? You were running away!
 
-#dX[HARRY]
+#d5[HARRY]
 Larken!
 
 #tpp[43]
 
-#dX[QUEEN]
+#d1[QUEEN]
 Why you lowborn, ungrateful little sneak! Is this the thanks I
 get for treating you as my own daughter? Just look at you! One of
 my girls running off with a musician!
 
-#dX[MINSTREL]
+#d3[MINSTREL]
 Majesty, the Lady Larken is innocent! I'll tell you the truth. I
 forced her to leave against her will!
 
-#dX[LARKEN]
+#d4[LARKEN]
 That’s not true!
 
-#dX[HARRY]
+#d5[HARRY]
 Why you low...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Just a moment!
 
-#dX[HARRY]
+#d5[HARRY]
 Larken, what are you doing with that man?
 
-#dX[LARKEN]
+#d4[LARKEN]
 What are you doing with that woman?
 
-#dX[QUEEN]
+#d1[QUEEN]
 Just a moment!
 
-#dX[HARRY]
+#d5[HARRY]
 You go to your room!
 
-#dX[LARKEN]
+#d4[LARKEN]
 Don't you tell me what to do, you... libertine!
 
-#dX[QUEEN]
+#d1[QUEEN]
 QUIET! May I remind you that you are still one of
 my Ladies-In-Waiting? Get above stairs where you belong and
 prepare what’s-her-name for bed!
 
-#dX[LARKEN]
+#d4[LARKEN]
 Please, Your Majesty...
 
-#dX[QUEEN]
+#d1[QUEEN]
 Do as I say! And may I remind you, Sir Harry, that you are still one of my Knights. Step forward.
 
-#dX[MABELLE]
+#d2[MABELLE]
 Ohh...
 
-#dX[QUEEN]
-And you relax! Sir Harry, I order this Minstrel banished from my kingdom! I want him out of here by
+#d1[QUEEN]
+#cue[1 6] And you relax! Sir Harry, I order this Minstrel banished from my kingdom! I want him out of here by
 daybreak. Sextimus! Go to bed. I don’t want you groping around in the dark all night.  And the rest
 of you, listen closely. There is a little girl upstairs who is dog-tired.
+// Cue 1 6
+// 1: Queen
+// 2: Lady
+// 3: Ens
 
-#dX[LADY]
+// TODO: Who?
+#d2[LADY]
 Oh, no. She said she was going to study for her test.
 
-#dX[QUEEN]
+#d1[QUEEN]
 All right, let her study, but when she goes to bed, I want her to
 get a good rest so I want quiet around here. Is that clear? I want
 quiet and I'm going to get quiet if I have to scream the palace
 down---
 
-#dX[LADY]
+#d2[LADY]
 (giggles)
 
-#dX[QUEEN]
+#d1[QUEEN]
 QUIET!
 
-#dX[ENSEMBLE ]
+// TODO: Who is on stage here?
+#d3[ENSEMBLE]
 QUIET!\
 THE QUEEN INSISTS ON QUIET!\
 THE QUEEN INSISTS ON\
@@ -2902,178 +2944,184 @@ QUEEN INSISTS ON\
 QUEEN INSISTS ON\
 QUIET!
 
+#cue[2 1]
+// Cue 2 1
+// 1: Fred
+// 2: Daunt
+// 3: Larken
+
 #tpp[44]
 
 = Scene 2
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 "Sum."
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Sum. S-U-M, sum.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 "Summer."
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 "Summer." S-U-M-E-R. "Summer."
 
-#dX[DAUNTLESs]
+#d2[DAUNTLESS]
 Good. Well, if Mama tests you in Literature or Spelling, you're sure to pass, Fred. That leaves... "History."
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 History. That takes in quite a lot but let's give it a whirl.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 The first chapter is called, "The Bravery of Prince Waldere."
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 ...Waldere...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 "Young Waldere, wishing to slay the dragon Fafner---"
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Who?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 "...wishing to slay the dragon Fafner---"
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Oh, yeah, Fafner, that one.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Takes his father’s sword “Minning.”
 
-#dX[WINNIERED]
+#d1[WINNIERED]
 ...Minning...
 
-#dX[DAUNTLESS ]
+#d2[DAUNTLESS]
 “Disguised as the West Wind, he goes into the forest, surprises Fafner in his lair and slays him,
 whereupon he is enabled to understand the speech of birds. Meanwhile, Waldere's father, Alberich,
 disguised as the Sacred Goat, tells him that the spirit of Gunthere...”
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Oh, yeah, Gunthere? But I thought... Did you ring for a pageboy?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 No.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 You've got the wrong room, son. Aren’t you Larken?
 
-#dX[LARKEN]
+#d3[LARKEN]
 Yes, Your Highness.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 What's the matter?
 
-#dX[LARKEN]
+#d3[LARKEN]
 I...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 I have a suit just like that.
 
-#dX[LARKEN]
+#d3[LARKEN]
 I am in disguise, Your Highness. I... I was running away.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 I see. Well, sit down and rest. Dauntless, pull up a chair.
 
 #tpp[45]
 
-#dX[LARKEN]
+#d3[LARKEN]
 But, the Queen has ordered me...
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Never mind what the Queen has ordered. Just sit here.
 
-#dX[LARKEN]
+#d3[LARKEN]
 But, Your Highness...
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Oh, sit down. Now then, what's this all about?
 
-#dX[LARKEN]
+#d3[LARKEN]
 I'll just go out on the parapet and stand there naked and catch a chill and die and that'll show
 him.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Show him what?
 
-#dX[LARKEN]
+#d3[LARKEN]
 He'll be sorry...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Who?
 
-#dX[LARKEN]
+#d3[LARKEN]
 Horrible Harry...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 You mean big, nice Harry?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Just a minute. What did you do to him?
 
-#dX[LARKEN]
+#d3[LARKEN]
 What did I do to him?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Well, you must have done something. You're talking the way I did once when I was afraid to go home
 because I'd given my little brother a bloody lip.\
 It was an accident.
 
-#dX[LARKEN]
+#d3[LARKEN]
 We had a little disagreement.
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 So you decided to run away?
 
-#dX[LARKEN]
+#d3[LARKEN]
 He said some perfectly horrible things to me.
 
-#dX[WINNIERED]
+#d1[WINNIERED]
 Oh... I see. Well, in that case, I guess you were right. guess about the only thing you can do
 is... pack up and... get out. Unless, of course... you just go to him and say you're sorry. Listen,
 that Harry is a wonderful boy... and he really loves you. Why, we were on the road for two weeks
 and he never laid a finger on me.
 
-#dX[LARKEN]
+#d3[LARKEN]
 Oh, Your Highness!
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Now, you just get into something pretty that shows you're a
 girl and patch things up with him. Oh, and Larken---try and act a
 little helpless---men don't like girls that are too strong.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 I do!
 
-#dX[LARKEN]
+#d3[LARKEN]
 Dear, dear Princess, I don’t know how to thank you! If... if it's a girl, I'm going to name her
 Fred!
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 What if it's a boy?
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 Dauntless, you'd better go to bed. And leave the history book.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 I'm positive you're going to pass Mama's test tomorrow. Well, I'm pretty sure... If you don't...
 I'll understand.
 
 #tpp[46]
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 "And so the young Prince Waldere, having slain the dragon Fafner with the sword Minning, rescued
 the Princess Frigga, and together they mounted his horse, Trigga... and rode to the castle,
 Voonderbar, where they were married and lived happily ever after." Well, I'm glad.
 
 == Music 17: HAPPILY EVER AFTER
 
-#dX[WINNIFRED]
+#d1[WINNIFRED]
 THEY ALL LIVE HAPPILY, HAPPILY, HAPPILY EVER AFTER.\
 THE COUPLE IS HAPPILY LEAVING THE CHAPEL ETERNALLY TIED.\
 AS THE CURTAIN DESCENDS, THERE IS NOTHING BUT LOVING AND LAUGHTER.\
@@ -3129,111 +3177,119 @@ THEN I'LL BE HAPPILY HAPPY!\
 YES, HAPPILY HAPPY!\
 AND THOROUGHLY SATISFIED!
 
+#cue[3 1]
+// Cue 3 1
+// 1: Minstrel
+// 2: Harry
+// 3: Jester
+// 4: King
+// 5: Daunt
+
 = Scene 3
 
-#dX[JESTER]
+#d3[JESTER]
 You're a bully... and a tyrant... just because you won your spurs you think...
 
-#dX[HARRY]
+#d2[HARRY]
 Now see here! This man is charged with attempting to transport a young woman out-of-kingdom against
 her will. That’s a serious offense.
 
-#dX[JESTER]
+#d3[JESTER]
 He didn’t do it. It was a frame-up.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 You've got it all wrong.
 
-#dX[JESTER]
+#d3[JESTER]
 He was protecting the Lady Larken... and you keep out of this, Your Majesty.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Sir Harry, I can’t leave yet. There’s someone I must see first!
 
-#dX[HARRY]
+#d2[HARRY]
 Who?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 The Wizard. I want your permission to speak to the Wizard.
 
-#dX[JESTER]
+#d3[JESTER]
 Yes, yes!
 
-#dX[HARRY]
+#d2[HARRY]
 No, permission denied.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Sir Harry, you're a fathead!
 
-#dX[JESTER]
+#d3[JESTER]
 Yes, you are. He's trying to help. We're all trying to help.
 
-#dX[HARRY]
+#d2[HARRY]
 How can you help?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 By finding out what the test is... from the Wizard.
 
-#dX[HARRY]
+#d2[HARRY]
 That's cheating.
 
-#dX[JESTER]
+#d3[JESTER]
 Don’t you understand? This is for you.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Let me go to the Wizard.
 
-#dX[HARRY]
+#d2[HARRY]
 No. If anyone should defy the Wizard's magic, I should.
 
-#dX[JESTER]
+#d3[JESTER]
 You must stand guard. This is my job.
 
-#dX[KING]
+#d4[KING]
 (Panto: “I'll do it”)
 
-#dX[JESTER]
+#d3[JESTER]
 No. You might get hurt.
 
-#dX[KING]
-(Fight with wizarD)
+#d4[KING]
+(Fight with Wizard)
 
-#dX[JESTER]
+#d3[JESTER]
 You can’t come, and that’s final!
 
 #tpp[49]
 
-KING:
-(Still fighting wizARD)
+#d4[KING]
+(Still fighting Wizard)
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 What's the matter, Papa?
 
-#dX[HARRY]
+#d2[HARRY]
 The King mustn’t come with us.
 
-#dX[JESTER]
+#d3[JESTER]
 I'll get rid of him. Your Majesty, Prince Dauntless is ready now. He needs to have that personal
 talk with you.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 Well, some other time.
 
-#dX[JESTER]
+#d3[JESTER]
 Dauntless, your father wants to have that little chat with you now. It's very important.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 It is?
 
-#dX[JESTER]
+#d3[JESTER]
 It can’t be put off. Come on. Do your duty, Sire.
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 What is it, Papa? What do you want to talk about? Well, Papa...?
 
 == Music 18: MAN TO MAN TALK
 
-#dX[DAUNTLESS]
+#d5[DAUNTLESS]
 Stop, look listen.\
 Little Prince.\
 Boy... flower...\
@@ -3307,187 +3363,200 @@ IT'S VERY INT'RESTING.\
 THANK YOU, FATHER...\
 AND FATHER, I LOVE YOU SO!
 
+#cue[4 1]
+// Cue 4 1
+// 1: Minstrel
+// 2: Wizard
+// 3: Jester
+
 = Scene 4
 
-#dX[JESTER]
+#d3[JESTER]
 Pardon, Sir Wizard.
 
-#dX[WIZARD]
+#d2[WIZARD]
 What do you want?
 
-#dX[JESTER]
+#d3[JESTER]
 Our friend, the Minstrel, is a great admirer of yours.
 
-#dX[WIZARD]
+#d2[WIZARD]
 No soft soap, if you please.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 This is not soft soap. And I wouldn’t even say it except for the fact that I've been banished. And
 before I go — well — I hope this won’t embarrass you, but... I had to tell you what a great
 artist you are... Cardamon.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Cardamon? Don't call me by that name.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I use that name with honor, sir. I don’t think I'll ever forget seeing you in command performance
 at Glastonbury in 92. What a show, what a triumph! You took seven curtain calls.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Eight.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Do you happen to remember a little boy in the second row who stood up and yelled “Bravo” that night?
 
 #tpp[52]
 
-#dX[WIZARD]
+#d2[WIZARD]
 Yes...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I was that boy.
 
-#dX[WIZARD]
+#d2[WIZARD]
 I can’t believe it.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Of course, now I'm in show business, too. And sir... if it’s any interest to you, it was your
 inspiration that brought this about.
 
-#dX[WIZARD]
+#d2[WIZARD]
 You must belong to the guild. Camelot Local 714! To think that someone remembers those days.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Yes. Well, I just wanted to tell you what that performance meant to me, Cardamon. I'd better be
 going now.
 
-#dX[WIZARD]
+#d2[WIZARD]
 No. Stay awhile. Sir Minstrel — for you.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Thank you.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Here — have a seat.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 No, the Queen wouldn't like it if she knew I was still around.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Never mind her. Sit down. This is between us.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Anyway you're probably busy with that test for tomorrow.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Oh, that’s all right. The test is all taken care of.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I don’t suppose you could tell an old Guild brother what it is?
 
-#dX[WIZARD]
+#d2[WIZARD]
 Well, I'm sort of under oath...
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I understand. Well, I'd better be going.
 
-#dX[WIZARD]
+#d2[WIZARD]
 No. Wait a minute. May I borrow your handkerchief?
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 What handkerchief?
 
-#dX[WIZARD]
+#d2[WIZARD]
 Some people think my act is pretty fowl.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Cardamon the Great!
 
-#dX[WIZARD]
+#d2[WIZARD]
 I bet you can’t guess what the test is about.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Astronomy?
 
-#dX[WIZARD]
+#d2[WIZARD]
 No. You'll never guess. Sensitivity.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Sensitivity! Did you hear? Cardamon the Great.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Cardamon the Greatest. Now let me tell you the rest. No, I'd better not.
 
-#dX[JESTER]
+#d3[JESTER]
 I'll go — but may I ask one favor, Cardamon? May I have this?
 
-#dX[WIZARD]
+#d2[WIZARD]
 What do you want with that?
 
-#dX[JESTER]
+#d3[JESTER]
 A memento of the good old days, because of my father.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Keep it.
 
-#dX[JESTER]
+#d3[JESTER]
 Thank you.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Jester!
 
 #tpp[53]
 
-#dX[JESTER]
+#d3[JESTER]
 Oh, thank you, sir.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 That was a wonderful thing you did for that boy, Cardamon.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Well — for his father’s sake.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 Say — I don't actually have to get out of here until daybreak. Why don’t we go down to the wine
 cellar, split a bottle, and talk some more about — uh — talk some more.
 
-#dX[WIZARD]
+#d2[WIZARD]
 Fine — fine. But first I've started something here I'd like to
 finish. Go ahead and I'll join you in two seconds.
 
-#dX[MINSTREL]
+#d1[MINSTREL]
 I'll be waiting.
+
+#cue[5 1]
+// Cue 5 1
+// 1: Studley
+// 2: Girl
+// 3: Jester
+// 4: Lady
 
 = Scene 5
 
-#dX[STUDLEY]
+#d1[STUDLEY]
 What's the matter, Jester?
 
-#dX[JESTER]
+#d3[JESTER]
 Oh, nothing.
 
-#dX[STUDLEY]
+#d1[STUDLEY]
 Say something funny.
 
-#dX[JESTER]
+#d3[JESTER]
 Have you ever heard of my father, Sliding Peter Jingle? 
 
 // TODO: who?
-#dX[GIRL]
+#d2[GIRL]
 (laughs wildly)
 
-#dX[STUDLEY]
+#d1[STUDLEY]
 Is that funny?
 
-#dX[LADY]
+#d4[LADY]
 I don’t know.
 
-#dX[STUDLEY]
+#d1[STUDLEY]
 I think the clown is losing his touch.
 
 == Music 19: YERY SOFT SHOES
 
-#dX[JESTER]
+#d3[JESTER]
 I AM FAR FROM SENTIMENTAL OR ROMANTIC\
 AND I LIKE TO THINK I'M STRICTLY UP TO DATE,\
 BUT AT TIMES THE DANCES GET A BIT TOO FRANTIC\
@@ -3521,33 +3590,41 @@ THE CROWD WENT CRAZY AND THE HOUSE CAME DOWN\
 WHEN DADDY WORE HIS\
 VERY SOFT SHOES!
 
+#cue[6 1]
+// Cue 6 1
+// 1: Harry
+// 2: Larken
+
 == Music 20: THREE O'CLOCK IN THE MORNING
 
 = Scene 6
 
-#dX[HARRY]
+#d1[HARRY]
 Who's there? Friend or foe?
 
-#dX[LARKEN]
+#d2[LARKEN]
 Friend...
 
-#dX[HARRY]
+#d1[HARRY]
 Oh.
 
-#dX[LARKEN]
+#d2[LARKEN]
 I hope... Oh Harry! Harry, look at me... I... I was trying to run away — but it was only because I
 thought you didn’t love me... I thought you didn’t love me? But even if you — don’t love me, I
 can’t love anyone but you and I want to be near you if I can... as long as I can... Oh, Harry, I
 don’t blame you if you've changed.
 
-#dX[HARRY]
-Well, in a way I have.
+#d1[HARRY]
+Well, in a way I have. #cue[6 2]
+// Cue 6 2
+// 1: Harry LEFT
+// 2: Larken RIGHT
 
 #tpp[55]
 
 == Music 21: YESTERDAY I LOVED YOU
 
-#dX[HARRY]
+#d1[HARRY]
 YESTERDAY I LOVED YOU\
 AS NEVER BEFORE.\
 BUT PLEASE DON'T THINK ME STRANGE —\
@@ -3560,7 +3637,7 @@ TONIGHT I LOVE YOU LESS\
 THAN I WILL TOMORROW MORNING!
 
 
-#dX[LARKEN]
+#d2[LARKEN]
 YESTERDAY I LOVED YOU\
 AS NEVER BEFORE.\
 BUT THAT WAS LONG AGO\
@@ -3572,7 +3649,7 @@ I TREMBLE AT YOUR TOUCH —\
 NOT NEARLY HALF SO MUCH\
 AS I WILL TOMORROW MORNING!
 
-#dX[HARRY]
+#d1[HARRY]
 YESTERDAY YOU SEEMED AS LOVELY TO ME\
 AS ANYONE EVER COULD BE.\
 NOW I'SEE WHAT TRICKS MY EYES CAN PLAY!\
@@ -3583,7 +3660,7 @@ FOR I FIND YOU SO MUCH LOVELIER TODAY.
 #box(stack(
   dir: ltr,
   box(width: 50%)[
-    #dX[LARKEN]
+    #d2[LARKEN]
     MY HEART CANNOT BE TRUSTED.\
     I GIVE YOU FAIR WARNING —\
     IN A LITTLE WHILE\
@@ -3597,7 +3674,7 @@ FOR I FIND YOU SO MUCH LOVELIER TODAY.
     IS THE WAY I HAVE IT PLANNED.
   ],
   box(width: 50%)[
-    #dX[HARRY]
+    #d1[HARRY]
     FOR YESTERDAY I LOVED YOU
     AS NEVER BEFORE.
     BUT THAT WAS LONG AGO,
@@ -3608,40 +3685,48 @@ FOR I FIND YOU SO MUCH LOVELIER TODAY.
 
 #tpp[56]
 
-#dX[BOTH]
+#d1[] #d2[BOTH]
 MY HEART CANNOT BE TRUSTED.\
 I GIVE YOU FAIR WARNING —\
 I OPENLY CONFESS—\
 TONIGHT I LOVE YOU LESS\
 THAN I WILL TOMORROW MORNING.
 
+#cue[7 1]
+// Cue 7 1
+// 1: Queen
+// 2: 1st Lady
+// 3: 2nd and 3rd Lady
+// 4: Fred
+// 5: Bird
+
 = Scene 7
 
-#dX[QUEEN]
+#d1[QUEEN]
 Seventeen, eighteen, nineteen, twenty. That should do it. And one small pea... that I had to bring
 all the way up from the pantry. All the way up the most killing stairs in the kingdom... There...
 All right, you can come in now. Did you bring everything? The hypnotic mirror?
 
-#dX[1ST LADY]
+#d2[1ST LADY]
 Yes, Madame.
 
-#dX[QUEEN]
+#d1[QUEEN]
 And the rest of the things?
 
-#dX[2ND & 3RD LADIES]
+#d3[2ND & 3RD LADIES]
 Yes, Madame.
 
-#dX[QUEEN]
+#d1[QUEEN]
 And the girl... where is the girl? Doesn’t she know it’s long past bedtime? You would think she
 would be dropping from exhaustion. Oh, it’s you. Ready for bed? You must be sure to get a good
 night's rest so you'll be fresh early tomorrow morning for your trip back to your kingdom or
 wherever you're going. Bring the hypnotic mirror. And where is the incantation? The Wizard said it
 would be written right on the wrapper.
 
-#dX[1ST LADY]
+#d2[1ST LADY]
 Here it is, Your Majesty.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Yes.\
 "Silken swishing sibilance\
 Wraps us in a gentle trance.\
@@ -3650,10 +3735,10 @@ Off we go to beddy-bye."\
 
 #tpp[57]
 
-#dX[WINNIERED]
+#d4[WINNIERED]
 You know, I think I'm getting a sty right here.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Ugh. Bring the poppy and mandragora incense.\
 "Drowsy incense, sweet aroma\
 Wraps us in a gentle coma.\
@@ -3661,55 +3746,61 @@ Murmuring voices seem to say,\
 ‘Mr. Sandman’s on his way."\
 That ought to get us to sleep, shouldn't it? The sleeping draught.
 
-#dX[3RD LADY]
+#d3[3RD LADY]
 Here, Madame.
 
-#dX[QUEEN]
+#d1[QUEEN]
 That’s right. Drink a little extract of opium and warm milk before going to bed, I always say.
 Drink it down. Now I'm sure you're going to get a good night's sleep... I wish I could say the same
 for myself. And just to make sure you have no trouble drifting off, I've prepared a special treat.
 Bring on the Nightingale of Samarkand. Who has the Nightingale of Samarkand?\
 Naturally, I have to do everything myself. All right, sing! 
 
-#dX[BIRD]
+// TODO: Who?
+#d5[BIRD]
 (piercing shriek)
 
-#dX[QUEEN]
+#d1[QUEEN]
 Stop! You were brought here to put a live princess to sleep... not to wake a dead one. Let’s have
 a lullaby, Birdie, nice and soft.
 
 == Music 22: NIGHTINGALE LULLABY
 
-#dX[BIRD]
+#d5[BIRD]
 (la la la)
 
-#dX[QUEEN]
+#d1[QUEEN]
 Yea, verily. Now, my dear, why aren’t you in bed?
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 Am I almost there?
 
-#dX[QUEEN]
+#d1[QUEEN]
 Help her up.\
 Well, at least one person in this castle is going to get a good night's sleep.
 
 #tpp[58]
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 What are you... some kinda nut?\
 (WINNIFRED conducts the BIRD)\
 All right, lumps, watch out.\
 All right, we'll take it from the top.
 
-#dX[BIRD]
+#d5[BIRD]
 (more la la la)
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 Goodnight, everybody... sleep well.\
 What a beautiful bed! Twenty soft downy mattresses. Oh, I'm going to sleep like a baby.\
 (screams)\
 Quiet.\
 All right, sheep... I'm ready when you are!
+
+#cue[8 1]
+// Cue 8 1
+// 1: Queen
+// 2: Daunt
 
 == Music 22a: WIZARD
 
@@ -3717,138 +3808,151 @@ All right, sheep... I'm ready when you are!
 
 = Scene 8
 
-#dX[QUEEN]
+#d1[QUEEN]
 Here, darling, let Mother fix it.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Leave me alone, Mama, I can dress myself.
 
-#dX[QUEEN]
+#d1[QUEEN]
 Well! Far be it from me to interfere, precious.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 I can do it!
 
-#dX[QUEEN]
+#d1[QUEEN]
 Why are you wearing that so early in the morning?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Well, today’s the test, Mama, and I want to look my best for---
 
-#dX[QUEEN]
+#d1[QUEEN]
 The test! Why, Dauntless, the test is all over, sweetheart.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Huh?
 
-#dX[QUEEN]
+#d1[QUEEN]
 The test is over, darling boy.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 But Mama, when was it? What was it?
 
-#dX[QUEEN]
+#d1[QUEEN]
 It was last night. We put her to bed on twenty soft downy mattresses with a pea under the bottom
 one... to test her sensitivity. And, of course, the pea would have kept a real princess awake.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 And she slept?
 
-#dX[QUEEN]
+#d1[QUEEN]
 Well, darling, I'm sure I don’t know. But she was practically falling asleep before she got into
 bed... and yawning like a vulgar scullery maid. I mean she looked ghastly, darling, and old enough
 to be your... oh well, we'll see.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Oh, Fred...
+
+#cue[9 1]
+// Cue 9 1
+// 1: Queen
+// 2: Rowena
+// 3: Others
+// 4: Studley
 
 = Scene 9
 
-#dX[LADY ROWENA]
+#d2[LADY ROWENA]
 (Hysterical giggle quickly smothered)
 
-#dX[OTHERS]
+#d3[OTHERS]
 Shh-hush, quiet.
 
-#dX[LADY ROWENA]
+#d2[LADY ROWENA]
 I can’t help it. I'm so nervous I could die.\
 Absolutely die. (Hysterical giggle)
 
-#dX[OTHERS]
+#d3[OTHERS]
 Shhh!
 
-#dX[STUDLEY]
+#d4[STUDLEY]
 Control yourself — they’ll be here in a minute.
 
 #tpp[60]
 
-#dX[LADY ROWENA]
+#d2[LADY ROWENA]
 If she didn’t pass I'll just kill myself.
 
-#dX[STUDLEY]
+#d4[STUDLEY]
 Don't talk! Here comes the Queen.
 
-#dX[QUEEN]
+#d1[QUEEN]
 ...and someday, dear, we'll find a true princess for you, so don’t worry. Good morning, everyone.
 
-#dX[ALL]
+#d3[ALL]
 Good morning, Your Majesty.
 
-#dX[QUEEN]
+#d1[QUEEN]
 All here to see the princess on her way? Since she’s such a favorite of ours, I have decided that
 she should have an extra-special consolation prize. Sir Studley?
 
-#dX[STUDLEY]
+#d4[STUDLEY]
 Here, Your Majesty. A very thoughtful gift.
 
-#dX[QUEEN]
-Charming, charming.\
+#d1[QUEEN]
+#cue[9 2] Charming, charming.\
 Dauntless! — And where is our little slugabed? She should be getting an early start. Ah, here she
 is now. She isn’t even dressed yet. She must have slept like a baby.
+// Cue 9 2
+// 1: Queen
+// 2: Daunt
+// 3: Fred
+// 4: Harry, Larken
+// 5: All
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 37,428.
 
-#dX[QUEEN]
+#d1[QUEEN]
 37,428 what?
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 Sheep. What do you stuff your mattresses with — jousting equipment?
 
-#dX[QUEEN]
+#d1[QUEEN]
 What do you mean?
 
-#dX[WINNIERED]
+#d3[WINNIERED]
 I mean that bed ought to be moved down to the torture chamber.
 
-#dX[QUEEN]
+#d1[QUEEN]
 You didn’t sleep?
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 I never shut my eyes.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 You've passed.
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 Passed what?
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 The test. Mama put a pea under twenty mattresses and you felt it and now we can be married!
 
-#dX[ALL]
+#d5[ALL]
 Hooray! My love! Married at last! At last! (All embrace)
 
-#dX[WINNIERED]
+#d3[WINNIERED]
 A pea under twenty mattresses? No wonder I'm black and blue!
 
-#dX[HARRY]
+#d4[HARRY]
 Now don’t you think she’s pretty?
 
-#dX[LARKEN]
+#d4[LARKEN]
 No, she’s not pretty, she’s beautiful.
 
-#dX[WINNIFRED]
+#d3[WINNIFRED]
 Twenty mattresses, huh? Dauntless, dear? I'll leave the
 wedding arrangements up to you. You'd better start looking
 around for a small kingdom for us — I've gota feeling we aren’t
@@ -3856,80 +3960,92 @@ going to want to live with the in-laws.
 
 #tpp[61]
 
-#dX[DAUNTLESS]
-She’s going to get cold sleeping on that bare table. I'd better take her up to her room.
+#d2[DAUNTLESS]
+#cue[9 3] She’s going to get cold sleeping on that bare table. I'd better take her up to her room.
+// Cue 9 3
+// 1: Queen
+// 2: Daunt
+// 3: Jester
+// 4: Harry
+// 5: King
 
-#dX[QUEEN]
+#d1[QUEEN]
 Dauntless, wait...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 What should I wait for, Mama?
 
-#dX[QUEEN]
+#d1[QUEEN]
 To give this matter proper consideration...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 She passed the test — and I have to take her up to our room.
 
-#dX[QUEEN]
+#d1[QUEEN]
 I said wait!! Now you listen to your Mother. Throughout this heartbreaking business of trying to
 find a true princess, I have never nagged, never interfered, and never expected one solitary word
 of sympathy.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Shh, Mama. She’s asleep.
 
-#dX[QUEEN]
+#d1[QUEEN]
 But I will not stand by and watch you throw yourself away on this little nobody.
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Mama, quiet!
 
-#dX[QUEEN]
+#d1[QUEEN]
 I mean look at her: she may have pased the test, but I must say I've never trusted anyone who had
 those shifty eyes or that mean little mouth or...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 1 told you to SHUT UP!!
 
-#dX[JESTER]
+#d3[JESTER]
 It happened... it happened: The Prophecy! "The mouse devoured the hawk..."
 
-#dX[HARRY]
+#d4[HARRY]
 Look... look... the Queen can't talk!
 
-#dX[KING]
+#d5[KING]
 I... I... I...
 
-#dX[JESTER]
+#d3[JESTER]
 What?
 
-#dX[KING]
+#d5[KING]
 I can!
 
-#dX[JESTER]
+#d3[JESTER]
 The King talks!
 
-#dX[KING]
+#d5[KING]
 And I've got a lot to say...
 
-#dX[DAUNTLESS]
+#d2[DAUNTLESS]
 Well, good night.
 
-#dX[KING]
-Unhand the boy! Go ahead. Now you asked for it, Aggravain, and you got it. From now on when I say
+#d5[KING]
+#cue[9 4] Unhand the boy! Go ahead. Now you asked for it, Aggravain, and you got it. From now on when I say
 hop, I want you to hop. Hop! Skip! Jump! Hop! Skip! Jump!
+// Cue 9 4
+// 1: All LEFT
+// 2: All RIGHT
+// 3: Jester
+// 4: Fred
+// 5: King
 
 == Music 23: FINALE
 
-#dX[ALL]
+#d1[] #d2[ALL]
 HOW DID SHE STAY AWAKE?\
 THE PEA WAS AWF'LLY
 
-#dX[JESTER]
+#d3[JESTER]
 But it wasn’t the pea!
 
-#dX[ALL]
+#d1[] #d2[ALL]
 IT WASN'T THE PEA\
 IT WASN'T THE PEA AT ALL.\
 OH, LIFE IS GRAND —\
@@ -3945,10 +4061,10 @@ DELICATE AND DAINTY AS A DRAGONFLY’S WING.\
 YOU CAN RECOGNIZE A LADY BY HER ELEGANT AIR\
 BUT A GENUINE PRINCESS —
 
-#dX[WINNIFRED]
+#d4[WINNIFRED]
 (snores)
 
-#dX[ALL]
+#d1[] #d2[ALL]
 IS EXCEEDINGLY RARE!
 
 = END OF ACT TWO
