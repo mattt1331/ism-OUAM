@@ -1580,6 +1580,7 @@ GET OUT!
 // 2: Jester
 // 3: Daunt
 // 4: Rowena
+// 5: Other two liw
 
 = Scene 5
 
@@ -1622,6 +1623,8 @@ My father never touches his crown to his heart unless he really means it.
 Alas, madame, the King is mute, or he would speak for himself.
 He’s still under a curse cast by a witch long ago---before Prince
 Dauntless was born. The curse says:\
+
+#d2[] #d4[] #d5[JESTER, LiW]
 “King Sextimus will never talk\
 Until the mouse devours the hawk.”
 
@@ -1777,7 +1780,7 @@ THE SWAMPS OF HOME. #cue[5 3]
 // 2: Rowena
 // 3: Daunt
 // 4: Lucille
-// 5: Lady H
+// 5: Rowena, Merril
 
 #d2[LADY ROWENA]
 Your Highness, the girls and I would like to lend you
@@ -1808,16 +1811,16 @@ Yes.
 Now here is the very latest thing from — they do such
 lovely work, don’t you think? Notice the fullness in the back. And
 the window sleeves cut right down to the---it’s really you---It
-looks marvelous on. Don’t you think so, Lady H?
+looks marvelous on. Don’t you think so, Lady R?
 
 // TODO: Who is Lady H?
-#d5[LADY H]
+#d5[LADY R]
 Stunning!
 
 #d4[LADY LUCILLE]
 Perhaps Her Highness would like to look in the mirror?
 
-#d5[LADY H]
+#d5[LADY M]
 Does Her Highness have a favorite color?
 
 #d1[WINNIFRED]
@@ -1832,7 +1835,7 @@ use I'll send back.
 // 4: Lucille
 
 #d4[LADY LUCILLE]
-Very good, Your Highness. Lady H. Lady R.
+Very good, Your Highness. Lady M. Lady R.
 
 #tpp[27]
 
@@ -1971,6 +1974,7 @@ Goodbye! #cue[6 1]
 // 1: Queen
 // 2: Harold and Beatrice
 // 3: Wizard
+// 4: Mimi as nonono
 
 = Scene 6
 
@@ -2005,7 +2009,16 @@ hard? Suppose we all try it. Take partners, please! Prepare! Et! Don’t you jus
 Doesn't it make you want to fly? WHEEEEEEEE!
 
 #d3[WIZARD]
-Are you sure you know what you're doing? #cue[7 1]
+Are you sure you know what you're doing?
+
+== Music 11: TENTS
+
+= Scene 7
+
+#d4[KITCHEN PERSON]
+No no no!\
+No no no!\
+(exits) #cue[7 1]
 // Cue 7 1
 // 1: Minstrel
 // 2: King
@@ -2013,13 +2026,8 @@ Are you sure you know what you're doing? #cue[7 1]
 // 4: Larken
 // 5: Queen
 
-== Music 11: TENTS
-
-= Scene 7
-
 #tpp[30]
 
-// TODO: What are we doing here?
 #d2[KING]
 (Panto: frustration)
 
@@ -2045,7 +2053,7 @@ Has he ever had any success?
 Well...
 
 #d1[MINSTREL]
-I've been here a month and he hasn’t caught a girl yet.
+I've been here a month and he hasn’t caught a cookie yet.
 
 #d3[JESTER]
 I'll tell you what. Tomorrow we’ll set a trap. (KING does trap panto.
@@ -2071,7 +2079,7 @@ THE QUEEN!!
 
 #d5[QUEEN]
 ...and this has to be the biggest loudest ball we've ever had and be sure to hire extra musicians
-for tonight’s dancing and tell the Jester I want him to perform. Not that I'll be able to enjoy any
+for tonight’s dancing and tell the Jester I want her to perform. Not that I'll be able to enjoy any
 of it with my back, and that strange, nagging pain in my jaw. Oh, God, no one will ever know what I
 suffer...
 
@@ -2423,14 +2431,16 @@ Harry, ask Mabelle if she’d like to bring something,.
 Uh...voulez-vous...uh...?
 
 #d4[MABELLE]
-Yes! 
-
-#cue[9 1]
+Yes! #cue[9 1]
 // Cue 9 1
 // 1: Queen
 // 2: Fred
 // 3: Daunt
-// 4: All of the duos *eek*
+// 4: Chorus
+
+#d1[QUEEN]
+Prepare!\
+Et!
 
 #tpp[35]
 
@@ -2524,8 +2534,7 @@ MY REASONS MUST BE CLEAR.\
 WHEN SHE SHOWS YOU ALL HOW STRONG SHE IS\
 YOU'LL STAND RIGHT UP AND CHEER!
 
-// TODO: Who are all of these duos?
-#d4[1ST DUO FROM CHORUS]
+#d4[CHORUS]
 WITH AN "F" AND AN "R" AND AN "E" AND A "D"\
 AND AN "F" "R" "E" "D", FRED! YEA!
 
@@ -2535,11 +2544,11 @@ SHE DRINKS JUST LIKE A LORD.\
 SO COME SING A MERRY DRINKING SONG\
 AND LET THE WINE BE POURED!
 
-#d4[2ND DUO]
+#d4[CHORUS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#d4[1ST & 2ND DUOS]
+#d4[CHORUS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E"” “D”, FRED! YEA!\
 
@@ -2555,11 +2564,11 @@ WHEN HER GENTLE VOICE IS HEARD!
 #d2[WINNIFRED]
 AH-AH-AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
-#d4[2ND & 3RD DUOS]
+#d4[CHORUS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#d4[1ST, 2ND & 3RD DUOS]
+#d4[CHORUS]
 WITH AN “F” AND AN “R” AND AN “E” AND AN "“D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
@@ -2572,11 +2581,11 @@ AT HER FABULOUS TECHNIQUE!
 #d2[WINNIFRED]
 AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
-#d4[2ND, 3RD & 4TH DUOS]
+#d4[CHORUS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#d4[1ST, 2ND, 3RD & 4TH DUOS]
+#d4[CHORUS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!\
 
@@ -2591,11 +2600,11 @@ AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
 #tpp[38]
 
-#d4[2ND, 3RD, 4TH & 5TH DUOS]
+#d4[CHORUS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#d4[IST, 2ND, 3RD, 4TH & 5TH DUOS]
+#d4[CHORUS]
 WITH AN “F” AND AN “R” AND AN “E”
 AND AN “F” “R” “E" “D”, FRED! YEA!
 
@@ -2605,18 +2614,18 @@ SHE’S MUSICAL TO BOOT,\
 SHE WILL SET YOUR FEET A-TAPPING\
 WHEN SHE PLAYS UPON HER LUTE!
 
-#d4[5TH & 6TH DUOS]
+#d4[CHORUS]
 BRAVO, BRAVO, BRAVISSIMO!\
 BRAVO, BRAVISSIMO!
 
 #d2[WINNIERED]
 AH - AH - AH, AH, AH, AH, AH AHHH!
 
-#d4[2ND, 3RD, 4TH, 5TH & 6TH DUOS]
+#d4[CHORUS]
 FILL THE BOWL TO OVERFLOWING\
 RAISE THE GOBLET HIGH!
 
-#d4[1ST, 2ND, 3RD, 4TH, 5TH & 6TH DUOS]
+#d4[CHORUS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
@@ -2626,23 +2635,23 @@ A CLEVER, CLOWNISH WIT.\
 WHEN SHE DOES HER FUNNY PANTOMIME\
 YOUR SIDES ARE SURE TO SPLIT!
 
-#d4[7TH DUO]
+#d4[CHORUS]
 HA, HA, HA, HA, HO, HO, HO, HO, HA, HA, HA, HA, HO!
 
 #tpp[39]
 
-#d4[5TH, 6TH & 7TH DUOS]
+#d4[CHORUS]
 BRAVO, BRAVO, BRAVISSIMO!\
 BRAVO, BRAVISSIMO!
 
 #d2[WINNIFRED]
 AH - AH - AH, AH, AH, AH, AH, AH, AH, AH, AH, AH, AHHH!
 
-#d4[2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
+#d4[CHORUS]
 FILL THE BOWL TO OVERFLOWING.\
 RAISE THE GOBLET HIGH!
 
-#d4[1ST, 2ND, 3RD, 4TH, 5TH, 6TH & 7TH DUOS]
+#d4[CHORUS]
 WITH AN “F” AND AN “R” AND AN “E” AND A “D”\
 AND AN “F” “R” “E” “D”, FRED! YEA!
 
@@ -2756,7 +2765,7 @@ Not yet, I'll get them out of here. Lay low until the coast is clear.
 Bravo!
 
 #d1[QUEEN]
-#cue[1 3] Jester! Jester! Somebody stop him. Stop him, I say. There he goes down that corridor. Bring him here
+#cue[1 3] Jester! Jester! Somebody stop her. Stop her, I say. There she goes down that corridor. Bring her here
 to me. This is a fine kettle of fish. Now, you wretch, I want the truth... what is this noise all
 about anyway? The moment I turn my back, something outrageous is always going on in the corridors.
 // Cue 1 3
@@ -2765,12 +2774,6 @@ about anyway? The moment I turn my back, something outrageous is always going on
 // 3: Harry, Larken OFF
 // 4: Minstrel OFF
 // 5: All OFF
-
-#d3[HARRY]
-Never mind me!
-
-#d3[LARKEN]
-Harry!
 
 #tpp[42]
 
@@ -2799,7 +2802,7 @@ WHAT!
 (I'm doing Spanish Panic)
 
 #d1[QUEEN]
-There’s something going on around here. What's under the mattress?
+There’s something going on around here. What's under the sheet?
 
 #d2[KING]
 (Nothing)
@@ -2826,7 +2829,7 @@ Lancelot.
 // 5: Harry
 
 #d1[QUEEN]
-Lancelot! Wait! Lady Larken! Take those things up to what's her name’s chamber---mattresses too.
+Lancelot! Wait! Lady Larken!
 
 #d4[LARKEN]
 Your Majesty...
@@ -2912,7 +2915,7 @@ Ohh...
 
 #d1[QUEEN]
 #cue[1 6] And you relax! Sir Harry, I order this Minstrel banished from my kingdom! I want him out of here by
-daybreak. Sextimus! Go to bed. I don’t want you groping around in the dark all night.  And the rest
+daybreak. Sextimus! Go to bed. I don’t want you running around in the dark all night.  And the rest
 of you, listen closely. There is a little girl upstairs who is dog-tired.
 // Cue 1 6
 // 1: Queen
@@ -3504,10 +3507,10 @@ Jester!
 Oh, thank you, sir.
 
 #d1[MINSTREL]
-That was a wonderful thing you did for that boy, Cardamon.
+That was a wonderful thing you did for that girl, Cardamon.
 
 #d2[WIZARD]
-Well — for his father’s sake.
+Well — for her father’s sake.
 
 #d1[MINSTREL]
 Say — I don't actually have to get out of here until daybreak. Why don’t we go down to the wine
@@ -3962,7 +3965,7 @@ going to want to live with the in-laws.
 #tpp[61]
 
 #d2[DAUNTLESS]
-#cue[9 3] She’s going to get cold sleeping on that bare table. I'd better take her up to her room.
+#cue[9 3] I'd better take her up to her room.
 // Cue 9 3
 // 1: Queen
 // 2: Daunt
