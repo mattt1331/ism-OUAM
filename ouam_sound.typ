@@ -137,6 +137,8 @@ Law?
 
 #d4[LADY LUCILLE]
 The Marriage Law:\
+
+#d4[LADIES IN WAITING]
 ‘Throughout the land no one may wed\
 Till Dauntless to the altar’s led.”
 
@@ -214,12 +216,11 @@ OHHHHHHHHHHHH...
 #d2[WIZARD]
 ...your time is up.
 
-// TODO: What are they doing with this scream?
 #d5[QUEEN]
 #cue[1 4] Too bad, my dear, too bad. You do show a certain aptitude, but as for the true brilliance of
 royalty... well, I'm afraid not. Remember: blood will tell, and yours didn’t tell us quite enough.
 However, to show that there are no hard feelings, here is a nice consolation prize for you. Goodbye;
-good luck; and get out. Sweetheart... Dauntless! Stop pouting. (KING gooses A LADY — she screams)
+good luck; and get out. Sweetheart... Dauntless! Stop pouting.
 Now, don’t dilly-dally, Dauntless. It's nearly time for your cocoa.
 
 #tpp[5]
@@ -472,7 +473,7 @@ No! You'll stay here! Why should we both suffer all our
 lives just because you had a moment of weakness?
 
 #d3[LARKEN]
-Oh, Harry! (She throws herself into his arms)
+Oh, Harry!
 
 #d4[HARRY]
 We're none of us perfect! Everything’s going to be all right.
@@ -549,8 +550,8 @@ A CASTLE IN THE NEIGHBORHOOD FOR SALE. #cue[2 1]
 // Cue 2 1
 // 1: Queen
 // 2: Daunt
-// 3: Larken
-// 4: Harry
+// 3: Larken LEFT
+// 4: Harry RIGHT
 
 = Scene 2
 
@@ -603,7 +604,7 @@ exactly the oldest people in the world; but on the other hand we're
 not going to live forever, and I just know that I'd feel much better,
 much easier and more relaxed in my mind if that boy were
 married, and settled and set!” And that is absolutely verbatim,
-exactly what I'said to your father this morning. Of course, he didn't
+exactly what I said to your father this morning. Of course, he didn't
 say anything. He never does. But you know him just as well as I
 do; I don’t have to tell you how impossible he is. But that's my
 cross of pain; and I don’t want you to worry your head one tiny bit
@@ -623,7 +624,7 @@ prince and you must marry someone suitable, someone who's
 good enough and smart enough, and fine enough for my good,
 nice, sweet, beautiful baby boy. And of course she has to be a
 princess. I mean a real princess. That's one thing I absolutely insist
-upon. She has to be areal, genuine, bonafide princess just as I was.
+upon. She has to be a real, genuine, bonafide princess just as I was.
 That’s what you really want, isn’t it? Someone like me? Of course
 you do! Oh, God! If I were only twenty years younger — Just
 remember this — you must trust me...
@@ -864,7 +865,7 @@ THOUGH SOME PEOPLE I KNOW MIGHT DENY IT,\
 AT BOTTOM I'M QUIET AND PURE!\
 I'M AWARE THAT IT'S WRONG TO BE MEEK AS I AM;\
 MY CHANCES MAY PASS ME BY.\
-I PRETEND TO BE STRONG, BUT AS WEAK AS T AM,\
+I PRETEND TO BE STRONG, BUT AS WEAK AS I AM,\
 ALL I CAN DO IS TRY,\
 GOD KNOWS I\
 TRY! THOUGH I'M FRIGHTENED AND SHY\
@@ -882,17 +883,16 @@ I'M GOIN’ FISHING FOR A MATE.
 // Cue 3 2
 // 1: Queen
 // 2: Winni
-// 3: Knights
-// 4: Ladies
-// 5: Daunt
+// 3: Knights LEFT
+// 4: Knights RIGHT
 
-#d3[KNIGHTS]
+#d3[] #d4[KNIGHTS]
 SHE'S GOIN' FISHING FOR A MATE.
 
 #d2[WINNIFRED]
 I'M GONNA LOOK IN EV'RY BROOK!
 
-#d3[KNIGHTS]
+#d3[] #d4[KNIGHTS]
 SHE'S GONNA LOOK IN EV'RY BROOK!
 
 #d2[WINNIFRED]
@@ -909,22 +909,32 @@ I'M INSANE TO KNOW\
 WHICH SIR?\
 YOU, SIR?
 
-#d3[KNIGHTS]
+#d3[] #d4[KNIGHTS]
 NOT I, SIR.
 
 #d2[WINNIFRED]
-THEN WHO, SIR?\
+#cue[3 3] THEN WHO, SIR?\
 WHERE, SIR? AND WHEN, SIR?\
 I COULDN'T BE TENSER!\
 SO LET’S GET THIS DONE, MAN.\
 GET ON WITH THE FUN, MAN.\
 I AM ONE MAN...
+// Cue 3 3
+// 1: Queen
+// 2: Fred
+// 3: Knights, Ladies LEFT
+// 4: Knights, Ladies RIGHT
 
 #d3[] #d4[KNIGHTS & LADIES]
 THE LADY IS ONE MAN...
 
 #d2[] #d3[] #d4[ALL]
-SHY!
+SHY! #cue[3 4]
+// Cue 3 4
+// 1: Queen
+// 2: Fred
+// 3: 1st Knight
+// 4: Daunt
 
 #d1[QUEEN]
 You swam the moat?
@@ -944,18 +954,18 @@ the royal blood, and am I to actually understand that you have the
 nerve and the gall and the presumption to apply for my son’s hand
 in marriage...
 
-#d5[DAUNTLESS]
+#d4[DAUNTLESS]
 Mama, may I say something?
 
 #d1[QUEEN]
-#cue[3 3] No! ...Do you imagine for one moment that I would even
+#cue[3 5] No! ...Do you imagine for one moment that I would even
 consider you suitable for any son of mine? You are laboring under a
 very unfortunate misapprehension, my dear; my son isn’t going to
 marry any moat-swimmer; not while I have breath in my body.
 And I haven’t been well, not well at all... I get these shooting
 pains all in through here. And don’t try to tell me it’s the vapours. I
 know what the vapours are---I've had the vapours.
-// Cue 3 3
+// Cue 3 5
 // 1: Queen
 // 2: Wizard
 // 3: Winni
@@ -993,14 +1003,14 @@ Well, glad to have met you.
 No, please don’t go. I like you. Everybody does. Well, almost everybody.
 
 #d3[WIINNIFRED]
-#cue[3 4] Dauntless, I'd like to stay here, but I wouldn’t want to come
+#cue[3 6] Dauntless, I'd like to stay here, but I wouldn’t want to come
 between you and your mother. So, I guess I'll just face the facts,
 cut my losses, and head back to the swamps.
-// Cue 3 4
+// Cue 3 6
 // 1: Queen
 // 2: Harry
 // 3: Winni
-// 4: Studley, knight 2
+// 4: Studley, Knight 2
 // 5: Daunt
 
 #d5[DAUNTLESS]
@@ -1050,8 +1060,8 @@ I don’t need any help!
 Can I marry her, Mama, can I?
 
 #d1[QUEEN]
-#cue[3 5] Marry her? Of course not. When you marry---if you marry---you'll marry a real princess, you'll...
-// Cue 3 5
+#cue[3 7] Marry her? Of course not. When you marry---if you marry---you'll marry a real princess, you'll...
+// Cue 3 7
 // 1: Queen
 // 2: Harry
 // 3: Wizard
@@ -1108,13 +1118,13 @@ You see, she is a Princess.
 At least a test! Mama, for me. Please!
 
 #d1[QUEEN]
-#cue[3 6] All right, we'll test her. The Wizard and I will put on our thinking--caps...and make up a nice fair
+#cue[3 8] All right, we'll test her. The Wizard and I will put on our thinking--caps...and make up a nice fair
 test just as we always do and I'll prove to you that this girl cannot possibly be a princess.
-// Cue 3 6
+// Cue 3 8
 // 1: Queen
-// 2: Knight 1, Knight 2
+// 2: Knight 1, Knight 2 LEFT
 // 3: Wizard
-// 4: Winni
+// 4: Winni LEFT
 
 #d2[1ST KNIGHT]
 Get her by the leg!
@@ -1132,9 +1142,9 @@ We'll test her for...
 That’s not my leg!
 
 #d1[QUEEN]
-#cue[3 7] How crude! We'll test her for sensitivity! She’ll have her test and she’ll fail just like all the
+#cue[3 9] How crude! We'll test her for sensitivity! She’ll have her test and she’ll fail just like all the
 others... fair and square.
-// Cue 3 7
+// Cue 3 9
 // 1: Queen
 // 2: Rowena
 // 4: Winni
@@ -1156,8 +1166,8 @@ What kind of test?
 It's always highly secret.
 
 #d4[WINNIERED]
-#cue[3 8] Well, we'll worry about that later. Right now, I'd better get out of these wet clothes.
-// Cue 3 8
+#cue[3 10] Well, we'll worry about that later. Right now, I'd better get out of these wet clothes.
+// Cue 3 10
 // 1: Larken
 // 2: King
 // 3: Jester
@@ -1206,8 +1216,8 @@ Lady--in--Waiting. Sir Harry arranged it. Isn't he thoughtful? He arranges every
 #d2[KING]
 (Agrees)
 
-#cue[3 9]
-// Cue 3 9
+#cue[3 11]
+// Cue 3 11
 // 1: Minstrel
 // 2: King
 // 3: Jester
@@ -1371,8 +1381,6 @@ Don’t worry, we can keep a secret! The question is... can you?
 
 #d1[MINSTREL]
 We know you can't talk...\
-(GIRL crosses; KING starts after her
-but is pulled back by MINSTREL. Music in)\
 You can’t talk but you manage to communicate.
 
 #d2[KING]
@@ -1486,7 +1494,13 @@ Well, her papers seem to be in order.
 #d1[QUEEN]
 I know, and the worst of it is that foolish boy actually seems to
 like the girl, so we must think of a test that looks fair, and sounds
-fair, and seems fair, and isn't fair. When you got the idea of testing
+fair, and seems fair, and isn't fair.
+
+#d1[] #d2[QUEEN, WIZARD]
+(laugh)
+
+#d1[QUEEN]
+When you got the idea of testing
 her for sensitivity I could have applauded right out loud. But exactly what?
 
 #d2[WIZARD]
@@ -1503,8 +1517,13 @@ I'M JUST LOADED WITH THAT!\
 IN THIS ONE WORD IS\
 THE EPITOME OF THE ARISTOCRAT.\
 SENSITIVE SOUL AND SENSITIVE STOMACH,\
-SENSITIVE HANDS AND FEET.\
-THIS IS THE BLESSING, ALSO THE CURSE\
+SENSITIVE HANDS AND FEET.
+
+#d2[WIZARD]
+THIS IS THE BLESSING
+
+#d1[QUEEN]
+ALSO THE CURSE\
 OF BEING THE TRUE ELITE.\
 COMMON PEOPLE DON'T KNOW WHAT\
 EXQUISITE AGONY IS\
@@ -1737,19 +1756,25 @@ ARE THICKER THAN BLOOD!\
 #d4[DAUNTLESS]
 BLUH-UH-UD
 
-#d1[WINNIFRED]
-WHERE E’ER I ROAM\
-MY HEART GROWS DANK AND COLD.\
-MY FACE GROWS GREY---\
-WHEN SHADOWS FALL AND I HEAR THE CALL\
-OF THE SWAMPS OF HOME.\
-I HEAR IT CALLING ME NOW, CALLING ME BACK\
-CALLING ME: “WINNIFRED! WINNIFRED! WINNIFRED! WINNIFRED!\
-WHO DO YOU THINK YOU ARE?\
-GIRL OF THE SWAMPS, YOU'VE GONE TOO FAR.\
-MAID OF THE MARSHLAND, GIVE UP THE STRUGGLE!\
-LISTEN TO THE VOICE OF THE SWAMP:\
-GLUGGLE UGGLE UGGLE!"
+#box([
+  *EXTRA REVERB ON*
+
+  #d1[WINNIFRED]
+  WHERE E’ER I ROAM\
+  MY HEART GROWS DANK AND COLD.\
+  MY FACE GROWS GREY---\
+  WHEN SHADOWS FALL AND I HEAR THE CALL\
+  OF THE SWAMPS OF HOME.\
+  I HEAR IT CALLING ME NOW, CALLING ME BACK\
+  CALLING ME: “WINNIFRED! WINNIFRED! WINNIFRED! WINNIFRED!\
+  WHO DO YOU THINK YOU ARE?\
+  GIRL OF THE SWAMPS, YOU'VE GONE TOO FAR.\
+  MAID OF THE MARSHLAND, GIVE UP THE STRUGGLE!\
+  LISTEN TO THE VOICE OF THE SWAMP:\
+  GLUGGLE UGGLE UGGLE!"
+
+  *EXTRA REVERB OFF*
+])
 
 #d2[] #d3[LADIES]
 "GLUGGLE UGGLE UGGLE!"
@@ -1813,7 +1838,6 @@ lovely work, don’t you think? Notice the fullness in the back. And
 the window sleeves cut right down to the---it’s really you---It
 looks marvelous on. Don’t you think so, Lady R?
 
-// TODO: Who is Lady H?
 #d5[LADY R]
 Stunning!
 
@@ -1824,7 +1848,7 @@ Perhaps Her Highness would like to look in the mirror?
 Does Her Highness have a favorite color?
 
 #d1[WINNIFRED]
-#cue[5 4]Well, back home we wear a lot of dark green and earth
+#cue[5 4] Well, back home we wear a lot of dark green and earth
 brown. But I guess my own dress there is my favorite color---
 Huckleberry. I tell you what---leave them all and the ones I can’t
 use I'll send back.
@@ -1851,7 +1875,7 @@ Yes, I...
 
 #d2[LARKEN]
 Well, remember! We're all here to do a job and your job is just
-as important as anyone else’s. "Oh dear, sweet, fovely Princess Winnifred,
+as important as anyone else’s. "Oh dear, sweet, lovely Princess Winnifred,
 you will pass the Queen’s test, you will!" ---Gramercy, my dear,
 you can’t possibly clean the floor with such a tiny patch--- Here, what's this?
 
@@ -2229,7 +2253,13 @@ Quicksand?
 (Sinks)
 
 == Music 12: NORMANDY
-// TODO: Do we want to pan 1/3 here?
+
+#cue[7 2]
+// Cue 7 2
+// 1: Minstrel LEFT
+// 2: King
+// 3: Jester RIGHT
+// 4: Larken
 
 #d1[MINSTREL]
 Beyond the...\
@@ -2679,6 +2709,10 @@ HE'S IN LOVE WITH A GIRL...
 // 1: Queen
 // 2: Lady
 // 3: All
+// 4: Larken
+
+#d4[LARKEN]
+(sneeze)
 
 #d1[QUEEN]
 QUIET!
@@ -2691,33 +2725,31 @@ AND SHE’S THREATENED EXECUTION\
 IF WE DISTURB THE REST\
 OF HER VERY SPECIAL GUEST.
 
-// TODO: Who are these groups?
-// Note: they continue singing
-#d3[1ST GROUP]
+#d3[CHORUS]
 SHE’S ORDERED QUIET, QUIET\
 THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
-#d3[(ADD) 2ND GROUP]
+#d3[CHORUS]
 QUIET! QUIET!\
 THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
-#d3[(ADD) 3RD GROUP]
+#d3[CHORUS]
 QUIET! QUIET!\
 THE QUEEN INSISTS ON\
 QUIET (ETC.)
 
 #tpp[41]
 
-#d3[(ADD) 4TH GROUP]
+#d3[CHORUS]
 QUIET! QUIET!\
 QUIET (ETC.)
 
 #d1[QUEEN]
 PLEASE!
 
-#d3[ALL]
+#d3[CHORUS]
 SHHHHHHHHHHH!
 
 #d1[QUEEN]
@@ -3557,7 +3589,7 @@ I don’t know.
 #d1[STUDLEY]
 I think the clown is losing his touch.
 
-== Music 19: YERY SOFT SHOES
+== Music 19: VERY SOFT SHOES
 
 #d3[JESTER]
 I AM FAR FROM SENTIMENTAL OR ROMANTIC\
@@ -3591,7 +3623,8 @@ THAT WHEN HE TOOK HIS BOW\
 TO THE CROWD AND THE CROWN\
 THE CROWD WENT CRAZY AND THE HOUSE CAME DOWN\
 WHEN DADDY WORE HIS\
-VERY SOFT SHOES!
+VERY SOFT SHOES!\
+(repeat last verse)
 
 #cue[6 1]
 // Cue 6 1
@@ -3618,10 +3651,7 @@ can’t love anyone but you and I want to be near you if I can... as long as I c
 don’t blame you if you've changed.
 
 #d1[HARRY]
-Well, in a way I have. #cue[6 2]
-// Cue 6 2
-// 1: Harry LEFT
-// 2: Larken RIGHT
+Well, in a way I have.
 
 #tpp[55]
 
@@ -3655,10 +3685,13 @@ AS I WILL TOMORROW MORNING!
 #d1[HARRY]
 YESTERDAY YOU SEEMED AS LOVELY TO ME\
 AS ANYONE EVER COULD BE.\
-NOW I'SEE WHAT TRICKS MY EYES CAN PLAY!\
+NOW I SEE WHAT TRICKS MY EYES CAN PLAY!\
 YESTERDAY I MUST HAVE BEEN UTTERLY BLIND,\
 OR ELSE I WAS OUT OF MY MIND —\
-FOR I FIND YOU SO MUCH LOVELIER TODAY.
+FOR I FIND YOU SO MUCH LOVELIER TODAY. #cue[6 2]
+// Cue 6 2
+// 1: Harry RIGHT
+// 2: Larken LEFT
 
 #box(stack(
   dir: ltr,
@@ -3678,10 +3711,10 @@ FOR I FIND YOU SO MUCH LOVELIER TODAY.
   ],
   box(width: 50%)[
     #d1[HARRY]
-    FOR YESTERDAY I LOVED YOU
-    AS NEVER BEFORE.
-    BUT THAT WAS LONG AGO,
-    AND NOW IT’S BEST YOU KNOW
+    FOR YESTERDAY I LOVED YOU\
+    AS NEVER BEFORE.\
+    BUT THAT WAS LONG AGO,\
+    AND NOW IT’S BEST YOU KNOW\
     THAT TODAY I LOVE YOU EVEN MORE.
   ]
 ))
@@ -3860,7 +3893,7 @@ Oh, Fred...
 // Cue 9 1
 // 1: Queen
 // 2: Rowena
-// 3: Others
+// 3: Others (whole rest of cast)
 // 4: Studley
 
 = Scene 9
@@ -3875,7 +3908,6 @@ Shh-hush, quiet.
 I can’t help it. I'm so nervous I could die.\
 Absolutely die. (Hysterical giggle)
 
-// TODO: Who is?
 #d3[OTHERS]
 Shhh!
 
@@ -4003,8 +4035,9 @@ Mama, quiet!
 I mean look at her: she may have pased the test, but I must say I've never trusted anyone who had
 those shifty eyes or that mean little mouth or...
 
+*EXTRA REVERB*\
 #d2[DAUNTLESS]
-1 told you to SHUT UP!!
+I told you to *SHUT UP*!!
 
 #d3[JESTER]
 It happened... it happened: The Prophecy! "The mouse devoured the hawk..."
