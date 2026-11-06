@@ -6,7 +6,7 @@
 #tpp[1]
 = ACT ONE
 
-// SFX: pre-show announcement
+#cue[SFX: pre-show announcement]
 
 == Music 1: OVERTURE
 
@@ -1075,8 +1075,8 @@ Can I marry her, Mama, can I?
 == Music 6a: FANFARE
 
 #d2[HARRY]
-I have the honor to announce the arrival of Her Royal Highness, the Princess Winnifred.
-// TODO: might repeat line for comedic effect
+I have the honor to announce the arrival of Her Royal Highness, the Princess Winnifred.\
+(maybe) I have the honor to announce the arrival of Her Royal Highness, the Princess Winnifred.\
 
 #d1[QUEEN]
 You're a little late. She’s been here and gone.
@@ -1770,7 +1770,7 @@ BLUH-UH-UD
   MY FACE GROWS GREY---\
   WHEN SHADOWS FALL AND I HEAR THE CALL\
   OF THE SWAMPS OF HOME.\
-  // TODO: SFX wind
+  #cue[SFX: wind] // TODO
   I HEAR IT CALLING ME NOW, CALLING ME BACK\
   CALLING ME: “WINNIFRED! WINNIFRED! WINNIFRED! WINNIFRED!\
   WHO DO YOU THINK YOU ARE?\
@@ -1797,7 +1797,8 @@ AND WILL NE'ER BE FORGOTTEN,\
 THOUGH I SEARCH FAR AND WIDE---\
 THERE IS NO LAND AS ROTTEN---
 
-// TODO: SFX wind again?
+#cue[SFX: wind]
+
 #d2[] #d3[LADIES]
 ROTTEN ROTTEN ROTTEN ROTTEN ROTTEN ROTTEN
 ROTTEN ROTTEN ROTTEN---
@@ -1866,8 +1867,8 @@ use I'll send back.
 // 4: Lucille
 
 #d4[LADY LUCILLE]
-Very good, Your Highness. Lady M. Lady R.
-// SFX bell
+Very good, Your Highness. Lady M. Lady R.\
+#cue[SFX: bell]
 
 #tpp[27]
 
@@ -2027,7 +2028,7 @@ skirts, open, close, right, right, right. It's like the Magic Step only forwards
 Now, try it. Flip your skirts, open, close, right, right, WRONG!!! Doesn’t anyone here know the
 Spanish Panic?
 
-// TODO: Justin T, Mimi E
+// Justin T, Mimi E
 #d2[HAROLD & BEATRICE]
 Yes, Your Majesty.
 
@@ -2081,7 +2082,7 @@ All right, Your Majesty, I'll help you.
 #d1[MINSTREL]
 Has he ever had any success?
 
-// TODO: SFX ambient noise, fireflies
+#cue[SFX: ambient, fireflies] // TODO
 
 #d3[JESTER]
 Well...
@@ -2262,7 +2263,7 @@ Quicksand?
 #d2[KING]
 (Sinks)
 
-// TODO: end ambient sfx
+#cue[SFX: end ambient] // TODO
 
 == Music 12: NORMANDY
 
@@ -2462,7 +2463,7 @@ Uh... "tray bienne."
 #d3[STUDLEY]
 After the Ball, we'll have a little party on the West Parapet... Don’t forget to bring the wine.
 
-// TODO: Riley
+// Riley
 #d3[LUCE'S LADY]
 ...and something to spread on the ground.
 
@@ -2718,15 +2719,15 @@ HE'S IN LOVE WITH A GIRL...
 
 == Music 16: OPENING - ACT II
 
-
-// TODO: during coreography with King/Jester/Larken, SFX chimes up to 4x before Larken's sneeze
-
 #cue[1 1]
 // Cue 1 1
 // 1: Queen
-// 2: Lady
+// 2: Lady (Cassidy, Jade, Katie)
 // 3: All
 // 4: Larken
+
+// Ends on Larken sneeze TODO insert this note propperly
+#cue[1x-4x SFX: chimes] // TODO
 
 #d4[LARKEN]
 (sneeze)
@@ -2772,7 +2773,7 @@ SHHHHHHHHHHH!
 #d1[QUEEN]
 Sheets!
 
-// TODO: Cassidy
+// Cassidy
 #d2[LADY]
 Right.
 
@@ -2787,27 +2788,26 @@ Right.
 #d1[QUEEN]
 Pillows!
 
-// TODO: Jade
+// Jade
 #d2[LADY]
 Right.
 
 #d1[QUEEN]
 Blankets!
 
-// TODO: Katie
+// Katie
 #d2[LADY]
 Right.
 
 #d1[QUEEN]
 Mattresses.
 
-// TODO: Finn, Alex, Brandon, Juston
-// all male ensemble on stage + Wizard
+// Finn, Alex, Brandon, Justin, Wizard
 #d3[MEN]
 Right. Right. Right.
 
-// TODO: all on stage
-#d4[CHORUS]
+// All on stage
+#d2[] #d3[] #d4[CHORUS]
 "Bravo, bravo, bravissimo!" "Show us how, Jester." "Go, go!"
 
 #d5[JESTER]
@@ -2974,7 +2974,7 @@ of you, listen closely. There is a little girl upstairs who is dog-tired.
 // 2: Lady
 // 3: Ens
 
-// TODO: Katie
+// Katie
 #d2[LADY]
 Oh, no. She said she was going to study for her test.
 
@@ -2984,14 +2984,13 @@ get a good rest so I want quiet around here. Is that clear? I want
 quiet and I'm going to get quiet if I have to scream the palace
 down---
 
-// TODO: Katie
+// Katie
 #d2[LADY]
 (giggles)
 
 #d1[QUEEN]
 QUIET!
 
-// TODO: Who is on stage here?
 #d3[ENSEMBLE]
 QUIET!\
 THE QUEEN INSISTS ON QUIET!\
@@ -3231,11 +3230,7 @@ FOR I KNOW THAT I'LL NEVER LIVE HAPPILY EVER AFTER\
 
 THEN I'LL BE HAPPILY HAPPY!\
 YES, HAPPILY HAPPY!\
-AND THOROUGHLY SATISFIED!
-
-// TODO: note- this scene goes directly into the next scene on the other side of the stage, no blackout
-
-#cue[3 1]
+AND THOROUGHLY SATISFIED! #cue[3 1]
 // Cue 3 1
 // 1: Minstrel
 // 2: Harry
@@ -3429,7 +3424,7 @@ AND FATHER, I LOVE YOU SO!
 
 = Scene 4
 
-// TODO: SFX bubble sounds for wizard’s cauldron ?
+#cue[SFX: wizard cauldron bubble] // TODO
 
 #d3[JESTER]
 Pardon, Sir Wizard.
@@ -3583,7 +3578,7 @@ I'll be waiting.
 #cue[5 1]
 // Cue 5 1
 // 1: Studley
-// 2: Girl
+// 2: Girl/Lady
 // 3: Jester
 // 4: Lady
 
@@ -3601,15 +3596,15 @@ Say something funny.
 #d3[JESTER]
 Have you ever heard of my father, Sliding Peter Jingle? 
 
-// TODO: Mimi
+// Mimi
 #d2[GIRL]
 (laughs wildly)
 
 #d1[STUDLEY]
 Is that funny?
 
-// TODO: also Mimi
-#d4[LADY]
+// also Mimi
+#d2[LADY]
 I don’t know.
 
 #d1[STUDLEY]
@@ -3752,9 +3747,8 @@ MY HEART CANNOT BE TRUSTED.\
 I GIVE YOU FAIR WARNING —\
 I OPENLY CONFESS—\
 TONIGHT I LOVE YOU LESS\
-THAN I WILL TOMORROW MORNING.
-
-// TODO: note- harry & larken kiss
+THAN I WILL TOMORROW MORNING.\
+(kiss)
 
 #cue[7 1]
 // Cue 7 1
@@ -3771,14 +3765,12 @@ Seventeen, eighteen, nineteen, twenty. That should do it. And one small pea... t
 all the way up from the pantry. All the way up the most killing stairs in the kingdom... There...
 All right, you can come in now. Did you bring everything? The hypnotic mirror?
 
-// TODO: Mimi
 #d2[1ST LADY]
 Yes, Madame.
 
 #d1[QUEEN]
 And the rest of the things?
 
-// TODO: Kelly, Charlotte
 #d3[2ND & 3RD LADIES]
 Yes, Madame.
 
@@ -3822,7 +3814,7 @@ for myself. And just to make sure you have no trouble drifting off, I've prepare
 Bring on the Nightingale of Samarkand. Who has the Nightingale of Samarkand?\
 Naturally, I have to do everything myself. All right, sing! 
 
-// TODO: Cassidy
+// Cassidy
 #d5[BIRD]
 (piercing shriek)
 
@@ -3931,7 +3923,7 @@ Oh, Fred...
 #d2[LADY ROWENA]
 (Hysterical giggle quickly smothered)
 
-// TODO: Kelly, Charlotte only
+// Kelly, Charlotte only
 #d3[OTHERS]
 Shh-hush, quiet.
 
@@ -3939,7 +3931,6 @@ Shh-hush, quiet.
 I can’t help it. I'm so nervous I could die.\
 Absolutely die. (Hysterical giggle)
 
-// TODO: same 2
 #d3[OTHERS]
 Shhh!
 
