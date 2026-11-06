@@ -6,6 +6,8 @@
 #tpp[1]
 = ACT ONE
 
+// SFX: pre-show announcement
+
 == Music 1: OVERTURE
 
 == Music 2: PROLOGUE — MANY MOONS AGO
@@ -547,6 +549,8 @@ DOWN TO EV'RY SMALL DETAIL —\
 SO I WISH YOU'D LOOK AROUND\
 UNTIL YOU'VE FOUND\
 A CASTLE IN THE NEIGHBORHOOD FOR SALE. #cue[2 1]
+// TODO: lady larken gives a kiss
+
 // Cue 2 1
 // 1: Queen
 // 2: Daunt
@@ -1024,7 +1028,7 @@ You swam the moat!
 
 #d3[WINNIFRED]
 Dauntless: I know I swam the moat, but that's not the real me. I'm not like that. Actually...
-I'm...shyyyyy...(splash)
+I'm...shyyyyy...(splash) // SFX
 
 #d4[STUDLEY]
 She’s in the moat again!
@@ -1072,6 +1076,7 @@ Can I marry her, Mama, can I?
 
 #d2[HARRY]
 I have the honor to announce the arrival of Her Royal Highness, the Princess Winnifred.
+// TODO: might repeat line for comedic effect
 
 #d1[QUEEN]
 You're a little late. She’s been here and gone.
@@ -1765,6 +1770,7 @@ BLUH-UH-UD
   MY FACE GROWS GREY---\
   WHEN SHADOWS FALL AND I HEAR THE CALL\
   OF THE SWAMPS OF HOME.\
+  // TODO: SFX wind
   I HEAR IT CALLING ME NOW, CALLING ME BACK\
   CALLING ME: “WINNIFRED! WINNIFRED! WINNIFRED! WINNIFRED!\
   WHO DO YOU THINK YOU ARE?\
@@ -1791,6 +1797,7 @@ AND WILL NE'ER BE FORGOTTEN,\
 THOUGH I SEARCH FAR AND WIDE---\
 THERE IS NO LAND AS ROTTEN---
 
+// TODO: SFX wind again?
 #d2[] #d3[LADIES]
 ROTTEN ROTTEN ROTTEN ROTTEN ROTTEN ROTTEN
 ROTTEN ROTTEN ROTTEN---
@@ -1860,6 +1867,7 @@ use I'll send back.
 
 #d4[LADY LUCILLE]
 Very good, Your Highness. Lady M. Lady R.
+// SFX bell
 
 #tpp[27]
 
@@ -2019,7 +2027,7 @@ skirts, open, close, right, right, right. It's like the Magic Step only forwards
 Now, try it. Flip your skirts, open, close, right, right, WRONG!!! Doesn’t anyone here know the
 Spanish Panic?
 
-// TODO: who?
+// TODO: Justin T, Mimi E
 #d2[HAROLD & BEATRICE]
 Yes, Your Majesty.
 
@@ -2072,6 +2080,8 @@ All right, Your Majesty, I'll help you.
 
 #d1[MINSTREL]
 Has he ever had any success?
+
+// TODO: SFX ambient noise, fireflies
 
 #d3[JESTER]
 Well...
@@ -2251,6 +2261,8 @@ Quicksand?
 
 #d2[KING]
 (Sinks)
+
+// TODO: end ambient sfx
 
 == Music 12: NORMANDY
 
@@ -2450,7 +2462,7 @@ Uh... "tray bienne."
 #d3[STUDLEY]
 After the Ball, we'll have a little party on the West Parapet... Don’t forget to bring the wine.
 
-// TODO: Who is this
+// TODO: Riley
 #d3[LUCE'S LADY]
 ...and something to spread on the ground.
 
@@ -2694,6 +2706,8 @@ HE'S IN LOVE WITH A GIRL...
 #d3[] #d4[EVERYONE]
 ...NAMED "F" "R" "E" "D", FRED!
 
+// ends right after curtain closes
+
 = END OF ACT ONE
 
 #tpp[40]
@@ -2703,6 +2717,9 @@ HE'S IN LOVE WITH A GIRL...
 == Music 15: ENTR’ACTE
 
 == Music 16: OPENING - ACT II
+
+
+// TODO: during coreography with King/Jester/Larken, SFX chimes up to 4x before Larken's sneeze
 
 #cue[1 1]
 // Cue 1 1
@@ -2755,7 +2772,7 @@ SHHHHHHHHHHH!
 #d1[QUEEN]
 Sheets!
 
-// TODO: Who?
+// TODO: Cassidy
 #d2[LADY]
 Right.
 
@@ -2770,23 +2787,26 @@ Right.
 #d1[QUEEN]
 Pillows!
 
+// TODO: Jade
 #d2[LADY]
 Right.
 
 #d1[QUEEN]
 Blankets!
 
+// TODO: Katie
 #d2[LADY]
 Right.
 
 #d1[QUEEN]
 Mattresses.
 
-// TODO: Who?
+// TODO: Finn, Alex, Brandon, Juston
+// all male ensemble on stage + Wizard
 #d3[MEN]
 Right. Right. Right.
 
-// TODO: Who?
+// TODO: all on stage
 #d4[CHORUS]
 "Bravo, bravo, bravissimo!" "Show us how, Jester." "Go, go!"
 
@@ -2954,7 +2974,7 @@ of you, listen closely. There is a little girl upstairs who is dog-tired.
 // 2: Lady
 // 3: Ens
 
-// TODO: Who?
+// TODO: Katie
 #d2[LADY]
 Oh, no. She said she was going to study for her test.
 
@@ -2964,6 +2984,7 @@ get a good rest so I want quiet around here. Is that clear? I want
 quiet and I'm going to get quiet if I have to scream the palace
 down---
 
+// TODO: Katie
 #d2[LADY]
 (giggles)
 
@@ -3212,6 +3233,8 @@ THEN I'LL BE HAPPILY HAPPY!\
 YES, HAPPILY HAPPY!\
 AND THOROUGHLY SATISFIED!
 
+// TODO: note- this scene goes directly into the next scene on the other side of the stage, no blackout
+
 #cue[3 1]
 // Cue 3 1
 // 1: Minstrel
@@ -3406,6 +3429,8 @@ AND FATHER, I LOVE YOU SO!
 
 = Scene 4
 
+// TODO: SFX bubble sounds for wizard’s cauldron ?
+
 #d3[JESTER]
 Pardon, Sir Wizard.
 
@@ -3576,13 +3601,14 @@ Say something funny.
 #d3[JESTER]
 Have you ever heard of my father, Sliding Peter Jingle? 
 
-// TODO: who?
+// TODO: Mimi
 #d2[GIRL]
 (laughs wildly)
 
 #d1[STUDLEY]
 Is that funny?
 
+// TODO: also Mimi
 #d4[LADY]
 I don’t know.
 
@@ -3728,11 +3754,13 @@ I OPENLY CONFESS—\
 TONIGHT I LOVE YOU LESS\
 THAN I WILL TOMORROW MORNING.
 
+// TODO: note- harry & larken kiss
+
 #cue[7 1]
 // Cue 7 1
 // 1: Queen
-// 2: 1st Lady
-// 3: 2nd and 3rd Lady
+// 2: 1st Lady (Mimi)
+// 3: 2nd (Kelly) and 3rd Lady (Charlotte)
 // 4: Fred
 // 5: Bird
 
@@ -3743,12 +3771,14 @@ Seventeen, eighteen, nineteen, twenty. That should do it. And one small pea... t
 all the way up from the pantry. All the way up the most killing stairs in the kingdom... There...
 All right, you can come in now. Did you bring everything? The hypnotic mirror?
 
+// TODO: Mimi
 #d2[1ST LADY]
 Yes, Madame.
 
 #d1[QUEEN]
 And the rest of the things?
 
+// TODO: Kelly, Charlotte
 #d3[2ND & 3RD LADIES]
 Yes, Madame.
 
@@ -3792,7 +3822,7 @@ for myself. And just to make sure you have no trouble drifting off, I've prepare
 Bring on the Nightingale of Samarkand. Who has the Nightingale of Samarkand?\
 Naturally, I have to do everything myself. All right, sing! 
 
-// TODO: Who?
+// TODO: Cassidy
 #d5[BIRD]
 (piercing shriek)
 
@@ -3893,7 +3923,7 @@ Oh, Fred...
 // Cue 9 1
 // 1: Queen
 // 2: Rowena
-// 3: Others (whole rest of cast)
+// 3: Others (Kelly, Charlotte)
 // 4: Studley
 
 = Scene 9
@@ -3901,6 +3931,7 @@ Oh, Fred...
 #d2[LADY ROWENA]
 (Hysterical giggle quickly smothered)
 
+// TODO: Kelly, Charlotte only
 #d3[OTHERS]
 Shh-hush, quiet.
 
@@ -3908,6 +3939,7 @@ Shh-hush, quiet.
 I can’t help it. I'm so nervous I could die.\
 Absolutely die. (Hysterical giggle)
 
+// TODO: same 2
 #d3[OTHERS]
 Shhh!
 
