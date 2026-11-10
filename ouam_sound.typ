@@ -554,8 +554,8 @@ A CASTLE IN THE NEIGHBORHOOD FOR SALE. #cue[2 1]
 // Cue 2 1
 // 1: Queen
 // 2: Daunt
-// 3: Larken LEFT
-// 4: Harry RIGHT
+// 3: Larken
+// 4: Harry
 
 = Scene 2
 
@@ -626,8 +626,9 @@ partnership and I wouldn’t want to see my little boy make the
 same mistake I did and wind up miserable the way I did. You are a
 prince and you must marry someone suitable, someone who's
 good enough and smart enough, and fine enough for my good,
-nice, sweet, beautiful baby boy. And of course she has to be a
-princess. I mean a real princess. That's one thing I absolutely insist
+nice, sweet, beautiful baby boy.\
+*And of course she has to be a
+princess.* I mean a real princess. That's one thing I absolutely insist
 upon. She has to be a real, genuine, bonafide princess just as I was.
 That’s what you really want, isn’t it? Someone like me? Of course
 you do! Oh, God! If I were only twenty years younger — Just
@@ -763,14 +764,18 @@ TO BE FOR---\
 EVER HAND IN GLOVE\
 IS THE WAY I HAVE IT PLANNED.\
 BUT I'LL ONLY STAY IN LOVE\
-IF THE GLOVE CONTAINS YOUR HAND.
+IF THE GLOVE CONTAINS YOUR HAND. #cue[2 2]
+// Cue 2 2
+// 1: Minstrel
+// 3: Larken LEFT
+// 4: Harry RIGHT
 
 #d3[] #d4[BOTH]
 IN A VELVET GOWN\
 I'LL (YOU'LL) BE COMING DOWN THE AISLE\
 AND IT'S BOUND TO SEEM AS THO’\
 THE WAITING’S ONLY BEEN A LITTLE,\
-IN A LITTLE WHILE. #cue[3 1]
+IN A LITTLE WHILE. #cue[3 1] _(fast)_
 // Cue 3 1
 // 1: Minstrel
 // 2: Winni
@@ -1130,6 +1135,8 @@ test just as we always do and I'll prove to you that this girl cannot possibly b
 // 2: Knight 1, Knight 2 LEFT
 // 3: Wizard
 // 4: Winni LEFT
+
+_lines out of order_
 
 #d2[1ST KNIGHT]
 Get her by the leg!
@@ -2024,8 +2031,8 @@ Saracen Brawl... No, not tiring enough. I have it! We can do that new dance. The
 Panic---it’s absolutely exhausting. Do you know it? Well, it’s the rage in Venice. Everybody,
 listen. There’s to be an Official Ball tonight and everyone is to attend. We're all going to do that
 new dance, The Spanish Panic, so you might as well learn it right now. The basic step is Flip your
-skirts, open, close, right, right, right. It's like the Magic Step only forwards. Just that easy.
-Now, try it. Flip your skirts, open, close, right, right, WRONG!!! Doesn’t anyone here know the
+skirts, open, close, right, right, right. It's like the Magic Step only forwards. Just that easy.\
+*Now, try it.* Flip your skirts, open, close, right, right, WRONG!!! Doesn’t anyone here know the
 Spanish Panic?
 
 // Justin T, Mimi E
@@ -2037,8 +2044,8 @@ Yes, Your Majesty.
 #d1[QUEEN]
 Well, thank heaven somebody is up-to-date around here. Why
 don’t we all watch while Court Dancers Sir Harold and Lady
-Beatrice demonstrate? Thank you, Sir Harold and Lady Beatrice! Now, was that
-hard? Suppose we all try it. Take partners, please! Prepare! Et! Don’t you just love it?
+Beatrice demonstrate?\ Thank you, Sir Harold and Lady Beatrice! Now, was that
+hard? Suppose we all try it. Take partners, please! Prepare! Et!\ Don’t you just love it?
 Doesn't it make you want to fly? WHEEEEEEEE!
 
 #d3[WIZARD]
@@ -2490,8 +2497,8 @@ Et!
 = Scene 9
 
 #d1[QUEEN]
-Come along now! Keep it Venetian. Isn’t this fun?  Move along now! That's right. Faster! Now slower! That's
-beautiful. Oh, Jester! (shrieks)\
+Come along now!\ Keep it Venetian.\ Isn’t this fun?\ Move along now! That's right.\ Faster!\ Now slower!\ That's
+beautiful.\ Oh, Jester! (shrieks)\ (other lines)\
 Are you feeling a little weary, dear?
 
 #d2[WINNIFRED]
@@ -2532,7 +2539,7 @@ For instance, one of the girls was supposed to lift this weight. She couldn't. I
 it... But I know you'll pass; you don’t have to worry.
 
 #d2[WINNIERED]
-Do you want me to pass? I'll pass.
+Do you want me to pass? I'll pass. (grunt)
 
 #d3[DAUNTLESS]
 Hey, I think you're wonderful.
